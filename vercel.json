@@ -1,9 +1,0 @@
-{
-    "build": {
-      "env": {
-        "BUILD_ENV": "production"
-      },
-      "command": "npx docusaurus start"
-    }
-  }
-  
