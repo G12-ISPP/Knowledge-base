@@ -16,13 +16,6 @@ function HomepageHeader() {
           ISPP-G12 Knowledge Base
         </Heading>
         <p className="hero__subtitle">Herramienta de gestión del conocimiento para la asignatura</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
       </div>
     </header>
   );

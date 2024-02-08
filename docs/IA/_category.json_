@@ -1,0 +1,8 @@
+{
+    "label": "Prompts IA",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Listado de prompts generados por IA"
+    }
+  }
