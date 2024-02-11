@@ -4,14 +4,14 @@ sidebar_position: 1
 
 Aquí pondremos el feedback de la sesión de presentaciones del 6 de febrero de 2024
 
-GRUPO 7 
+**GRUPO 7**
 + El emparejamiento es demasiado forzado no deberían haberlo metido al trabajar con ONGs.
 + El objetivo debería ser  hacer una aplicación útil y usable que no dejen de usar. Se debe invertir tiempo en un desarrollo híbrido, adaptando herramientas ya existentes (no siempre hay que desarrollar desde 0).
 + Coste de puesta en marcha vs TCO (Analizar si deben dejar desplegado la aplicación y eso les cuesta dinero)
 + Las estructuras muy jerárquicas hay que reasignarlas a lo largo del curso.
 Se deben guardar los enlaces de las conversaciones con las IA.
 
-APARKING
+**APARKING**
 + Cual es el propósito de la aplicación no ha quedado claro (mandar un mensaje claro)
 + Lo más relevante es explicar qué aporta nuestra aplicación
 + Los roles de trabajo deben quedar clarinete
@@ -21,7 +21,7 @@ APARKING
 + Mostrar un reloj del proyecto, 150 horas cada uno, el esfuerzo que se hace cada semana.
 + La base de conocimientos es más que una carpeta de google drive.
 
-CUIDAME
+**CUIDAME**
 + WIkidot- base de conocimiento
 + Partir de una idea principal y de todo lo que hablemos que salga sobre esta.
 + Los casos core son los diferenciales, no el registro de usuarios.
@@ -30,25 +30,25 @@ CUIDAME
 + Tener claro porque nuestro producto es mejor.
 + Tener claro lo crítico y los elementos diferenciadores
 
-COCEMFE NGO
+**COCEMFE NGO**
 + Hacer un buen análisis de los competidores.
 + Buscar herramientas más profesionales para la comunicación de los equipos (slack).
 + Combatir los riesgos lo antes posible.
 + Hacer estadísticas sobre el uso de IA en nuestro trabajo no tan solo apuntar los hilos y para que.
 
-BANQUETBUDDY
+**BANQUETBUDDY**
 + Dejar claro los clientes potenciales y el alcance de la aplicación.
 + Dejar más claro las diferencias con los competidores.
 + Todos somos desarrolladores a parte de los demás roles que tomemos.
 + Desglosar bien todos los costes , TCO, coste de operación. Además de saber el coste de venta a los clientes.
 + Estudiar la viabilidad de la aplicación.
 
-MOD3L
+**MOD3L**
 + Tomar decisiones importantes nosotros no pedir consejo sobre este tipo de decisiones.
 + Tener tareas que no dependan del proyecto  como tal para poder sobrepasar un bloqueo.
 + Segmentar el mercado, buscando el mejor cliente.
 
-FEEDBACK FINAL DE LA CLASE
+## FEEDBACK FINAL DE LA CLASE
 
 En la base de conocimiento, utilizar etiquetas para localizar mejor la información.
  
@@ -78,7 +78,7 @@ Tooling support dashboard: transparencia donde se muestre un cuadro de mandos co
  
 Volumen de la base de conocimiento, ir describiéndolo.
 
-Para la semana que viene:
+## Para la semana que viene:
 
 + Refinar lo de esta semana.
 + Hablar de la idea clave de negocio.
