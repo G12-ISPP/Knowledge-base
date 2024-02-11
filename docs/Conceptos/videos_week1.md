@@ -72,10 +72,10 @@ Pruebas de software| |A|I|R|R|
 Implantación|A| |R|I|I|
 Pruebas de aceptación |A|R|I|I|I|
 
-Donde:<br>
-**R:** Persona responsable <br>
-**A:** Persona aseguradora <br>
-**C:** Persona consultada <br>
+Donde:<br></br>
+**R:** Persona responsable <br></br>
+**A:** Persona aseguradora <br></br>
+**C:** Persona consultada <br></br>
 **I:** Persona informada
 
 
@@ -96,8 +96,7 @@ La cultura empresarial y el ambiente laboral se trabajadesde el reconocimiento d
 
 ### 7) PRODUCTIVIDAD:
 Se describe cómo se mide la productividad en el equipo, definiendo la siguiente ecuación:
-<h4 align="center">PRODUCTIVIDAD GRUPAL = Σ PRODUCTIVIDAD INDIVIDUAL - RUIDO
-</h4>
+<h4 align="center">PRODUCTIVIDAD GRUPAL = Σ PRODUCTIVIDAD INDIVIDUAL - RUIDO</h4>
 Es decir, la productividad grupal se define como la suma de las productividades individuales del equipo menos el ruido (horas muertas en las que se malgasta el timepo o no se es totalmente eficiente, por ejemlpo, reuniones sin conclusiones, revisión del correo electrónico e interrupciones como consultar el teléfono móvil...)
 
 ### 8) MARCO DE TRABAJO:
@@ -114,14 +113,14 @@ Estas técnicas nos beneficiarán en la medición de la productividad y no sobre
 ###  9) GAMIFICACIÓN:
 Es una técnica de aprendizaje que traslada la mecánica de los videojuegos al ámbito educativo-profesional con el fin de conseguir mejores resultados
 
-- **PIRÁMIDE DE MASLOW:**<br>
+- **PIRÁMIDE DE MASLOW:**<br></br>
 Se trata de una pirámide que jerarquiza la motivación humana en base a tipos de necesidades, desde la fisiológica a la autorrealización
 ![alt text](image.png)
 
-- **TEORÍA DEL APRENDIZAJE:**<br>
+- **TEORÍA DEL APRENDIZAJE:**<br></br>
 En esta sección se explica la necesidad de abordar un proyecto con la técnica de gamificación, se tratan temas como la curva de aprendizaje durante el uso de una aplicación, la necesidad de retarse de los usuarios y la motivación que les florece de forma intrínseca.
 
-- **TEORÍA DE LA AUTEDETERMINACIÓN:**<br>
+- **TEORÍA DE LA AUTEDETERMINACIÓN:**<br></br>
 Esta teoría conlleva un orden, no es solo una clasificación. Ejemplo: las redes sociales, que comenzaron perteneciendo al grupo de Amotivación y han acabado en el grupo de Integración debide al frecuente uso de ellas en la sociedad.
 ![alt text](image-1.png)
 
@@ -138,7 +137,7 @@ Esta teoría conlleva un orden, no es solo una clasificación. Ejemplo: las rede
 ### 11) GESTIÓN DE LAS COMUNICACIONES:
 En este apartado se especifica una ecuación para determinar los canales de comunicación que debería haber en el equipo:
 
-<img src="image-2.png" alt="ecuación" width="200" /><br>
+<img src="image-2.png" alt="ecuación" width="200" /><br></br>
 Donde:
 - C = número de canales
 - n = interesados del proyecto
