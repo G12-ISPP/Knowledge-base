@@ -1,6 +1,3 @@
----
-sidebar_position: 1
----
 
 # Conceptos de los vídeos de la semana 1 
 
