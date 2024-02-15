@@ -150,3 +150,158 @@ En este plan de gestión se da respuesta a las siguientes preguntas:
 
 
 ## Theory Pill on Analysis Competitors and Effective Presentations
+
+### 1) COMPETITOR ANALYSIS:
+- Proceso de identificar competidores en un mercado y evaluarlos según un conjunto de criterios de negocio predeterminados.
+
+- Objetivo: detectar debilidades de estas empresas o productos y así poder potenciar los nuestros.
+
+- Hecho correctamente, un análisis de competidores puede proveer datos para mejorar nuestras estrategias, decisiones de negocio, atención al cliente y la calidad de nuestros productos.
+
+#### Tipos de Competencia
+Suelen tener el mismo modelo de negocio, moverse en el mismo mercado, y tener la misma audiencia objetivo.
+
+- **A nivel de negocio**: Productos o servicios similares. Tamaño y comunidad parecidos.
+- **Aspiracional**: Grandes marcas que tienen una comunidad superior a la nuestra. Nuestro objetivo es llegar a ser como ellas.
+- **Palabras Clave**: No tienen porqué ofrecer el mismo servicio. Están dirigidos hacia la misma audiencia. Es la competencia en aspectos de marketing.
+
+#### Four Basic Steps
+El análisis de la competencia se realiza siguiendo 4 pasos:
+
+##### Identificación de la competencia
+    - Centrarse en competidores directos con la misma audiencia objetivo
+    - Se pueden detectar a través de:
+        - **Búsqueda de mercado**: mediante, por ejemplo, palabras claves
+        - **Feedback de los clientes**: Preguntar a clientes por sus otras opciones
+        - **Redes sociales**
+    - Herramientas para la identificación de competidores: **Semrush**
+    - Cuadrante de crecimiento: Ritmo al que los competidores se expanden en el mercado. 4 Tipos:
+        - **Empresas de nicho**: Nuevas o pequeñas empresas con poco tráfico y un bajo crecimiento.
+        - **Agentes de cambio**: Empresas emergentes que, a pesar de que todavía no tienen bastantes clientes, están teniendo un rápido crecimiento.
+        - **Líderes de mercado**: Empresas con gran audiencia y alto crecimiento.
+        - **Empresas establecidas**: Compañías con una gran audiencia ya consolidada
+    - Mapa de posicionamiento: Relación entre número de palabras clave comunes vs tráfico
+
+##### Investigar cada competidor en base a las 4P's
+    - **Product**:
+        - Identificar los más populares.
+        - Funcionalidades que ofrecen.
+        - Problemas que resuelven.
+        - Audiencia objetivo.
+    - **Pricing**:
+        - Comparar los planes de precio.
+        - Comprobar si regularmente tienen rebajas, descuentos u otros tipos de ofertas.
+    - **Place**: 
+        - Dónde compra su público los productos.
+        - Canales que emplean para llegar al público (Redes sociales).
+    - **Promotion**:
+        - Canales que tienen un mayor rendimiento.
+        - Tienen una marca definida?
+    
+    Herramientas para extraer información de empresas: 
+        - ahrefs
+        - similarweb
+        - metricool
+
+##### Construir perfiles de los competidores
+    - Clasificar y ordenar la información obtenida
+    - Objetivos:
+        - Comprender correctamente el mercado
+        - Identificar posibles debilidades y fortalezas
+        - Preveer posibles movimientos
+        - Comparar competidores entre sí
+    - Existen plantillas para realizar los perfiles
+
+##### Análisis DAFO
+    Identificar aquellos factores tanto internos como externos que pueden favorecernos o desfavorecernos para lograr nuestro objetivo futuro.
+
+    Matriz DAFO:
+    - **Debilidades**:
+        Interno y Negativo.
+        - ¿Qué podemos mejorar?
+        - ¿Con qué están nuestros clientes insatisfechos?
+        - ¿En qué fallamos y nuestros competidores no?
+        - ¿Qué conocimientos o recursos nos faltan?
+        - ¿Gastamos más que generamos?
+        - ¿Nuestra atención al cliente es correcta?
+        - ¿Nuestros esfuerzos no llegan a los objetivos?
+    - **Amenazas**:
+        Externo y Negativo.
+        - ¿Qué está haciendo la competencia?
+        - ¿Cómo pueden nuestras debilidades dejarnos vulnerables?
+        - ¿Para qué tendencias en el mercado no estamos preparados?
+        - ¿Qué cuestiones económicas o políticas pueden impactar a nuestro negocio?
+        - ¿Nuevos competidores emergentes?
+    - **Fortalezas**: 
+        Interno y Positivo.
+        - ¿Qué estamos haciendo bien?
+        - ¿Qué les gusta a nuestros clientes de nosotros?
+        - ¿Dónde resaltamos?
+        - ¿Qué hace que nuestra empresa sea única?
+        - ¿Tenemos más tráfico que nuestros competidores?
+        - ¿Tenemos funcionalidades que no tengan nuestros competidores?
+    - **Oportunidades**:
+        Externo y Positivo.
+        - ¿Qué tendencias emergentes podemos aprovechar?
+        - ¿Qué oportunidades tenemos en otros posibles mercados?
+        - ¿Existe otros mercados con menos competidores donde nuestro producto tenga cabida?
+        - ¿Hay lugares con menos competencia?
+        - ¿Cambios en el mercado que nos favorezcan?
+        - ¿Nuevas redes sociales?
+
+##### Errores comunes
+    - No encontrar a todos nuestros rivales.
+    - No utilizar palabras clave en nuestras búsquedas.
+    - No conocer las noticias, novedades y tendencias de la industria.
+    - No monitorizar las nuevas noticias o menciones sobre nuestros competidores.
+    - Infravalorar a nuestros competidores.
+    - No tener un constante y continuo estudio de cuales son nuestros competidores.
+    - No compartir esta información con los integrantes de la empresa
+
+    Respecto a la matriz DAFO:
+    - No ser completemente honestos.
+    - No completar el análisis.
+    - Escribir una lista de competidores demasidado larga o demasiado específica.
+    - Sobreestimar nuestras fortalezas.
+    - No enfocarse lo suficiente en las oportunidades.
+    - No subestimar a los competidores.
+    - No dedicar el tiempo suficiente al análisis.
+
+### 2) EFFECTIVE PRESENTATIONS:
+El contenido de la presentación debe ser el mínimo para que el presentador se sienta cómodo y le sirva de apoyo. Además, que la audiencia pueda comprender y enlazar la información proporcionada.
+
+#### ¿Qué hacer?
+    - Presentación sencilla.
+    - Estructura atractiva.
+    - Utilizar contenido audiovisual.
+    - Usar un fondo minimalista.
+    - Mantener consistencia con la fuente y tamaño de letra.
+
+#### ¿Qué no hacer?
+    - Sobrecargar las diapositivas.
+    - Quedarse quieto en mitad de la presentación.
+    - Utilizar siempre el mismo tono de voz.
+    - Repetir el contenido varias veces.
+    - Poner grandes bloques de texto.
+
+#### Errores comunes
+    - Miedo a hablar en público.
+    - No llamar la atención de la audiencia.
+    - No saber que contenido o cuánto poner en las diapositivas.
+    - Estar incómodo al incorporar comunicación no verbal.
+
+#### Consejos
+    - Contar todo como si fuera una historia.
+    - Sonreís y buscar contacto visual.
+    - Cuidar la presencia.
+    - Empezar fuerte.
+    - Hacerlo con pasión.
+    - Planificar la actuación.
+    - Practicar y ensayar.
+    - Estar tranquilos y cómodos
+
+#### The 10-20-30 Rule
+    Regla básica para realizar una presentación efectiva.
+    - 10 diapositivas.
+    - 20 minutos.
+    - Tamaño de letra 30.
