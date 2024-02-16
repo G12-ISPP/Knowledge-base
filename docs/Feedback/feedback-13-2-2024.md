@@ -130,3 +130,36 @@ Puntos de mejora:
 + En cuanto a los riesgos, hacer tabla clasificatoria de riesgos, con su probabilidad de ocurrencia, impacto y plan de contingencia. Si pasa esto, se hace esto otro. Nada de decir "probablemente" se haga esto.
 
 + Commitment agreement es un documento vivo, lo que significa que cada semana hay que revisarlo y ver si se ha cumplido o no. Se puede tener un apartado donde haya una cláusula (modificar commitment agreement), que diga que todos se comprometen a realizar las tareas claves de cada semana, indicando el grado de participación de cada uno en cada tarea. Incluir cláusulas de cancelación, es decir, plantear service credits. Si alguien no llega a una determinada cantidad de trabajo, entonces que esa persona realice más trabajo la próxima semana. Tener un anexo para indicar el cumplimiento del commitment agreement. Incluir en las presentaciones una tabla con el grado de cumplimiento de cada uno de los miembros del equipo en el commitment agreement. Mantener informado al profesorado sobre esto continuamente.
+
+## Feedback final
+Atención a las disonancias que se puedan producir entre lo que se dice y lo que hay en la
+presentación.
+Mockups al final de las presentaciones. Aprovechar al máximo el espacio de pantalla.
+Hacer sprint planning, hacer backlog y tener rúbrica para tratar los puntos y que no se pase ninguno.
+En cuanto al commitment agreement, se recomienda revisar el agreement y ver el estado en el que
+está el acuerdo. Monitorizar el cumplimiento de dicho agreement por parte de cada miembro del
+equipo. Versionar el agreement para cada cambio que se haga. Añadir apartado con responsable de
+cada tarea, así luego se verifican las responsabilidades. Plantear créditos de servicio.
+Próximo día evaluación. 16 minutos de presentación y 13 de feedback. Orden de presentación
+aleatorio. Tiempos gestionados por los profesores. Consultar documento de failure conditions. Hoja
+de firmas al principio y al final. Se pedirá aleatoriamente estudiantes que den feedback a los
+compañeros. Debe ser un feedback constructivo.
+## Presentación semana 3
++ Idea de negocio con killer opener rápido y directo.
++ Elevator pitch. Contar bondades del proyecto y de la empresa de forma rápida y concisa.
++ Presentar clientes.
++ Análisis de competidores.
++ Análisis de riesgo.
++ Costes y TCO detallado.
++ Gestión de usuarios pilotos.
++ MVP -> Mockups de casos de uso core.
++ Planificación en 3 sprints. Mockups del sprint 1 muy detallados.
++ Decisiones de integración y tecnologías utilizadas.
++ Hablar más sobre el commitment agreement.
++ Metodologías de desarrollo.
++ Procesos de mejora y calidad.
++ Medidas de rendimiento de los miembros del equipo.
++ Herramientas de soporte al desarrollo (obligatorias: GitHub, GitHub Project, Clockify, análisis
+de código…)
++ Landing page con miembros del equipo, quiénes somos, despliegue, de qué va el proyecto, etc.
++ Uso de inteligencia artificial.
