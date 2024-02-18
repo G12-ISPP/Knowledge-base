@@ -6,7 +6,7 @@ Aquí pondremos el feedback de la sesión de presentaciones del 6 de febrero de 
 
 **GRUPO 7**
 + El emparejamiento es demasiado forzado no deberían haberlo metido al trabajar con ONGs.
-+ El objetivo debería ser  hacer una aplicación útil y usable que no dejen de usar. Se debe invertir tiempo en un desarrollo híbrido, adaptando herramientas ya existentes (no siempre hay que desarrollar desde 0).
++ El objetivo debería ser hacer una aplicación útil y usable que no dejen de usar. Se debe invertir tiempo en un desarrollo híbrido, adaptando herramientas ya existentes (no siempre hay que desarrollar desde 0).
 + Coste de puesta en marcha vs TCO (Analizar si deben dejar desplegado la aplicación y eso les cuesta dinero)
 + Las estructuras muy jerárquicas hay que reasignarlas a lo largo del curso.
 Se deben guardar los enlaces de las conversaciones con las IA.
@@ -14,7 +14,7 @@ Se deben guardar los enlaces de las conversaciones con las IA.
 **APARKING**
 + Cual es el propósito de la aplicación no ha quedado claro (mandar un mensaje claro)
 + Lo más relevante es explicar qué aporta nuestra aplicación
-+ Los roles de trabajo deben quedar clarinete
++ Los roles de trabajo deben quedar claros
 + Poner números de diapositivas
 + No usar imágenes que ellos nos aportan, hay que crear
 + Eficiencia de la comunicación. Hay que buscar lo valioso, no hablar mucho.Síntesis de las ideas. Menos velocidad hablando
@@ -26,8 +26,7 @@ Se deben guardar los enlaces de las conversaciones con las IA.
 + Partir de una idea principal y de todo lo que hablemos que salga sobre esta.
 + Los casos core son los diferenciales, no el registro de usuarios.
 + Centrarse en la aplicación que vamos a crear, no en el equipo u otros factores externos.
-+ Tabla competidores no me he enterado
-+ Tener claro porque nuestro producto es mejor.
++ Tener claro por qué nuestro producto es mejor.
 + Tener claro lo crítico y los elementos diferenciadores
 
 **COCEMFE NGO**
@@ -40,10 +39,10 @@ Se deben guardar los enlaces de las conversaciones con las IA.
 + Dejar claro los clientes potenciales y el alcance de la aplicación.
 + Dejar más claro las diferencias con los competidores.
 + Todos somos desarrolladores a parte de los demás roles que tomemos.
-+ Desglosar bien todos los costes , TCO, coste de operación. Además de saber el coste de venta a los clientes.
++ Desglosar bien todos los costes: TCO, coste de operación. Además de saber el coste de venta a los clientes.
 + Estudiar la viabilidad de la aplicación.
 
-**MOD3L**
+**SHAR3D**
 + Tomar decisiones importantes nosotros no pedir consejo sobre este tipo de decisiones.
 + Tener tareas que no dependan del proyecto  como tal para poder sobrepasar un bloqueo.
 + Segmentar el mercado, buscando el mejor cliente.
