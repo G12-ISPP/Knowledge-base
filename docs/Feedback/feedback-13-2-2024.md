@@ -2,7 +2,10 @@
 sidebar_position: 2
 ---
 
-# Grupo 7 Harmony
+
+Aquí pondremos el feedback de la sesión de presentaciones del 13 de febrero de 2024
+
+**Grupo 7 Harmony**
 
 Hay que ensayar mucho. No solo el contenido de la presentación, sino el contexto en el que va a
 suceder. No pueden fallar imágenes ni nada. Todo hay que tenerlo controlado.
@@ -26,7 +29,7 @@ presentación.
 En los casos de uso core, el soporte visual proporcionado ha sido muy pobre.
 Trabajar en la entonación durante la presentación.
 
-# Grupo 8 Banquet Buddy
+**Grupo 8 Banquet Buddy**
 
 Presentar como si el público fuera nuevo. No presentar teniendo en mente lo que hicimos la semana
 pasada.
@@ -38,7 +41,7 @@ Actions.
 Detallar el coste dependiendo del número de usuarios (los que no pagan, pues no generarán
 beneficios).
 
-# Grupo 9 CuidaME
+**Grupo 9 CuidaME**
 
 En el plan de contingencia, contemplar que alguien de vaya del grupo. Revisar commitment
 agreement.
@@ -65,7 +68,7 @@ En competidores, preguntarse el por qué no hay nadie que lo haya hecho anterior
 Separar requisitos en diferentes pantallas, no ponerlos todos en una tabla en una única diapositiva.
 Únicamente poner contenidos esenciales en las presentaciones.
 
-# Grupo 10 COCEMFE NGO
+**Grupo 10 COCEMFE NGO**
 
 El TCO no es un presupuesto. Lo que hay que estimar es el coste total de propiedad. Siempre
 detallar a qué se refiere el coste de mantenimiento (si es coste de personal, de herramientas, de
@@ -84,7 +87,7 @@ documentar un riesgo que trate sobre los posibles cambios de opinión que pueda 
 cara al proyecto.
 Estudiar posibles modelos de negocio para implemetar en la aplicación
 
-# Grupo 11 APARKING
+**Grupo 11 APARKING**
 No hace falta chillar cuando se tiene el micro. Mirar a todo el público mientras se habla, y no solo a
 los profesores. Hacer el truco de las cuatro esquinas. Recorrer la vista hacia cada uno de los puntos
 lentamente de forma que se mire hacia todos los lugares.
@@ -95,7 +98,7 @@ Los riesgos con más probabilidad, preparar un plan de contingencia detallado lo
 ellos.
 Introducir información de contacto en las diapositivas para poder proporcionar más feedback.
 
-# GRUPO 12 SHAR3D
+**GRUPO 12 SHAR3D**
 Contemplar la diferenciación entre diseños y piezas.
 + Diseño: Lo sube alguien pero no lo imprime.
 + Pieza: La tiene alguien y la puede imprimir, por lo que la oferta.
