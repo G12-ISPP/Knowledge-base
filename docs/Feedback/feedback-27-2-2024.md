@@ -110,7 +110,7 @@ presentaciones.
 ## Presentaciones
 
 Importante que haya en la presentación: killer opener, elevator pitch, resumen de análisis de
-competidores, resumen de análisis de costes (directamente TCO <manejar conceptos CapEx
+competidores, resumen de análisis de costes (directamente TCO manejar conceptos CapEx
 (costes de licencias, de personal, etc.) y OpEx (coste operacional, hosting, posible marketing,
 etc.) >), situación actual del gasto, análisis de gastos-ingresos (evaluar número estimado de
 usuarios que se tendrán, las estimaciones deben ser pesimistas, optimistas y realistas),
