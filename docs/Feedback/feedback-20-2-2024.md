@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 
-Aquí pondremos el feedback de la sesión de presentaciones del 13 de febrero de 2024
+Aquí pondremos el feedback de la sesión de presentaciones del 20 de febrero de 2024
 
 **Grupo 7 Harmony**
 + Hay que estar atentos al feedback que se da a todos los grupos.
