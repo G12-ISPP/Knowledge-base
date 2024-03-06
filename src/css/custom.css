@@ -15,6 +15,7 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -35,4 +36,21 @@ p{
 
 li{
   font-size: 20px;
+}
+h1,h2,h3,h4,h5,h6,ul { text-align: center; }
+
+.markdown-center {
+  text-align: center; /* Centra el contenido horizontalmente */
+}
+
+/* Estilo para los enlaces */
+.markdown-center a {
+  display: block; /* Convierte los enlaces en bloques para que se muestren en una línea */
+  padding: 10px; /* Añade un relleno alrededor del enlace */
+  margin-bottom: 10px; /* Añade un margen inferior entre los enlaces */
+}
+
+.markdown-table {
+  margin: 0 auto; /* Esto centra horizontalmente la tabla */
+  max-width: 800px;
 }

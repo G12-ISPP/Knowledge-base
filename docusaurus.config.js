@@ -11,17 +11,18 @@ const config = {
   title: 'ISPP-G12 Knowledge Base',
   tagline: 'Base de gestión del conocimiento del grupo 12',
   favicon: 'img/favicon.ico',
+  staticDirectories: ['static'],
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://knowledge-base-orpin.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'G12-ISPP', // Usually your GitHub org/user name.
+  projectName: 'Knowledge Base', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -58,24 +59,48 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Knowledge Base',
+        title: 'Knowledge Base G12-ISPP',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'Inicio',
+            docId: 'Conceptos/Introducción',
             position: 'left',
-            label: 'Inicio',
+            label: 'Conceptos teóricos',
+          },
+          {
+            type: 'doc',
+            docId: 'Evaluaciones/Introducción',
+            position: 'left',
+            label: 'Docs evaluación',
+          },
+          {
+            type: 'doc',
+            docId: 'Feedback/Introducción',
+            position: 'left',
+            label: 'Feedback',
+          },
+          {
+            type: 'doc',
+            docId: 'IA/Introducción',
+            position: 'left',
+            label: 'IA',
+          },
+          {
+            type: 'doc',
+            docId: 'PMBOK/Introducción',
+            position: 'left',
+            label: 'Docs PMBOK',
           },
           {
             type: 'search',
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/G12-ISPP/Knowledge-base',
             label: 'GitHub',
             position: 'right',
           },
@@ -85,11 +110,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Knowledge Base',
+            title: 'Knowledge Base G12-ISPP',
             items: [
               {
                 label: 'Introducción',
-                to: '/docs/intro',
+                to: '/docs/Introducción',
               },
             ],
           },
