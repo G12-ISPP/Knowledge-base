@@ -16,7 +16,7 @@
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
 
-### **1ª ENTREGA**
+### **2ª ENTREGA**
 
 ### **- GRUPO 12 -**
 
@@ -56,20 +56,22 @@
 | v1.3.0 | Añadido compromiso de gestión de problemas | Campos Garrido, Juan Jesús | 22/02/2024 |
 | v1.4.0 | Añadido compromiso de comunicación efectiva | Campos Garrido, Juan Jesús | 22/02/2024 |
 | v1.5.0 | Compromiso de todo el grupo con los nuevos apartados del acuerdo | Todos | 22/02/2024 |
+| v1.6.0 | Añadida referencia a la asignación de tareas en GitHub | Campos Garrido, Juan Jesús | 27/02/2024 |
 </div>
 
-## **RESUMEN EJECUTIVO**
+# **RESUMEN EJECUTIVO**
 
 A lo largo de este documento todos los integrantes del equipo nos comprometemos a realizar la misma cantidad de trabajo, estableciendo esta en diez horas semanales, además de fijar bajo qué criterios se considerará que alguien no está trabajando bien en equipo y por lo tanto, se le podrá expulsar del grupo.
 
-## **INTRODUCCIÓN**
+# **INTRODUCCIÓN**
 
 Este documento tendrá la finalidad de acordar el esfuerzo realizado por cada integrante del equipo para la consecución de los objetivos de la asignatura.
 
 En él, reflejaremos el compromiso colectivo de todos los integrantes en aspectos como la dedicación de tiempo semanal a la asignatura, las condiciones bajo las que podemos ser expulsados del grupo o como registramos los tiempos de trabajo en cada tarea.
 
+#
 
-## **CONTENIDOS**
+# **CONTENIDOS**
 
 Los alumnos del grupo 12 de la asignatura Ingeniería de Software y Práctica Profesional (ISPP) en el curso 23/24 nos comprometemos a cumplir los siguientes requisitos y condiciones de forma individual:
 
@@ -86,6 +88,8 @@ Los alumnos del grupo 12 de la asignatura Ingeniería de Software y Práctica Pr
 - **Compromiso de gestión de problemas:** Cuando surja un conflicto en el proyecto me comprometo a comentarlo con uno de los encargados del proyecto, para así empezar a buscar soluciones y que el problema no crezca.
 - **Compromiso de comunicación efectiva:** Como integrante del equipo me comprometo a revisar el canal de comunicación general ya que allí se comunicarán todas las decisiones importantes que afecten al proyecto y así podré estar siempre informado. Además me comprometo a comunicar por dicho canal cualquier información fundamental para el proyecto para que todos tengan acceso a ella.
 
+Para ver las tareas que han sido completadas por cada integrante del equipo
+
 ## **FIRMA DE LOS INTEGRANTES**
 
 Al firmar este documento entiendo y acepto las responsabilidades que se me asignan y me comprometo a cumplirlas según lo establecido en este compromiso.
@@ -101,15 +105,16 @@ Al firmar este documento entiendo y acepto las responsabilidades que se me asign
 |Firma María Escalante Ramos|Firma Pablo Mera Gómez|Firma Úrsula Garrucho Sánchez|
 </div>
 
-## **CONCLUSIONES**
+# **CONCLUSIONES**
 
 Tras la creación del equipo, todos los integrantes acordamos las mismas condiciones de trabajo y por lo tanto firmamos este acuerdo para que quede reflejado. Esperamos que se cumplan todos los compromisos por parte de todos los integrantes del grupo y que ningún integrante sea expulsado.
 
+#
 
-## **BIBLIOGRAFÍA**
+# **BIBLIOGRAFÍA**
 
 Intencionalmente vacío.
 
-## **PROMPTS DE INTELIGENCIA ARTIFICIAL**
+# **PROMPTS DE INTELIGENCIA ARTIFICIAL**
 
 Intencionalmente vacío.

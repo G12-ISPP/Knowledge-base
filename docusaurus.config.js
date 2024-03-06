@@ -91,9 +91,9 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'PMBOK/Introducción',
+            docId: 'Actas/Introducción',
             position: 'left',
-            label: 'Docs PMBOK',
+            label: 'Actas de reunión',
           },
           {
             type: 'search',

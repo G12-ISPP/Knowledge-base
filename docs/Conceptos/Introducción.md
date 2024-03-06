@@ -2,4 +2,4 @@
 sidebar_position: 1
 ---
 
-Esta es la herramienta de gestión del conocimiento del grupo 12 de ISPP 2023
+Aquí encontraremos los resúmenes de los vídeos de píldoras teóricas hechos por el grupo 12.

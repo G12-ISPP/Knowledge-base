@@ -2,4 +2,4 @@
 sidebar_position: 1
 ---
 
-Esta es la herramienta de gestión del conocimiento del grupo 12 de ISPP 2023
+Aquí encontraremos los documentos entregados en cada entregable de evaluación hechos por el grupo 12.
