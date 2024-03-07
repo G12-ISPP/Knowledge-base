@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 16/02/2024
+#### 03/03/2024
 
 # **INFORME DE USO DE IA**
 
@@ -18,13 +18,13 @@
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
 
-### **1ª ENTREGA**
+### **2ª ENTREGA**
 
 ### **- GRUPO 12 -**
 
-
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
+
 [**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
@@ -71,6 +71,24 @@
 
 [**Pasarela de pago en React + Django**](#pasarela-de-pago-en-react-django)
 
+[**Problemas guardar imagen frontend**](#_heading=h.fl1qwnk9ubhj)
+
+[**Adaptar imágenes para móvil (Phind)**](#_heading=h.hcaxaiebs07p)
+
+[**Librerías recomendadas para implementar escenas 3D en React**](#_heading=h.bun35v8az1sy)
+
+[**Error en los Hooks de React**](#_heading=h.riicor4885me)
+
+[**Consulta sobre los gastos OpEx y CapEx**](#_heading=h.yafwf9hkch67)
+
+[**Creación de imágenes para la aplicación**](#_heading=h.vf1ifc4olivo)
+
+[**Correo para Usuarios Pilotos**](#_heading=h.wthk8puce5g2)
+
+[**Generación de elevator pitch**](#_heading=h.va6nn3lhq9yq)
+
+[**Consulta para errores SonarCloud (Phind)**](#_heading=h.tpyhybf2xkff)
+
 [**CONCLUSIONES**](#conclusiones)
 
 [**BIBLIOGRAFÍA**](#bibliografía)
@@ -83,6 +101,7 @@
 | **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
 | --- | --- | --- | --- |
 | v1.0.0 | Creación del documento | Baquero Villena, Carlos | 16/02/2024 |
+| v2.0.0 | Actualización del documento | Baquero Villena, Carlos | 03/03/2024 |
 </div>
 ## **RESUMEN EJECUTIVO**
 
@@ -128,6 +147,7 @@ Automatizar:
 5. Probar el despliegue automático.
 
 
+
 ### **Generación del template de Documentación y traducción al español**
 
 [https://chat.openai.com/share/93a66af5-e666-4ae6-958e-a5c24abf4da1]
@@ -142,7 +162,7 @@ Posteriormente se le envía los formularios y se le pide que los traduzca y conv
 
 Responde con el template en formato markdown y traducidos.
 
-## **Listado de riesgos de propósito general en proyectos de desarrollo software**
+### **Listado de riesgos de propósito general en proyectos de desarrollo software**
 
 [https://chat.openai.com/share/50f98cee-a6a3-4772-89af-77679cc1aed1]
 
@@ -408,11 +428,93 @@ Se adjunta además otra discusión donde ya se trabaja con la pasarela de pago e
 
 Se van resolviendo distintos problemas con diferentes enfoques.
 
+### **Problemas guardar imagen frontend**
+
+[https://chat.openai.com/share/181ce588-ccbc-4d00-80d3-b04b1a3f3565]
+
+**Preguntas**
+
+En esta conversación se ha ido preguntando sobre los problemas que han ido surgiendo durante la funcionalidad de añadir producto, sobre todo la parte de guardar la imagen.
+
+**Respuesta**
+
+Con la ayuda de chat GPT se ha ido afinando el método y se ha conseguido manejar el guardado de las imágenes.
+
+### **Adaptar imágenes para móvil (Phind)**
+
+[https://www.phind.com/search?cache=o0uyybbsm65ojo3rpng2ft5r&source=sidebar]
+
+**Preguntas**
+
+En esta conversación se le pregunta a Phind cómo hacer que la imagen del producto que se va a añadir se adapte a las dimensiones del dispositivo móvil que esté usando el usuario.
+
+**Respuesta**
+
+Phind ha contribuido a la consecución de la redimensión de las imágenes en dispositivos móviles.
+
+### **Librerías recomendadas para implementar escenas 3D en React**
+
+[https://chat.openai.com/share/4cfeb5ab-0231-44e3-b828-72e4e1713e21]
+
+**Resumen**
+
+En esta conversación se le pregunta a la inteligencia artificial ChatGPT sobre las librerías recomendadas para implementar una escena 3D para React, más información sobre algunas de las mencionadas, así como un pequeño ejemplo de cómo comenzar con la implementación.
+
+### **Error en los Hooks de React**
+
+[https://chat.openai.com/share/6228813d-4315-4c77-921b-e42bc7872d2a]
+
+**Resumen**
+
+En esta conversación se le pregunta a la inteligencia artificial ChatGPT sobre cierto error con el trato de los hooks en react que se solucionó siguiendo las reglas de Hooks.
+
+### **Consulta sobre los gastos OpEx y CapEx**
+
+[https://chat.openai.com/share/c918717a-13ba-4af7-8001-013f075fc8b1]
+
+**Resumen**
+
+En esta consulta se le pregunta a chat GPT como deberíamos clasificar los costes del equipo que desarrollará nuestro servicio.
+
+### **Creación de imágenes para la aplicación**
+
+**Resumen**
+
+Se ha pedido a la IA Dall-E que genere imágenes para la aplicación, en concreto se pueden ver imágenes como el diseño 3d de un conejo. La finalidad de esto es evitar el uso de imágenes con derechos. El prompt no se ha podido recuperar ya que Dall-E no permite exportar los prompts.
+
+### **Correo para Usuarios Pilotos**
+
+[https://chat.openai.com/share/58c2aceb-cf5e-4ac4-ac1f-7a1636d46cc4]
+
+**Resumen**
+
+Se ha pedido a chatGPT que genere un correo para los usuarios pilotos
+
+### **Generación de elevator pitch**
+
+[https://chat.openai.com/share/7ccbb1d2-82b1-4616-ba76-e2aa2817d3b4]
+
+**Resumen**
+
+Tras no haber conseguido hacer un buen elevator pitch en las anteriores presentaciones hemos pedido a chatGPT que nos ayuda, para esto le hemos indicado las características de nuestro servicio y el ha generado un elevator pitch que nos servirá como base.
+
+### **Consulta para errores SonarCloud (Phind)**
+
+[https://www.phind.com/search?cache=feb7c58dx2602w0f4zec4vny&source=sideba](https://www.phind.com/search?cache=feb7c58dx2602w0f4zec4vny&source=sidebar)
+
+**Preguntas**
+
+En esta consulta se le pregunta a Phind que refactorice el código de los tests realizados debido a que estaba duplicado y mostraba contraseñas según SonarCloud, por lo tanto se le pidió, a partir del código, que eliminara las lineas duplicadas y que no creara ninguna contraseña.
+
+**Respuesta**
+
+Phind ha contribuido a que se reestructure la clase de los tests.
+
 ## **CONCLUSIONES**
 
 Se han recopilado y resumido todas las prompt realizadas a cualquier tipo de Inteligencia Artificial a la hora del desarrollo o planificación del proyecto.
 
-## **BIBLIOGRAFÍA**
+# **BIBLIOGRAFÍA**
 
 Intencionalmente vacío
 

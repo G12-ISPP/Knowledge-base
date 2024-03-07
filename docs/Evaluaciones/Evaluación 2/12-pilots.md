@@ -4,9 +4,10 @@
 
 ## **SHAR3D**
 
-#### 10/02/2024
+#### 27/02/2024
 
 # **PLAN DE GESTIÓN DE USUARIOS PILOTOS**
+
 
 ## **REALIZADO POR:**
 <div class="markdown-table">
@@ -17,7 +18,7 @@
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
 
-### **1ª ENTREGA**
+### **2ª ENTREGA**
 
 ### **- GRUPO 12 -** 
 
@@ -38,11 +39,9 @@
 
 [**SISTEMAS DE COMUNICACIÓN**](#sistemas-de-comunicación)
 
-[**FORMULARIOS DE RETROALIMENTACIÓN**](#formularios-de-retroalimentación)
+[**FECHAS**](#fechas)
 
-[**FEEDBACK DE USUARIOS PILOTOS**](#feedback-de-usuarios-pilotos)
-
-[**ACCIONES PARA MEJORAR**](#acciones-para-mejorar)
+[**SPRINT 1**](#sprint-1)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -52,14 +51,16 @@
 </div>
 
 
-### **CONTROL DE VERSIONES**
+# **CONTROL DE VERSIONES**
 <div class="markdown-table">
+
 | **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
 | --- | --- | --- | --- |
 | v0.1 | Creación del documento | Santiago Félix, Alejandro | 10/02/2024 |
 | v0.8 | Creación del plan inicial para los usuarios pilotos | Santiago Félix, Alejandro | 10/02/2024 |
 | v1.0 | Listado inicial de usuarios pilotos | Santiago Félix, Alejandro | 12/02/2024 |
-| v1.1 | Añadidos nuevos usuarios pilotos y los formularios | Santiago Félix, Alejandro | 27/02/2024 |
+| v1.1 | Añadido estado usuarios | Mera Gómez, Pablo | 21/02/2024 |
+| v1.2 | Actualizado estado usuarios | Campano Galán, Alejandro | 27/02/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**
@@ -70,12 +71,11 @@ Este documento aborda la gestión de los usuarios piloto en el proyecto SHAR3D, 
 
 En el desarrollo de software, un usuario piloto es alguien que prueba un producto o servicio antes de su lanzamiento oficial. Su importancia radica en proporcionar retroalimentación valiosa para hacer ajustes y mejoras, lo que contribuye a la eficiencia del diseño y la viabilidad del producto. Esto ayuda a las empresas a evaluar la viabilidad de un nuevo software en términos de alcance, tiempo y costos.
 
-## **CONTENIDOS**
-
-### **PERFILES DE USUARIOS IDEALES**
+## **PERFILES DE USUARIOS IDEALES**
 
 En esta sección, analizaremos los perfiles de usuarios que podrían estar interesados en nuestro proyecto de impresión 3D, SHAR3D. Cada perfil representa una audiencia específica con características y necesidades particulares. Al comprender a estos usuarios ideales, podremos diseñar una experiencia de usuario más efectiva
 <div class="markdown-table">
+
 | **Perfil** | **Descripción** | **Intereses** | **Conocimientos** |
 | --- | --- | --- | --- |
 | Diseñadores 3D | Personas con experiencia en diseño de modelos 3D. Ofrecen feedback sobre calidad y funcionalidad. | Interés en compartir creaciones, inspiración y colaboración con otros diseñadores. | Animación 3D, texturización y renderizado. |
@@ -88,94 +88,67 @@ En esta sección, analizaremos los perfiles de usuarios que podrían estar inter
 | Educadores | Profesores, estudiantes o entusiastas del aprendizaje. | Aprendizaje, experimentación, enseñanza. | Conocimientos en pedagogía, diseño curricular o investigación. |
 </div>
 
-### **LISTADO DE USUARIOS PILOTOS**
+## **LISTADO DE USUARIOS PILOTOS**
 
 Aquí se presenta un listado de los usuarios pilotos que contribuirán con sus sugerencias para mejorar nuestros servicios que vendrán recopilados en la sección de **FEEDBACK DE USUARIOS PILOTOS**. Esta sección aporta los medios para poder comunicarse con cualquiera de ellos de manera satisfactoria.
 <div class="markdown-table">
-| **Usuario Piloto** | **Correo** | **Perfil** | **Responsable de contacto** |
-| --- | --- | --- | --- |
-| Martiniano Santiago Pavón | martiniano.santiago@gmail.com | Educador | Alejandro Santiago Félix |
-| María Corominas Cobo | maria.corominas.c@gmail.com | Usuario Explorador | Alejandro Santiago Félix |
-| Salvador Parejo Ramos | salvaparejo@gmail.com | Usuario Explorador | Alejandro Santiago Félix |
-| Francisco José Vargas Castro | franciscojosevargascastro@gmail.com | Impresor 3D | Alejandro Santiago Félix |
-| Carla Galindo Corchero | cgalindocorchero@gmail.com | Aficionados a la Tecnología y la Innovación | Alejandro Santiago Félix |
-| Jesús Vega Barea | 1516.vegabarea.jesus@gmail.com | Usuario Explorador | Úrsula Garrucho Sánchez |
-| Eduardo Mera Sánchez | edumrgm1@gmail.com | Emprendedor | Pablo Mera Gómez |
-| Ana Sánchez Fernández | anasanchez0812@gmail.com | Usuario Explorador | Alejandro García Sánchez-Hermosilla |
-| María del Rocio Campos Garrido | rociocampos9@hotmail.com | Educadora | Juan Jesús Campos Garrido |
-| Juan Luis Grove Múnoz | juanlugm02@gmail.com | Diseñador | Juan Jesús Campos Garrido |
-| Jaime García Linares | jaimegarcialinares@gmail.com | Profesionales del deporte | Diego García Linares |
-| Joaquín Carretero Díaz | jcdquino@gmail.com | Aficionados a la tecnología y a la innovación | Antonio Carretero Díaz |
-| Juan Galán María | juangalan@graficassanantonio.com | Impresor 3D | Antonio Carretero Díaz |
-| Francisco Carretero Gallego | \-  | Impresor 3D | Antonio Carretero Díaz |
-| Marta Sánchez Romero | martasanchezromero2@gmail.com | Educadora | Carlos Baquero Villena |
-| María del Mar Romero Ligero | mmar.mdmrl@gmail.com | Usuario Explorador | David Cortabarra Romero |
-| Juan Alberto Dominguez Redondo | Albertocda12@gmail.com | Usuario Explorador | Alejandro Campano Galán |
-| Victor Parrilla Rubio | prvictor12@gmail.com | Emprendedor | Alejandro Campano Galán |
-| Grupo 6 de la asignatura ISPP | \-  | \-  | \-  |
+
+| **Usuario Piloto** | **Correo** | **Perfil** | **Estado** | **Responsable de contacto** |
+| --- | --- | --- | --- | --- |
+| Martiniano Santiago Pavón | martiniano.santiago@gmail.com | Educador | Aceptado | Alejandro Santiago Félix |
+| María Corominas Cobo | maria.corominas.c@gmail.com | Usuario Explorador | Aceptado | Alejandro Santiago Félix |
+| Jesús Vega Barea | 1516.vegabarea.jesus@gmail.com | Usuario Explorador | Aceptado | Úrsula Garrucho Sánchez |
+| Eduardo Mera Sánchez | edumrgm1@gmail.com | Emprendedor | Aceptado | Pablo Mera Gómez |
+| Ana Sánchez Fernández | anasanchez0812@gmail.com | Usuario Explorador | Aceptado | Alejandro García Sánchez-Hermosilla |
+| María del Rocio Campos Garrido | rociocampos9@hotmail.com | Educadora | Aceptado | Juan Jesús Campos Garrido |
+| Juan Luis Grove Múnoz | juanlugm02@gmail.com | Diseñador | Aceptado | Juan Jesús Campos Garrido |
+| Jaime García Linares | jaimegarcialinares@gmail.com | Profesionales del deporte | Aceptado | Diego García Linares |
+| Joaquín Carretero Díaz | jcdquino@gmail.com | Aficionados a la tecnología y a la innovación | Aceptado | Antonio Carretero Díaz |
+| Juan Galán María | juangalan@graficassanantonio.com | Impresor 3D | Aceptado | Antonio Carretero Díaz |
+| Francisco Carretero Gallego | \-  | Impresor 3D | En espera | Antonio Carretero Díaz |
+| Marta Sánchez Romero | martasanchezromero2@gmail.com | Educadora | Aceptado | Carlos Baquero Villena |
+| María del Mar Romero Ligero | mmar.mdmrl@gmail.com | Usuario Explorador | Aceptado | David Cortabarra Romero |
+| Juan Alberto Domínguez Redondo | Albertocda12@gmail.com | Usuario Explorador | Aceptado | Alejandro Campano Galán |
+| Grupo 6 de la asignatura ISPP | ciaolavoroISPP@gmail.com | Usuarios Exploradores | Aceptado | \-  |
 </div>
 
-### **SISTEMAS DE COMUNICACIÓN**
+## **SISTEMAS DE COMUNICACIÓN**
 
 Los sistemas de comunicación son un componente esencial para el éxito de cualquier proyecto, especialmente cuando se trata de usuarios pilotos que deben probar y validar el producto desarrollado. En esta sección se busca facilitar la coordinación y colaboración entre el equipo de proyecto y los usuarios pilotos, gestionar sus expectativas y minimizar los riesgos de comunicación.
 <div class="markdown-table">
+
 | **Información** | **Medio** | **Momento o Periodicidad** | **Observaciones** |
 | --- | --- | --- | --- |
-| El usuario proporciona una valoración del servicio | Formulario | Después de haber probado la versión enviada por el equipo de desarrollo. | \-  |
-| Queremos solicitar a los usuarios pilotos que rellenen un formulario | Correo electrónico | Cuando la aplicación esté lista para que los usuarios pilotos la evalúen. | \-  |
-| El usuario ha reportado un error | Formulario de la Landing Page/Formulario | Inmediatamente después de reportar el error. | Tenemos dos medios ya que los usuarios que quieran reportar un erro lo podrán hacer en el propio formulario de valoración o a través del formulario de nuestra landing page |
+| El usuario proporciona una valoración del servicio | Formulario | Después de haber probado la versión enviada por el equipo de desarrollo. Debe ser, como muy tarde, 48 horas después de recibir el correo. | \-  |
+| Queremos solicitar a los usuarios pilotos que rellenen un formulario | Correo electrónico | Cuando la aplicación esté lista para que los usuarios pilotos la evalúen. Debe ser, como muy tarde, 72 horas antes de la finalización del Sprint | \-  |
+| El usuario ha reportado un error | Formulario de la Landing Page/Formulario | Inmediatamente después de reportar el error. | Tenemos dos medios ya que los usuarios que quieran reportar un error lo podrán hacer en el propio formulario de valoración o a través del formulario de nuestra landing page |
 | El usuario tiene alguna duda sobre la aplicación | Correo electrónico/ Reunión presencial | Cuando los usuarios pilotos lo soliciten | Solo si los usuarios pilotos lo requieren se realizarán reuniones presenciales para tratar alguna cuestión de la aplicación |
 </div>
 
-### **FORMULARIOS DE RETROALIMENTACIÓN**
+## **FECHAS**
 
-Como tenemos distintos perfiles, inicialmente, hemos creado unos formularios para poder obtener información de nuestros clientes
-<div class="markdown-table">
-| **Perfil** | **Enlace** |
-| --- | --- |
-| Diseñador 3D | [https://forms.gle/HHvZMY27yrYvGdpH7](https://forms.gle/HHvZMY27yrYvGdpH7) |
-| Impresor 3D | [https://forms.gle/y2iVt9qoVZMJZREa6](https://forms.gle/y2iVt9qoVZMJZREa6) |
-| Usuario Explorador | [https://forms.gle/WPzu7AYT642bkU1N9](https://forms.gle/WPzu7AYT642bkU1N9) |
-| Profesional del Deporte | [https://forms.gle/KK47cKh1XX9spjPVA](https://forms.gle/KK47cKh1XX9spjPVA) |
-| Aficionados a la Tecnología y a la Innovación | FALTA |
-| Emprendedores | [https://forms.gle/23y957KySiyVFPCS9](https://forms.gle/23y957KySiyVFPCS9) |
-| Decoradores de Interiores | [https://forms.gle/2P7zYQmxGGkbtbpt5](https://forms.gle/2P7zYQmxGGkbtbpt5) |
-| Educadores | [https://forms.gle/ge8wFaDYFmb5ebjn7](https://forms.gle/ge8wFaDYFmb5ebjn7) |
-</div>
+En el primer sprint se le facilitará la aplicación junto al manual de uso y un formulario a los usuarios pilotos el día 1 de marzo de 2024 y se espera recibir el feedback desde dicho días hasta el domingo.
 
-Para poder hacer un correcto seguimiento de las distintas funcionalidades implementadas en el Sprint 1, se ha optado por crear un formulario distinto para cada una de las funcionalidades para que cada usuario piloto pueda expresar mejor las partes de la aplicación que ha probado y sea lo más específico posible a un caso de uso.
-<div class="markdown-table">
-| **Caso de Uso** | **Enlace** |
-| --- | --- |
-| Carrito de Compra | [https://forms.gle/y63bEKKJi52dGpzVA](https://forms.gle/y63bEKKJi52dGpzVA) |
-| Detalles de Artista | [https://forms.gle/iC1Q51XSqhSMCUdVA](https://forms.gle/iC1Q51XSqhSMCUdVA) |
-| Detalles de Impresor | [https://forms.gle/fmHhynaQYmgGZqW8A](https://forms.gle/fmHhynaQYmgGZqW8A) |
-| Diseño de Interfaz | [https://forms.gle/marMyzza65jkaru2A](https://forms.gle/marMyzza65jkaru2A) |
-| Lógica de Producto | [https://forms.gle/tb6Hb52YUpvf7kXi7](https://forms.gle/tb6Hb52YUpvf7kXi7) |
-| Registro e Inicio de Sesión | [https://forms.gle/YqkxF2pLxPEh9aREA](https://forms.gle/YqkxF2pLxPEh9aREA) |
-| Visualizador de Modelos 3D | [https://forms.gle/PHXD3v8AghM8wPRcA](https://forms.gle/PHXD3v8AghM8wPRcA) |
-</div>
+En cuanto al segundo sprint el plazo inicial planteado por el equipo para que los usuarios pilotos accedan a la aplicación del viernes 22 de marzo al domingo 24 de marzo, aunque si algún usuario lo solicita se le permitirá administrar feedback en semana santa.
 
-### **FEEDBACK DE USUARIOS PILOTOS**
+Finalmente en el tercer sprint el plazo inicial planteado por el equipo va del 12 de abril al 14 de abril.
 
-Esta sección está diseñada para recopilar y analizar el feedback de los usuarios pilotos. El feedback proporcionado aquí será utilizado para mejorar nuestros servicios. Los usuarios pueden compartir sus experiencias, sugerencias y problemas encontrados durante el uso de nuestro servicio. Agradecemos su contribución.
+## **SPRINT 1**
 
-- Usuario piloto 1:
+Durante el primer sprint, se realizan las tareas que consoliden el MVP, por lo tanto, los usuarios deben probar que todas estas funcionalidades actúan como ellos esperan y que, además, pueden navegar por todo el sistema sin ningún error.
 
-“EJEMPLO”
+Queremos que en este primer incremento del sistema, los usuarios nos den un feedback bastante crítico, que nos comenten realmente qué opinan de la web y del modelo de negocio, no una opinión banal con la que no podamos adaptar Shar3D al público objetivo, debido a que es la etapa en la cuál tendremos más margen de cambio para llevar el proyecto a buen puerto.
 
-Análisis…
+En primer lugar, daremos al usuario todas las pautas que deben seguir para probar los casos de uso realizados, por lo que se les aportará un manual de usuario con ayudas visuales, y credenciales para que puedan acceder al sistema usando los distintos roles. Para ello, se va a realizar una plantilla que se mostrará al final de este apartado y se enviará a los distintos usuarios pilotos vía correo electrónico.
 
+Además de esa información, el mensaje contendrá un enlace a un formulario en Microsoft Forms el cuál será personalizado en función del perfil que tenga el usuario, pues queremos obtener información específica de personas que realmente estén al tanto de lo que se pregunta, por ejemplo, no es lo mismo preguntarle si cree que nuestro servicio tiene futuro en el mercado a un emprendedor y a un educador. Pese a ello, habrán campos comunes que evidencian la opinión en general sobre el servicio.
 
-### **ACCIONES PARA MEJORAR**
+Creemos que este feedback es una parte esencial del proyecto, por lo que proponemos un sistema de recompensas a aquellos usuarios piloto que prueben el servicio. Para ello, vamos a dividir esta recompensa según las veces que han probado nuestro servicio y el feedback que hemos recibido respecto a cada uno de ellos.
 
-En esta sección, se presentan las acciones de mejora que se han implementado en respuesta a la retroalimentación recibida.
-<div class="markdown-table">
-| **Crítica** | **Acción tomada** | **Interesados** |
-| --- | --- | --- |
-|     |     |     |
-| --- | --- | --- |
-</div>
+- 1 Sprint: este caso se refiere a que el usuario piloto únicamente ha devuelto feedback durante 1 sprint. Consideramos que su feedback no será del todo completo, puesto que no ha accedido a todos aquellos casos de uso que le hemos propuesto, por lo tanto, no tendrá ninguna recompensa.
+- 2 Sprints: en este caso, el usuario piloto, da feedback durante 2 sprints. Creemos que este caso requiere más esfuerzo que el anterior y que el feedback que recibiremos será mucho más completo, por lo que el usuario tendrá una bonificación para que, en su primer pedido en Shar3D, el envío del producto sea gratuito.
+- 3 Sprints: el usuario piloto ha probado toda la funcionalidad desarrollada por el equipo y obtenemos feedback de un posible cliente que tiene una visión general de todo lo que ofrecemos y comprende el funcionamiento del sistema en todos los aspectos. Por lo tanto, consideramos que la información que nos devuelve es muy importante para tener en cuenta en los siguientes incrementos y que deben tener un 100% de descuento en cualquier plan de Shar3D durante 1 mes.
+
 
 ## **CONCLUSIONES**
 

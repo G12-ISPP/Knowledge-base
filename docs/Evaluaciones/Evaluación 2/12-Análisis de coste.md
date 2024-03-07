@@ -4,9 +4,10 @@
 
 ## **SHAR3D**
 
-#### 15/02/2024
+#### 01/03/2024
 
 # **ANÁLISIS DE COSTE**
+
 
 ## **REALIZADO POR:**
 <div class="markdown-table">
@@ -17,7 +18,7 @@
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
 
-### **1ª ENTREGA**
+### **2ª ENTREGA**
 
 ### **- GRUPO 12 -** 
 
@@ -36,6 +37,8 @@
 
 [**COSTE OPERACIONAL**](#coste-operacional)
 
+[**TCO**](#tco)
+
 [**RENTABILIDAD DEL NEGOCIO**](#rentabilidad-del-negocio)
 
 [**CONCLUSIONES**](#conclusiones)
@@ -46,13 +49,15 @@
 
 </div>
 
-### **CONTROL DE VERSIONES**
+# **CONTROL DE VERSIONES**
 <div class="markdown-table">
 | **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
 | --- | --- | --- | --- |
 | v1.0.0 | Inicio del documento | García Sánchez-Hermosilla, Alejandro | 15/02/2024 |
-| v1.1.0 | Versión para la primera evaluación | García Sánchez-Hermosilla, AlejandroEscalante Ramos, María | 15/02/2024 |
+| v1.1.0 | Versión para la primera evaluación | García Sánchez-Hermosilla, Alejandro  Escalante Ramos, María | 15/02/2024 |
 | v1.2.0 | Ajuste de costes tras calcular la necesidad de GitHub Actions | Campos Garrido, Juan Jesús | 22/02/2024 |
+| v1.3.0 | Revisión del coste para añadir los conceptos CapEx OpEx | Campos Garrido, Juan Jesús | 01/03/2024 |
+| v1.4.0 | Añadidos distintos escenarios para medir la rentabilidad | Campos Garrido, Juan Jesús | 01/03/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**
@@ -61,7 +66,7 @@ En este documento se hace un **análisis sobre los costes** que abarcan el alcan
 
 Para ello se ha seccionado en diferentes partes, como por ejemplo, **coste capital, coste operacional, coste restante y coste total de TCO**. Durante el desglose de los costes, se ha llevado a cabo la idea de realizar un **análisis de la rentabilidad** del negocio suponiendo unas transacciones mensuales y suscripciones.
 
-Y finalmente como conclusión del documento se exponen los **costes totales** en un plazo de **2 años de uso** de la aplicación, conjunto a los **beneficios** que obtendremos en contraparte de lo que ha costado el proyecto.
+Y finalmente como conclusión del documento se exponen los **costes totales** en un plazo de **2 años de uso** de la aplicación, conjunto a los **beneficios** que obtendremos en contraparte de lo que ha costado el proyecto en tres escenarios diferentes.
 
 ## **INTRODUCCIÓN**
 
@@ -77,13 +82,13 @@ En este apartado se explicarán cuáles serán los costes en los que se incurrir
 
 ### **COSTE DE PUESTA EN FUNCIONAMIENTO**
 
-Este coste trata de estimar el coste total que los trabajadores supondrán para la empresa. Tendremos en cuenta las horas trabajadas y que cada trabajador trabajará con su propio equipo, por lo que tanto los dispositivos como el mantenimiento e instalación del software es responsabilidad del trabajador. Las horas totales trabajadas deben ser:
+Este coste trata de estimar el coste total que los trabajadores supondrán para la empresa. Las horas totales trabajadas deben ser:
+
+En primer lugar habría que tener en cuenta el coste de los equipos de los desarrolladores, para esto asumimos que cada desarrollador trabajará con un ordenador de 1000€, y asumimos que la vida útil de un equipo de estas características es de 4 años, lo que son 48 meses, teniendo esto en cuenta, los equipos consumirán en el proyecto 4 meses, lo que supone un 0,083% de su vida útil. Por lo que el valor correspondiente a cada equipo en el proyecto será de **83€**, teniendo en cuenta que necesitamos 12 equipos, en total serán **996€.**
 
 **12 trabajadores × 15 semanas × 10 horas/semana = 1800 horas**
 
 En la siguiente tabla se muestra un desglose detallado de los perfiles laborales que participarán en el proyecto; especificando el sueldo por hora bruto, las horas trabajadas por perfil y el coste total asociado resultante de la multiplicación de ambos datos anteriores. Finalmente mediante la suma de los costes totales de cada perfil obtenemos el coste total que supondrá la contratación del equipo de trabajo para la empresa.
-
-<div class="markdown-table">
 
 | **Perfil** | **Sueldo por hora bruto (sin IVA)** | **Horas trabajadas por perfil** | **Coste total** |
 | --- | --- | --- | --- |
@@ -97,17 +102,16 @@ En la siguiente tabla se muestra un desglose detallado de los perfiles laborales
 | Diseñadores gráfico | 20,15 €/h | 100 h | 2.015 € |
 | DevOps | 12,05 €/h | 150 h | 1.807,5 € |
 | Total | \-  | 1.800 h | **46.113 € \*\*** |
-</div>
 
 **\*\*** Los costes de cada perfil han sido calculados en base a los salarios mínimos brutos estipulados para empleados junior.
 
-## A este coste habría que sumarle el coste de la licencia de hospedar el proyecto en GitHub. Para ello se ha escogido la opción de suscripción Team con un precio de 3,28 €/mes por usuario de la empresa, lo que hace un total de **39,36 €/mes** ya que somos 12 desarrolladores en el proyecto. Durante 4 meses lo que haría un total de **157,44€**
+A este coste habría que sumarle el coste de la licencia de hospedar el proyecto en GitHub. Para ello se ha escogido la opción de suscripción Team con un precio de 3,28 €/mes por usuario de la empresa, lo que hace un total de **39,36 €/mes** ya que somos 12 desarrolladores en el proyecto. Durante 4 meses lo que haría un total de **157,44€**.
 
-Se ha escogido la suscripción Team ya que esta nos asegura 3.000 minutos de CI al mes. Estimando que cada ciclo de integración continua tarde como máximos cinco minutos, podríamos realizar 600 ciclos al mes, cantidad que el equipo estima que será más que suficiente para el desarrollo del proyecto.
+Se ha escogido la suscripción Team ya que esta nos asegura 3.000 minutos de CI al mes. Estimando que cada ciclo de integración continua tarde como máximo diez minutos, podríamos realizar 300 ciclos al mes, cantidad que el equipo estima que será más que suficiente para el desarrollo del proyecto.
 
 Adicionalmente habría que tener en cuenta el coste de utilizar plataformas para gestionar la calidad del proyecto durante su desarrollo en concreto utilizaremos SonarCloud con un plan que costaría 11 €/mes durante cuatro meses.
 
-Finalmente tendríamos un coste de puesta en marcha de **46.314,44€**
+Finalmente tendríamos un coste de puesta en marcha de **47.310,44€**
 
 ### **COSTE OPERACIONAL**
 
@@ -125,6 +129,28 @@ También debemos de tener en cuenta que para mantener la calidad del código en 
 
 Lo que en resumen conlleva un coste operacional de **943,6€/mes**.
 
+### **TCO**
+
+Por lo tanto el coste de propiedad de la aplicación al cabo de dos años se podría descomponer de la siguiente forma:
+
+CAPEX:
+
+- Coste de los equipos necesarios para el proyecto: 996€
+
+OPEX:
+
+- Coste de los contratos de los desarrolladores 46.133€
+- Coste de licencias de GitHub durante el desarrollo 157,44€
+- Coste de licencias de sonarCloud durante el desarrollo 44€
+- Coste de licencias de GitHub durante el ciclo de vida del servicio 78,72€
+- Coste del despliegue 4.303,68€
+- Coste de licencias de SonarCloud al cabo de dos años del servicio 528€
+- Coste de las revisiones y mejoras continuas 18.000€
+
+A estos costes se añadirá una reserva de contingencia de 2.000€
+
+Por lo que en total el coste de propiedad del servicio al cabo de dos años será de 72.240,84 €
+
 ### **RENTABILIDAD DEL NEGOCIO**
 
 En el contexto de esta aplicación tenemos que tener en cuenta que vamos a sacar un beneficio económico de diferentes aspectos, no solamente de la impresión de productos en tres dimensiones.
@@ -139,39 +165,56 @@ Además de esto también proporcionamos un servicio de compraventa de productos 
 
 Haciendo unas estimaciones generales viendo como se encuentra el mercado de las impresiones en 3D, calculamos que de cada transacción obtendremos un beneficio medio de 3€, esto es debido a la gran diferencia entre productos, a causa de la diversidad de magnitudes entre objetos imprimibles.
 
-A continuación, realizaremos un estudio con el objetivo de determinar si el negocio es rentable en un plazo de 2 años con una suscripción de 60 personas a cada plan (vendedor, comprador y diseñador).
+A continuación, realizaremos un estudio con el objetivo de determinar si el negocio es rentable en un plazo de 2 años diferenciando varios escenarios:
+
+En un escenario intermedio las suposiciones serían las siguientes:
 
 En cuanto a las ganancias en las ventas de productos anualmente, se estima que en Europa existe un gasto de 4.000 millones de euros en productos 3D y se prevé que haya un aumento del 17% para 2025 y se mantenga constante. Por lo que un número de 200 transacciones mensuales es una estimación razonable para los cálculos futuros. Teniendo en cuenta todas estas estimaciones y cálculos basados en datos estadísticos, esto supone que en total obtendremos:
 
-- Suscripción comprador:**14400€**
+- Suscripción comprador: **14400€**
 
-- Suscripción vendedor:**21600€**
+- Suscripción vendedor: **21600€**
 
-- Suscripción diseñador:**21600€**
+- Suscripción diseñador: **21600€**
 
 - Beneficio ventas: **14400€**
 
-Todo esto hace un total de **72.000€** en 2 años, por lo que tendríamos beneficios suficientes como para recuperar el primer año del proyecto.
+Todo esto hace un total de **72.000€** en 2 años. Que comparándolo con los **72.240,84 €** que costaría la propiedad del servicio en ese mismo tiempo, nos da la seguridad de que recuperamos la inversión inicial y a partir del tercer año empezaríamos a ganar dinero.
 
-Una vez calculado el beneficio que podríamos obtener en dos años, vamos a calcular el coste que conllevaría la propiedad de la aplicación al cabo de dos años:
+En un escenario pesimista las suposiciones serían las siguientes:
 
-- Coste de puesta en marcha: como se calculó anteriormente para poner el marcha y el proyecto y desarrollar la aplicación se necesitarían **46.314,44€**
-- Coste de operación: como hemos calculado anteriormente, teniendo en cuenta factores como un técnico que realice revisiones y mejoras correctivas semanalmente, además del coste de la plataforma donde se despliegue la aplicación y el coste de una plataforma que mida la calidad del proyecto, el coste de operación mensual sería de **943,6€/mes**. que a lo largo de dos años implicaría un coste de **22.639,2€.**
-- Llegando a un coste total de **68.953,64€.**
+Se estiman 100 transacciones mensuales, donde el precio por transacción sería igualmente de 3€ y se estima que venderíamos 40 cuentas de cada tipo mensualmente. Teniendo en cuenta todas estas suposiciones podríamos obtener:
 
-Por lo que podemos concluir que tras dos años, el negocio empezaría a ser rentable ya que habíamos recuperado la inversión inicial y el coste de operación de esos dos años.
+- Suscripción comprador: **9600€**
+
+- Suscripción vendedor: **14400€**
+
+- Suscripción diseñador: **14400€**
+
+- Beneficio ventas: **7200€**
+
+Todo esto haría un total de **45.600€**, una cifra bastante inferior a los **72.240,84 €** que costaría la propiedad del servicio durante este periodo, en este escenario la aplicación podría llegar a ser rentable al cabo de varios años más, pero no a corto plazo, por lo que la aplicación no sería realmente sostenible.
+
+En un escenario optimista las suposiciones serían las siguientes:
+
+Se estiman 300 transacciones mensuales, donde el precio por transacción sería igualmente de 3€ y se estima que venderíamos 100 cuentas de cada tipo mensualmente. Teniendo en cuenta todas estas suposiciones podríamos obtener:
+
+- Suscripción comprador: **24000€**
+
+- Suscripción vendedor: **36000€**
+
+- Suscripción diseñador: **36000€**
+
+- Beneficio ventas: **21600€**
+
+Todo esto haría un total de **117.600€**, una cifra superior a los **72.240,84 €** que costaría la propiedad del servicio durante este periodo, en este escenario la aplicación sería altamente rentable.
+
 
 ## **CONCLUSIONES**
 
-Finalmente, hemos obtenido el precio del proyecto durante los dos primeros años de ciclo de vida; incluyendo el desarrollo, la puesta en producción y la rentabilidad obtenida con las primeras ventas del negocio. Así este precio asciende a:
+Anteriormente, en el análisis de la rentabilidad obtuvimos que con las ventas realizadas en los escenarios positivo e intermedio, al cabo de dos años, la aplicación empieza a ser sostenible.
 
-48.314,44+ 22.639,2€ = 68.953,64€
-
-Anteriormente, en el análisis de la rentabilidad obtuvimos que con las ventas realizadas tendríamos un beneficio de 72000. Por tanto obtendremos un beneficio de:
-
-72.000 €- 68.953,64€ = 3.046,36 €
-
-Es decir, a partir del segundo año del ciclo de vida del sistema solo se obtendría beneficios.
+Y en el caso negativo la aplicación podría llegar a ser sostenible al cabo de varios años, pero no a corto plazo.
 
 **Por todo esto, nuestro negocio es sostenible económicamente.**
 
@@ -179,7 +222,7 @@ Es decir, a partir del segundo año del ciclo de vida del sistema solo se obtend
 
 - [https://www.mordorintelligence.com/es/industry-reports/automated-3d-printing-market]
 - [https://www.interempresas.net/Fabricacion-aditiva/Articulos/472878-La-impresion-aditiva-Informe-2023.html]
-- [Tabla de salario de perfiles](https://www.juntadeandalucia.es/export/drupaljda/DGTD_instruccion_perfiles_TIC.pdf)
+- [Tabla de salario de perfiles] (https://www.juntadeandalucia.es/export/drupaljda/DGTD_instruccion_perfiles_TIC.pdf)
 - [Enlace calculo de coste de productos 3D](https://www.interempresas.net/Fabricacion-aditiva/Articulos/372358-El-mercado-de-la-impresion-3D-facturara-10120-millones-en-2025.html)
 
 ## **PROMPTS DE INTELIGENCIA ARTIFICIAL**
@@ -190,3 +233,4 @@ En esta sección se recogen los diferentes prompts que se han usado a través de
 
 - [Ayuda para costes preliminares](https://chat.openai.com/share/8e941490-dd91-40c5-a53c-5ff59102beba)
 - [Analisis de personas concurrentes y precio de GitHub](https://chat.openai.com/share/75b42eab-42f0-424a-85c0-6314ec0e711c)
+- [Consulta sobre el tipo de costes del personal de desarrollo](https://chat.openai.com/share/c918717a-13ba-4af7-8001-013f075fc8b1)

@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 17/02/2024
+#### 22/02/2024
 
 # **REPORTE DE LA BASE DE CONOCIMIENTO GENERAL**
 
@@ -17,7 +17,7 @@
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
 
-### **1ª ENTREGA**
+###     **2ª ENTREGA**
 
 ### **GRUPO 12**
 
@@ -45,6 +45,7 @@
 
 ### **CONTROL DE VERSIONES**
 <div class="markdown-table">
+
 | **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
 | --- | --- | --- | --- |
 | v0.1 | Creación del documento | Campos Garrido, Juan Jesús | 17/02/2024 |
@@ -64,15 +65,15 @@ A lo largo de este documento veremos las aportaciones que el grupo doce ha reali
 
 ## **CONTENIDOS**
 
-En primer lugar la base de conocimientos general se encuentra en el siguiente enlace: [Base de conocimiento](https://bgcc.vercel.app/).
+En primer lugar la base de conocimientos general se encuentra en el siguiente enlace:  [https://bgcc.vercel.app/].
 
-Si se quiere acceder al código fuente del proyecto, está alojado en GitHub en el siguiente enlace [Repositorio de github](https://github.com/ISPP-2324/BGC). Concretamente el usuario que se encargará de subir el contenido por parte de nuestro grupo es el usuario jucamgar2.
+Si se quiere acceder al código fuente del proyecto, está alojado en GitHub en el siguiente enlace  [https://github.com/ISPP-2324/BGC]. Concretamente el usuario que se encargará de subir el contenido por parte de nuestro grupo es el usuario jucamgar2.
 
 ### **CONTRIBUCIONES**
 
 En primer lugar el grupo ha contribuido subiendo todo el feedback propio que ha recopilado durante las clases, concretamente dicho feedback se puede consultar en el siguiente enlace:
 
-[Feedback de las clases](https://bgcc.vercel.app/docs/Grupos%20de%20tarde/Grupo%2012)
+ [https://bgcc.vercel.app/docs/Grupos%20de%20tarde/Grupo%2012]
 
 El grupo doce no solo ha contribuido con su propio feedback sino que además ha aportado a varios conceptos que se han comentado de forma general en el turno de tarde.
 
@@ -88,7 +89,7 @@ Grupos de tarde- >Análisis de competidores-> Semana2:
 
 Grupos de tarde- >Análisis de costes-> Semana2:
 
-- Al calcular el TCO debemos tener en cuenta costes como las licencias de Git Hub ya que en proyectos reales fuera de la universidad hay que pagar licencias para utilizar Git Hub. Si vamos a usar git hub actions, también deberíamos tenerlo en cuenta a la hora de calcular el precio.  
+- Al calcular el TCO debemos tener en cuenta costes como las licencias de Github ya que en proyectos reales fuera de la universidad hay que pagar licencias para utilizar Github. Si vamos a usar git hub actions, también deberíamos tenerlo en cuenta a la hora de calcular el precio.  
 
 - El TCO no es un presupuesto. Lo que hay que estimar es el coste total de propiedad. Siempre detallar a qué se refiere el coste de mantenimiento (si es coste de personal, de herramientas, de despliegue, etc.). El TCO se calcula por meses, no poner un total  
     Grupos de tarde- >Inicio efectivo -> Semana2:
@@ -129,9 +130,10 @@ Algunas de las acciones de mejoras que han sido tomadas gracias al feedback que 
 - Se ha añadido una cláusula de penalización al Commitment Agreement tal cual se comentó en clase.
 - Se ha tenido en cuenta la cantidad de minutos que pueden ser necesarios de GitHub Actions para mejorar el análisis de costes.
 - Se ha decidido incluir una diapositiva para comentar el estado de los usuarios pilotos.
+- Se ha intentado hacer un análisis del coste más parecido a los que los profesores han comentado en clase que eran correctos.
+- Se ha incluido un calendario en las presentaciones al hablar de usuarios pilotos.
 
-Finalmente, el grupo también tiene su propia base de conocimiento donde subimos directamente los apuntes de feedback que vamos tomando en clase, además de una colección de consultas a las inteligencias artificiales que hemos ido realizando para que siempre queden disponibles y que el resto del equipo las pueda reutilizar. Además, se suelen subir también apuntes de los videos de las píldoras teóricas. Dicha base de conocimiento se encuentra en el siguiente enlace: [Base de conocimiento](https://knowledge-base-orpin.vercel.app/)
-
+Finalmente, el grupo también tiene su propia base de conocimiento donde subimos directamente los apuntes de feedback que vamos tomando en clase, además de una colección de consultas a las inteligencias artificiales que hemos ido realizando para que siempre queden disponibles y que el resto del equipo las pueda reutilizar. Además, se suelen subir también apuntes de los videos de las píldoras teóricas. Dicha base de conocimiento se encuentra en el siguiente enlace:  [https://knowledge-base-orpin.vercel.app/]
 
 
 ## **CONCLUSIONES**
