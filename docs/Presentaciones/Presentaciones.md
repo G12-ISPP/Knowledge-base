@@ -7,3 +7,5 @@
 + [Presentación Semana 4](/pdf/Presentación-semana-4.pdf)
 
 + [Presentación entrega Sprint 1](/pdf/12-presentacionS1.pdf)
+
++ [Presentación Semana 6](/pdf/Presentación-Semana-6.pdf)
