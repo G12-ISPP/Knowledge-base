@@ -83,10 +83,12 @@ Los alumnos del grupo 12 de la asignatura Ingeniería de Software y Práctica Pr
   - Esto implica que me comprometo a finalizar mis tareas aunque haya sobrepasado las diez horas semanales, por lo que si llego a mis diez horas semanales no podré abandonar una tarea a medias.
   - Si supero las diez horas semanales, el trabajo extra de esta semana no tendré que realizarlo la semana que viene.
 - **Revisión de tareas:** Me comprometo a revisar las tareas en el tiempo establecido por el equipo, especialmente en aquellas que se puedan considerar críticas para el correcto desarrollo de la aplicación o las que puedan afectar a otras tareas por haber dependencias entre ellas.
+  - Si cuando quiera hacer una Pull Request hay pull request esperando a ser revisadas, me comprometo a revisar al menos la mitad de las pull request antes de subir la mia o seré castigado con una hora máss de trabajo durante esa semana. 
 - **Registro de tiempo:** Acuerdo registrar el tiempo dedicado a cada tarea utilizando la herramienta Clockify, pudiendo proporcionar pruebas para justificar dicho tiempo si son requeridas. Por lo tanto, me comprometo a ser honesto con los tiempos registrados en Clockify.
 - **Compromiso de convivencia:** Me comprometo a tratar a todos mis compañeros con respeto y a tratar de solucionar todos los problemas personales que surjan. En los trabajos en grupo es normal que surjan roces y por estos hay una discusión y falto el respeto a mis compañeros, ellos podrán someter a votación mi continuidad en el proyecto.
 - **Compromiso de gestión de problemas:** Cuando surja un conflicto en el proyecto me comprometo a comentarlo con uno de los encargados del proyecto, para así empezar a buscar soluciones y que el problema no crezca.
 - **Compromiso de comunicación efectiva:** Como integrante del equipo me comprometo a revisar el canal de comunicación general ya que allí se comunicarán todas las decisiones importantes que afecten al proyecto y así podré estar siempre informado. Además me comprometo a comunicar por dicho canal cualquier información fundamental para el proyecto para que todos tengan acceso a ella.
+
 
 Para ver las tareas que han sido completadas por cada integrante del equipo
 
