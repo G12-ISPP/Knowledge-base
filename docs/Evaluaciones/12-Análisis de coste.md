@@ -136,10 +136,10 @@ Por lo tanto el coste de propiedad de la aplicación al cabo de dos años se pod
 CAPEX:
 
 - Coste de los equipos necesarios para el proyecto: 996€
+- Coste de los contratos de los desarrolladores 46.133€
 
 OPEX:
 
-- Coste de los contratos de los desarrolladores 46.133€
 - Coste de licencias de GitHub durante el desarrollo 157,44€
 - Coste de licencias de sonarCloud durante el desarrollo 44€
 - Coste de licencias de GitHub durante el ciclo de vida del servicio 78,72€
@@ -169,13 +169,15 @@ A continuación, realizaremos un estudio con el objetivo de determinar si el neg
 
 En un escenario intermedio las suposiciones serían las siguientes:
 
-En cuanto a las ganancias en las ventas de productos anualmente, se estima que en Europa existe un gasto de 4.000 millones de euros en productos 3D y se prevé que haya un aumento del 17% para 2025 y se mantenga constante. Por lo que un número de 200 transacciones mensuales es una estimación razonable para los cálculos futuros. Teniendo en cuenta todas estas estimaciones y cálculos basados en datos estadísticos, esto supone que en total obtendremos:
+En cuanto a las ganancias en las ventas de productos anualmente, se estima que en Europa existe un gasto de 4.000 millones de euros en productos 3D y se prevé que haya un aumento del 17% para 2025 y se mantenga constante. Por lo que un número de 200 transacciones mensuales es una estimación razonable para los cálculos futuros. 
+Estimando que venderíamos 80 planes vendedor, 60 planes comprador y 40 planes diseñador.
+Teniendo en cuenta todas estas estimaciones y cálculos basados en datos estadísticos, esto supone que en total obtendremos:
 
 - Suscripción comprador: **14400€**
 
-- Suscripción vendedor: **21600€**
+- Suscripción vendedor: **28800€**
 
-- Suscripción diseñador: **21600€**
+- Suscripción diseñador: **14400**
 
 - Beneficio ventas: **14400€**
 
@@ -183,13 +185,13 @@ Todo esto hace un total de **72.000€** en 2 años. Que comparándolo con los *
 
 En un escenario pesimista las suposiciones serían las siguientes:
 
-Se estiman 100 transacciones mensuales, donde el precio por transacción sería igualmente de 3€ y se estima que venderíamos 40 cuentas de cada tipo mensualmente. Teniendo en cuenta todas estas suposiciones podríamos obtener:
+Se estiman 100 transacciones mensuales, donde el precio por transacción sería igualmente de 3€ y se estima que venderíamos 60 planes vendedor, 40 planes comprador y 20 planes diseñador. Teniendo en cuenta todas estas suposiciones podríamos obtener:
 
-- Suscripción comprador: **9600€**
+- Suscripción comprador: **21600**
 
-- Suscripción vendedor: **14400€**
+- Suscripción vendedor: **7200**
 
-- Suscripción diseñador: **14400€**
+- Suscripción diseñador: **7200**
 
 - Beneficio ventas: **7200€**
 
@@ -197,13 +199,13 @@ Todo esto haría un total de **45.600€**, una cifra bastante inferior a los **
 
 En un escenario optimista las suposiciones serían las siguientes:
 
-Se estiman 300 transacciones mensuales, donde el precio por transacción sería igualmente de 3€ y se estima que venderíamos 100 cuentas de cada tipo mensualmente. Teniendo en cuenta todas estas suposiciones podríamos obtener:
+Se estiman 300 transacciones mensuales, donde el precio por transacción sería igualmente de 3€ y se estima que en este caso venderíamos 140 planes vendedor, 100 planes comprador y 60 planes diseñador. Teniendo en cuenta todas estas suposiciones podríamos obtener:
 
 - Suscripción comprador: **24000€**
 
-- Suscripción vendedor: **36000€**
+- Suscripción vendedor: **50400**
 
-- Suscripción diseñador: **36000€**
+- Suscripción diseñador: **21600**
 
 - Beneficio ventas: **21600€**
 
