@@ -90,7 +90,7 @@ Los alumnos del grupo 12 de la asignatura Ingeniería de Software y Práctica Pr
 - **Compromiso de comunicación efectiva:** Como integrante del equipo me comprometo a revisar el canal de comunicación general ya que allí se comunicarán todas las decisiones importantes que afecten al proyecto y así podré estar siempre informado. Además me comprometo a comunicar por dicho canal cualquier información fundamental para el proyecto para que todos tengan acceso a ella.
 
 
-Para ver las tareas que han sido completadas por cada integrante del equipo
+Para ver las tareas que han sido completadas por cada integrante del equipo: https://github.com/G12-ISPP/ISPP/issues
 
 ## **FIRMA DE LOS INTEGRANTES**
 
