@@ -117,6 +117,11 @@ Grupo de tarde -> Presentación -> Semana 3:
 
 - A partir de ahora hay que añadir una diapositiva donde se muestre el estado en el que están los usuarios pilotos, si han sido contactados, sí han confirmado, si estamos esperando su confirmación, etc.
 
+Grupo de tarde -> Presentación -> Semana 7:
+
+- No usar el storyboard como killer opener
+- Ya que tenemos un storyboard, utilizar este hilo conductor a lo largo de toda la presentación y por ejemplo cuando estmos haciendo la demo, podemos editar el video y poner referencias al storyboard.
+
 ### **ACCIONES DE MEJORA TOMADAS**
 
 Algunas de las acciones de mejoras que han sido tomadas gracias al feedback que se ha aportado en clase y del cual se han tomado apuntes y se ha subido a la plataforma de docusaurus.
@@ -132,6 +137,7 @@ Algunas de las acciones de mejoras que han sido tomadas gracias al feedback que 
 - Se ha decidido incluir una diapositiva para comentar el estado de los usuarios pilotos.
 - Se ha intentado hacer un análisis del coste más parecido a los que los profesores han comentado en clase que eran correctos.
 - Se ha incluido un calendario en las presentaciones al hablar de usuarios pilotos.
+- De cara a futuras presentaciones, en las demos se intentarán hacer referencias al storyboard.
 
 Finalmente, el grupo también tiene su propia base de conocimiento donde subimos directamente los apuntes de feedback que vamos tomando en clase, además de una colección de consultas a las inteligencias artificiales que hemos ido realizando para que siempre queden disponibles y que el resto del equipo las pueda reutilizar. Además, se suelen subir también apuntes de los videos de las píldoras teóricas. Dicha base de conocimiento se encuentra en el siguiente enlace:  [https://knowledge-base-orpin.vercel.app/]
 
