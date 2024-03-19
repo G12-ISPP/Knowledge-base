@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-**VGRUPO 8 – BANQUET BUDDY**
+**GRUPO 8 – BANQUET BUDDY**
 + Ha faltado la situación actual con respecto a los costes. Tampoco se ha incluido una comparación entre situaciones optimista, pesimista y esperada.
 
 + Falta incluir el estado del commitment agreement.
