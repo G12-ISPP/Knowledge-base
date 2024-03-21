@@ -617,23 +617,53 @@ Figura 44 - Botón comprar plan
 
 ## **CASO 6: PERFIL**
 
-En este apartado se explicará los distintas acciones que se pueden realizar dentro del perfil de un usuario, tanto el nuestro propio como en el resto.
+En este apartado se explicará los distintas acciones que se pueden realizar dentro del perfil de un usuario, tanto el nuestro propio como en el resto. En primer lugar, podemos acceder a nuestro perfil desde el botón "Ver perfil" \[Figura 45\]. Si queremos acceder al perfil de otro usuario,
+con pulsar sobre él desde cualquier lugar en el que se referencie, como puede ser un producto o el lista de artistas, es suficiente.
+
+![](/img/revision/image59.png)
+Figura 45 - Botón ver perfil
+
+Tanto en nuestro perfil como en los demás, podremos ver los productos que tiene publicados el usuario y las opiniones. En el de los demás, podremos
+añadir opiniones, abrir un chat con ellos y empezar a seguirlo para recibir información sobre su actividad en Shar3D.
+
+Respecto al nuestro, tenemos la posibilidad de editar tanto el propio perfil como nuestros productos, que lo explicaremos más adelante.
+
 
 ### 6.1 EDICIÓN PERFIL
 
-Se puede editar los datos iniciales con los que se registró.
+Si hay algún cambio respecto a los datos con los que se registró, como puede ser correo, dirección e incluso foto de perfil, puede editar esa
+información pulsando sobre el botón "Editar perfil" \[Figura 46\].
+
+![](/img/revision/image60.png)
+Figura 46 - Editar perfil
 
 ### 6.2 MIS PRODUCTOS
 
-Puede ver los productos que usted ha puesto a la venta.
+Para ver los productos que ha puesto a la venta el usuario, pulsando sobre el botón "Productos" \[Figura 47\] podrá ver una lista con todos
+los disponibles.
+
+![](/img/revision/image61.png)
+Figura 47 - Botón productos
 
 #### 6.2.1 EDICIÓN PRODUCTO
 
-Puede editar algunos datos de sus productos a la venta.
+Respecto a lo anterior, si queremos editar alguno de nuestros productos, podemos acceder pinchando sobre él y pulsando sobre el botón "Editar
+producto" \[Figura 48\], que nos enviará a un formulario desde el cuál se podrá modificar algunos de los datos del producto.
+
+![](/img/revision/image62.png)
+Figura 48 - Botón editar producto
 
 ### 6.3 OPINIONES
 
-Puede realizar y ver opiniones sobre los usuarios de la web.
+Volviendo a la vista del perfil, podremos ver que en la parte inferior se muestran las opiniones de cada usuario, en el caso de acceder
+al perfil de un usuario distinto al nuestro, tendremos la posibilidad de añadir una opinión sobre él. Para ello, pulsando sobre el botón
+"Añadir opinión" \[Figura 49\] se nos mostrará un formulario que, tras rellenarlo (Puntuación entre 1 y 5) \[Figura 50\] y pulsar sobre publicar opinión, se añadirá al perfil del usuario.
+
+![](/img/revision/image63.png)
+Figura 49 - Botón añadir opinión
+
+![](/img/revision/image64.png)
+Figura 50 - Añadir opinión
 
 ## **CASO 7: MIS PEDIDOS**
 
