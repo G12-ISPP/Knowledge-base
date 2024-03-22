@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 02/03/2024
+#### 22/03/2024
 
 # **REPORTE DE ESFUERZO TEMPORAL**
 
@@ -17,7 +17,7 @@
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
 
-### **2ª ENTREGA**
+### **3ª ENTREGA**
 
 ### **- GRUPO 12 -**
 
@@ -36,6 +36,8 @@
 
 [**FASE DE SPRINT 1**](#fase-de-sprint-1)
 
+[**FASE DE SPRINT 2**](#fase-de-sprint-2)
+
 [**CONCLUSIONES**](#conclusiones)
 
 [**BIBLIOGRAFÍA**](#bibliografía)
@@ -52,6 +54,7 @@
 | v1.0 | Preparación del documento con formato para incluir los reportes temporalres | Campos Garrido, Juan Jesús | 17/02/2024 |
 | v1.1 | Añadidos reportes temporales de la etapa de DP | Campos Garrido, Juan Jesús | 22/02/2024 |
 | v1.2 | Añadidos reportes temporales de la etapa de S1 | Campos Garrido, Juan Jesús | 02/03/2024 |
+| v2.0 | Añadidos reportes temporales de la etapa de S2 | Campos Garrido, Juan Jesús | 22/03/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**
@@ -216,6 +219,16 @@ Alejandro**
 
 ![](/img/timeEffort//image13.png)
 
+
+### **FASE DE SPRINT 2**
+
+**Reporte general**
+
+## **Carretero Díaz, Antonio**
+
+![](/img/timeEffort//image50.png)
+
+![](/img/timeEffort//image51.png)
 
 ## **CONCLUSIONES**
 

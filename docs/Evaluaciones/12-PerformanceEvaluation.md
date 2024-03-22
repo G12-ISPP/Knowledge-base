@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 03/03/2024
+#### 22/03/2024
 
 # **EVALUACIÓN DEL RENDIMIENTO INDIVIDUAL**
 
@@ -17,7 +17,7 @@
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
 
-### **2ª ENTREGA**
+### **3ª ENTREGA**
 
 ### **- GRUPO 12 -**
 
@@ -34,6 +34,10 @@
 
 [**CONTRIBUCIONES EN LA FASE DE DP**](#contribuciones-en-la-fase-de-dp)
 
+[**CONTRIBUCIONES EN LA FASE DE SPRINT 1**](#contribuciones-en-la-fase-de-sprint-1)
+
+[**CONTRIBUCIONES EN LA FASE DE SPRINT 2**](#contribuciones-en-la-fase-de-sprint-2)
+
 [**CONCLUSIONES**](#conclusiones)
 
 [**BIBLIOGRAFÍA**](#bibliografía)
@@ -49,6 +53,7 @@
 | v0.1.0 | Creación del documento | Campos Garrido, Juan Jesús | 17/02/2024 |
 | v1.0.0 | Evaluación de cada integrante añadida | Campos Garrido, Juan Jesús | 17/02/2024 |
 | v1.1.0 | Evaluación sprint 1 | Campos Garrido, Juan Jesús | 03/03/2024 |
+| v2.0.0 | Evaluación sprint 2 | Campos Garrido, Juan Jesús | 22/03/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**
@@ -73,7 +78,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Baquero Villena, Carlos | 10  | 10  |     |     |     |     | 20  | 1   |
 | Campano Galán, Alejandro | 10  | 10  |     |     |     |     | 20  | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  |     |     |     |     | 20  | 1   |
-| Carretero Díaz, Antonio | 10  | 10  |     |     |     |     | 20  | 1   |
+| Carretero Díaz, Antonio | 10  | 10  |  10  |     |     |     | 30  | 1   |
 | Cortabarra Romero, David | 10  | 10  |     |     |     |     | 20  | 1   |
 | Escalante Ramos, María | 10  | 10  |     |     |     |     | 20  | 1   |
 | García Linares, Diego | 10  | 10  |     |     |     |     | 20  | 1   |
@@ -377,6 +382,23 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado pruebas sobre el backend de la aplicación, más en específico del proceso de realizar un pedido.
 - He participado en las sesiones de retrospectiva del equipo.
 - He subido prompts a la base de conocimiento, sobre todo el que me ha ayudado a refactorizar los tests realizados.
+
+## **CONTRIBUCIONES EN LA FASE DE SPRINT 2**
+
+### **Carretero Díaz, Antonio **
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- Me he encargado de realizar la funcionalidad de añadir una foto de perfil en el formulario del registro de usuario.
+- Me he encargado de guardar y cargar en la aplicación tanto las imágenes de los productos subidos por los usuarios como las imágenes de perfil de los usuarios.
+- Me he encargado de realizar la funcionalidad de subir un diseño personalizado a un producto de tipo diseño, así como del apartado de subir un nuevo diseño personalizado dentro de la vista de edición de un producto de tipo diseño.
+- Me he encargado de adjuntar el archivo del diseño personalizado en el correo que se envía al usuario cuando realiza un pedido del producto de tipo diseño.
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
+- He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
+- He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
 
 ## **CONCLUSIONES**
 
