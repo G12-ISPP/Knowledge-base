@@ -488,13 +488,13 @@ Primero de todo, la landing page de SHAR3D se encuentra en la URL:
 
 [[https://landing-page-shar3d.vercel.app/]](https://landing-page-shar3d.vercel.app/)
 desde aquí puedes acceder a la web del sistema en funcionamiento
-navegando hacia "Nuestros lanzamientos", al final de la página
+navegando hacia "Nuestros lanzamientos", pulsando sobre el frontend del Sprint 2, al final de la página
 principal.
 
 Si quiere directamente acceder a la web del sistema, sobre la cual se
 realizarán las pruebas debe acceder a la URL:
 
-[[https://ispp-s1.vercel.app/]](https://ispp-s1.vercel.app/)
+[[https://ispp-s2.vercel.app/]](https://ispp-s2.vercel.app/)
 
 El GitHub del equipo de trabajo se encuentra en la siguiente URL:
 
@@ -538,17 +538,14 @@ explicaremos posteriormente:
 En el caso de las credenciales de administrador, su uso va a ser
 irrelevante para esta revisión debido a que no ofrece funcionalidad
 distinta a la que de por sí tienen los usuarios, por lo tanto, no es
-necesario acceder como administrador. Además, las credenciales de
-usuario sí pueden ser útiles, pero para que pueda entender cómo
-registrarse y tener su propio usuario y contraseña, le vamos a mostrar
-el primer caso de uso.
+necesario acceder como administrador.
 
 ## **CASO 1: CHAT**
 
 Una de las principales funcionalidades añadidas durante este sprint es el chat entre usuarios.
-A través de ello, todos los clientes de Shar3D podrán comunicarse entre ellos  una vez que inicien sesión.
+A partir de ahora, todos los clientes de Shar3D podrán comunicarse entre ellos una vez que inicien sesión.
 Si queremos chatear con un usuario, podemos acceder a su perfil de usuario y pulsar 
-sobre el botón chat \[Figura 36\] y aparecerá una vista en la cuál podrá intercambiar
+sobre el botón chat \[Figura 36\], entonces, aparecerá una vista en la cuál podrá intercambiar
 mensajes con dicho usuario \[Figura 37\].
 
 ![](/img/revision/image51.png)
@@ -589,7 +586,7 @@ Esta funcionalidad se ha realizado con la intención de que los impresores pueda
 impresiones que quieren realizar, por lo tanto, para acceder debe registrarse como impresor e inicar
 sesión. Una vez hecho lo anterior, puede acceder a este apartado a partir de la barra de navegación,
 en la sección "Modelos a imprimir" \[Figura 42\]. Una vez pulsado podrá ver aquellos modelos que están
-esperando que alguien lo imprima, pulsando sobre uno de ellos podrás asignartelo y recibirás un correo
+esperando que alguien lo imprima. Si pincha sobre uno de ellos podrás asignartelo y recibirás un correo
 con toda la información necesaria para que se pueda llevar a cabo la entrega del producto. Además, se
 le adjuntará el modelo STL que debe imprimir.
 
@@ -624,7 +621,7 @@ con pulsar sobre él desde cualquier lugar en el que se referencie, como puede s
 Figura 45 - Botón ver perfil
 
 Tanto en nuestro perfil como en los demás, podremos ver los productos que tiene publicados el usuario y las opiniones. En el de los demás, podremos
-añadir opiniones, abrir un chat con ellos y empezar a seguirlo para recibir información sobre su actividad en Shar3D.
+añadir opiniones, abrir un chat con ellos y empezar a seguirlo para poder ver su actividad en Shar3D, a partir de las publicaciones en la comunidad que veremos más adelante.
 
 Respecto al nuestro, tenemos la posibilidad de editar tanto el propio perfil como nuestros productos, que lo explicaremos más adelante.
 
@@ -667,15 +664,21 @@ Figura 50 - Añadir opinión
 
 ## **CASO 7: MIS PEDIDOS**
 
-Podrá ver el histórico de los pedidos que ha realizado en la web.
+Podrá ver el histórico de los pedidos que ha realizado en la web a partir del botón "Mis pedidos" \[Figura 51\] siempre que hayas iniciado sesión. En el caso de que quiera comprobar el estado de alguno de los pedidos que ha realizado sin iniciar sesión, puede acceder a través del id del pedido que se le adjuntó en el correo de confirmación del mismo, pulsando en la parte inferior de la pantalla sobre "Seguimiento de pedidos" \[Figura 52\]
 
-#### 7.1 SEGUIMIENTO DE PEDIDO
+![](/img/revision/image65.png)
+Figura 51 - Botón mis pedidos
 
-Puede ver en qué estado se encuentran los pedidos que haya realizado.
+![](/img/revision/image66.png)
+Figura 52 - Seguimiento de pedidos
+
 
 ## **CASO 8: COMUNIDAD**
 
-Puede compartir y ver la actividad del resto de usuarios de Shar3D.
+En esta sección podrá compartir y ver la actividad del resto de usuarios de Shar3D. Actualmente solo podrá consultar publicaciones de los usuarios a los que sigue en la web. Para ello, podras acceder desde la barra de navegación \[Figura 40\]. Una vez en el apartado comunidad, podrás añadir posts y ver los de tus amigos \[Figura 53\].
+
+![](/img/revision/image67.png)
+Figura 53 - Comunidad
 
 ## **CONSIDERACIONES**
 
@@ -685,7 +688,10 @@ Cocenfe NGO, https://knowledge-base-orpin.vercel.app/docs/Feedback/feedback-19-0
 que el correo electrónico debía ser validado para poder completar el registro.
 De esta manera, el registro se ha modificado respecto a la anterior entrega para que
 se cumpla dicha propuesta. Además se ha añadido la posibilidad de añadir una foto
-de perfil que podrá ver el resto de los usuarios de Shar3D
+de perfil que podrá ver el resto de los usuarios de Shar3D y se ha cambiado el estilo \[Figura 54\].
+
+![](/img/revision/image68.png)
+Figura 54 - Registro
 
 
 
