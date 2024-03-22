@@ -66,6 +66,7 @@
 | v0.1 | Creación del documento | Mera Gómez, Pablo | 28/02/2024 |
 | v1.0 | Primera versión | Mera Gómez, Pablo| 01/03/2024 |
 | v1.1 | Retoques finales | Mera Gómez, Pablo | 01/03/2024 |
+| v2.0 | Nuevas funcionalidades | Mera Gómez, Pablo | 19/03/2024 |
 
 </div>
 
@@ -89,7 +90,7 @@ interaccionar con el servicio Shar3D para comprobar el correcto
 funcionamiento de todos los casos de uso implementados hasta la fecha
 establecida.
 
-## **CONTENIDO**
+## **CONTENIDO 1º SPRINT**
 
 Primero de todo, la landing page de SHAR3D se encuentra en la URL:
 
@@ -480,6 +481,219 @@ aparece un error que no se ha especificado en esta guía, en ese caso,
 cierra sesión y vuelve a iniciar para que todo funcione correctamente.
 Si no es así, contacte con el equipo de desarrollo lo antes posible,
 muchas gracias.
+
+## **CONTENIDO 2º SPRINT**
+
+Primero de todo, la landing page de SHAR3D se encuentra en la URL:
+
+[[https://landing-page-shar3d.vercel.app/]](https://landing-page-shar3d.vercel.app/)
+desde aquí puedes acceder a la web del sistema en funcionamiento
+navegando hacia "Nuestros lanzamientos", pulsando sobre el frontend del Sprint 2, al final de la página
+principal.
+
+Si quiere directamente acceder a la web del sistema, sobre la cual se
+realizarán las pruebas debe acceder a la URL:
+
+[[https://ispp-s2.vercel.app/]](https://ispp-s2.vercel.app/)
+
+El GitHub del equipo de trabajo se encuentra en la siguiente URL:
+
+[[https://github.com/G12-ISPP/ISPP]](https://github.com/G12-ISPP/ISPP)
+
+La herramienta para registrar las horas de cada uno de los miembros es
+Clockify, para distinguir el trabajo de cada uno puede acceder a la URL:
+
+[[https://app.clockify.me/shared/65d87eea756abe0bdf308a40]](https://app.clockify.me/shared/65d87eea756abe0bdf308a40)
+
+Una vez tienen las distintas páginas, le proporcionaremos los datos
+indispensables para que pueda acceder a la web y probar todo lo que
+explicaremos posteriormente:
+
+-   URL de la web: [[https://ispp-s1.vercel.app/]](https://ispp-s1.vercel.app/)
+
+-   Credenciales administrador:
+
+    -   Usuario: admin
+
+    -   Contraseña: 4dm1n
+
+-   Credenciales usuario:
+
+    -   Usuario: user1
+
+    -   Contraseña: us3r
+
+-   Credenciales impresor:
+
+    -   Usuario: user2
+
+    -   Contraseña: us3r
+
+-   Credenciales PayPal:
+
+    -   Correo: sb-k43ebi28280380@personal.example.com
+
+    -   Contraseña: nNU\<\<9Y%
+
+En el caso de las credenciales de administrador, su uso va a ser
+irrelevante para esta revisión debido a que no ofrece funcionalidad
+distinta a la que de por sí tienen los usuarios, por lo tanto, no es
+necesario acceder como administrador.
+
+## **CASO 1: CHAT**
+
+Una de las principales funcionalidades añadidas durante este sprint es el chat entre usuarios.
+A partir de ahora, todos los clientes de Shar3D podrán comunicarse entre ellos una vez que inicien sesión.
+Si queremos chatear con un usuario, podemos acceder a su perfil de usuario y pulsar 
+sobre el botón chat \[Figura 36\], entonces, aparecerá una vista en la cuál podrá intercambiar
+mensajes con dicho usuario \[Figura 37\].
+
+![](/img/revision/image51.png)
+
+Figura 36 - Botón chat en detalles de usuario
+
+![](/img/revision/image52.png)
+
+Figura 37 - Vista chat
+
+Una vez que hemos hablado con algún que otro usuario, podemos acceder los distintos chats, 
+a través del icono de mensajes \[Figura 38\], ubicado en la esquina superior derecha. Una vez
+pulsado, podrá ver un menú desde el que puedes acceder a cada uno de los chats disponibles \[Figura 39\]
+
+![](/img/revision/image50.png)
+Figura 38 - Botón chat en menú
+
+![](/img/revision/image53.png)
+Figura 39 - Menú chats
+
+## **CASO 2: LISTADO DE PRODUCTOS Y ARTISTAS**
+
+Se han añadido listado para todos los productos disponibles en Shar3D, divididos en Diseños, 
+Piezas, Impresoras, Materiales y también para artistas. Todos estos listados pueden ser accedidos
+desde la barra de navegación del menú principal \[Figura 40\] y podrás ver un listado
+como el siguiente \[Figura 41\]. En cada uno de los listados, podrás acceder a los detalles tanto
+de productos como de artistas pulsando sobre la imagen. 
+
+![](/img/revision/image54.png)
+Figura 40 - Barra navegación
+
+![](/img/revision/image55.png)
+Figura 41 - Listado de materiales
+
+## **CASO 3: APARTADO PARA ASIGNACIÓN DE IMPRESIONES**
+
+Esta funcionalidad se ha realizado con la intención de que los impresores puedan escoger aquellas
+impresiones que quieren realizar, por lo tanto, para acceder debe registrarse como impresor e inicar
+sesión. Una vez hecho lo anterior, puede acceder a este apartado a partir de la barra de navegación,
+en la sección "Modelos a imprimir" \[Figura 42\]. Una vez pulsado podrá ver aquellos modelos que están
+esperando que alguien lo imprima. Si pincha sobre uno de ellos podrás asignartelo y recibirás un correo
+con toda la información necesaria para que se pueda llevar a cabo la entrega del producto. Además, se
+le adjuntará el modelo STL que debe imprimir.
+
+![](/img/revision/image56.png)
+Figura 42 - Modelos a imprimir
+
+## **CASO 4: CONVERSIÓN STL**
+
+Se ha añadido una funcionalidad para poder obtener archivos .stl a partir de otros como
+.ply, .step, .obj, .vtk, .bmp y .dae. Esto permite unificar todos los archivos de la web
+en el mismo formato. Para poder acceder a esta sección puede pulsar sobre el botón "Convertir
+a STL" \[Figura 43\] del menú principal.
+
+![](/img/revision/image57.png)
+Figura 43 - Botón conversión STL
+
+## **CASO 5: COMPRAR UN PLAN**
+
+Si quiere unirse a algún plan de los disponibles en Shar3D puede acceder a través del botón
+"Comprar plan" del menú principal \[Figura 44\] y verá los distintos planes y podrá seleccionar
+el que desee.
+
+![](/img/revision/image58.png)
+Figura 44 - Botón comprar plan
+
+## **CASO 6: PERFIL**
+
+En este apartado se explicará los distintas acciones que se pueden realizar dentro del perfil de un usuario, tanto el nuestro propio como en el resto. En primer lugar, podemos acceder a nuestro perfil desde el botón "Ver perfil" \[Figura 45\]. Si queremos acceder al perfil de otro usuario,
+con pulsar sobre él desde cualquier lugar en el que se referencie, como puede ser un producto o el lista de artistas, es suficiente.
+
+![](/img/revision/image59.png)
+Figura 45 - Botón ver perfil
+
+Tanto en nuestro perfil como en los demás, podremos ver los productos que tiene publicados el usuario y las opiniones. En el de los demás, podremos
+añadir opiniones, abrir un chat con ellos y empezar a seguirlo para poder ver su actividad en Shar3D, a partir de las publicaciones en la comunidad que veremos más adelante.
+
+Respecto al nuestro, tenemos la posibilidad de editar tanto el propio perfil como nuestros productos, que lo explicaremos más adelante.
+
+
+### 6.1 EDICIÓN PERFIL
+
+Si hay algún cambio respecto a los datos con los que se registró, como puede ser correo, dirección e incluso foto de perfil, puede editar esa
+información pulsando sobre el botón "Editar perfil" \[Figura 46\].
+
+![](/img/revision/image60.png)
+Figura 46 - Editar perfil
+
+### 6.2 MIS PRODUCTOS
+
+Para ver los productos que ha puesto a la venta el usuario, pulsando sobre el botón "Productos" \[Figura 47\] podrá ver una lista con todos
+los disponibles.
+
+![](/img/revision/image61.png)
+Figura 47 - Botón productos
+
+#### 6.2.1 EDICIÓN PRODUCTO
+
+Respecto a lo anterior, si queremos editar alguno de nuestros productos, podemos acceder pinchando sobre él y pulsando sobre el botón "Editar
+producto" \[Figura 48\], que nos enviará a un formulario desde el cuál se podrá modificar algunos de los datos del producto.
+
+![](/img/revision/image62.png)
+Figura 48 - Botón editar producto
+
+### 6.3 OPINIONES
+
+Volviendo a la vista del perfil, podremos ver que en la parte inferior se muestran las opiniones de cada usuario, en el caso de acceder
+al perfil de un usuario distinto al nuestro, tendremos la posibilidad de añadir una opinión sobre él. Para ello, pulsando sobre el botón
+"Añadir opinión" \[Figura 49\] se nos mostrará un formulario que, tras rellenarlo (Puntuación entre 1 y 5) \[Figura 50\] y pulsar sobre publicar opinión, se añadirá al perfil del usuario.
+
+![](/img/revision/image63.png)
+Figura 49 - Botón añadir opinión
+
+![](/img/revision/image64.png)
+Figura 50 - Añadir opinión
+
+## **CASO 7: MIS PEDIDOS**
+
+Podrá ver el histórico de los pedidos que ha realizado en la web a partir del botón "Mis pedidos" \[Figura 51\] siempre que hayas iniciado sesión. En el caso de que quiera comprobar el estado de alguno de los pedidos que ha realizado sin iniciar sesión, puede acceder a través del id del pedido que se le adjuntó en el correo de confirmación del mismo, pulsando en la parte inferior de la pantalla sobre "Seguimiento de pedidos" \[Figura 52\]
+
+![](/img/revision/image65.png)
+Figura 51 - Botón mis pedidos
+
+![](/img/revision/image66.png)
+Figura 52 - Seguimiento de pedidos
+
+
+## **CASO 8: COMUNIDAD**
+
+En esta sección podrá compartir y ver la actividad del resto de usuarios de Shar3D. Actualmente solo podrá consultar publicaciones de los usuarios a los que sigue en la web. Para ello, podras acceder desde la barra de navegación \[Figura 40\]. Una vez en el apartado comunidad, podrás añadir posts y ver los de tus amigos \[Figura 53\].
+
+![](/img/revision/image67.png)
+Figura 53 - Comunidad
+
+## **CONSIDERACIONES**
+
+Respecto al 1º Sprint, ha habido una mejora notable en cuanto al registro,
+ya que se solicitó, como podemos ver en el feedback del 19 de marzo al grupo
+Cocenfe NGO, https://knowledge-base-orpin.vercel.app/docs/Feedback/feedback-19-03-2024,
+que el correo electrónico debía ser validado para poder completar el registro.
+De esta manera, el registro se ha modificado respecto a la anterior entrega para que
+se cumpla dicha propuesta. Además se ha añadido la posibilidad de añadir una foto
+de perfil que podrá ver el resto de los usuarios de Shar3D y se ha cambiado el estilo \[Figura 54\].
+
+![](/img/revision/image68.png)
+Figura 54 - Registro
+
+
 
 ## **CONCLUSIONES**
 
