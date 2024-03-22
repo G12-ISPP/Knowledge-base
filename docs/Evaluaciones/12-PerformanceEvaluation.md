@@ -385,7 +385,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 
 ## **CONTRIBUCIONES EN LA FASE DE SPRINT 2**
 
-### **Carretero Díaz, Antonio **
+### **Carretero Díaz, Antonio**
 
 - He asistido a todas las clases de teoría.
 - He visto todas las píldoras teóricas que hay publicadas hasta ahora.
