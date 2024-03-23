@@ -400,6 +400,38 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
 
+### **García Linares, Diego**
+
+- He contribuido asistiendo a las clases de manera presencial
+- He visto todos los videos de esta fase para hacer un recordatorio sobre los temas vistos en años anteriores
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
+- He realizado la primera versión del costumer agreement del servicio Shar3d.
+- He realizado la primera versión de la política de privacidad del servicio Shar3d.
+- He arreglado un fallo relacionado con la cuenta de correo y su bloqueo.
+- He pasado toda la documentación a markdown y la he puesto en la base de conocimiento.
+- He ayudado con las encuentas para los usuarios pilotos.
+- He hecho tests tanto de frontend como backend para el listado de productos.
+- He hecho un apartado del usuario para ver sus productos.
+- He hecho un apartado para ver los productos de todos los usuarios.
+
+### **Garrucho Sánchez, Úrsula**
+
+- He contribuido asistiendo a las clases de manera presencial
+- He visto todos los videos de esta fase para hacer un recordatorio sobre los temas vistos en años anteriores
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
+- He realizado la primera versión del costumer agreement del servicio Shar3d.
+- He realizado la primera versión de la política de privacidad del servicio Shar3d.
+- He añadido a la aplicación la funcionalidad para poder aceptar o rechazar los términos y condiciones de la aplicación.
+- He realizado las encuestas para los usuarios pilotos de este sprint.
+- Arreglar los estilos de la vista de detalles de usuario.
+- Mostrar las opiniones de un usuario.
+- La lógica del buscador de la aplicación tanto para productos como usuarios.
+
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.
