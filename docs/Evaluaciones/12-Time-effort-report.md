@@ -230,6 +230,18 @@ Alejandro**
 
 ![](/img/timeEffort//image51.png)
 
+## **García Linares, Diego**
+
+![](/img/timeEffort//image52.png)
+
+![](/img/timeEffort//image53.png)
+
+## **Garrucho Sánchez, Úrsula**
+
+![](/img/timeEffort//image54.png)
+
+![](/img/timeEffort//image55.png)
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.
