@@ -77,7 +77,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Baquero Villena, Carlos | 10  | 10  |     |     |     |     | 20  | 1   |
 | Campano Galán, Alejandro | 10  | 10  |     |     |     |     | 20  | 1   |
-| Campos Garrido, Juan Jesús | 10  | 10  |     |     |     |     | 20  | 1   |
+| Campos Garrido, Juan Jesús | 10  | 10  | 10    |     |     |     | 30  | 1   |
 | Carretero Díaz, Antonio | 10  | 10  |  10  |     |     |     | 30  | 1   |
 | Cortabarra Romero, David | 10  | 10  |     |     |     |     | 20  | 1   |
 | Escalante Ramos, María | 10  | 10  |     |     |     |     | 20  | 1   |
@@ -384,6 +384,22 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He subido prompts a la base de conocimiento, sobre todo el que me ha ayudado a refactorizar los tests realizados.
 
 ## **CONTRIBUCIONES EN LA FASE DE SPRINT 2**
+
+### **Campos Garrido, Juan Jesús**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- Me he encargado de preparar y estudiar las presentaciones de las tres semanas de la fase, además de presentar dichas presentaciones en clase.
+- Me he encargado de subir las issues de la planificación a GitHub.
+- He trabajado en la funcionalidad de compra de un plan.
+- He aportado a la documentación como código añdiendo algún documento al repositorio como el análisis de competidores.
+- He participado en todas las retorspectivas del equipo.
+- Me he encargado de procesar todo el feedback recopilado para proponer moejoras y ver que no era posible implementar.
+- He implementado varias mejoras propuestas por los usuarios pilotos como que se pueda elegir si ver o no la contraseña en el proceso de registro, añadir mensajes cuando intentamos añadir una cantidad de un objeto superior al stock, he redimensionado el visor 3D para que se vea bien en todo tipo de dispositivos, he añadido un botón para ir desde un producto a su dueño, he resuelto el problema que ocurria cuando el código postal se autocompletaba o he añadido la función de seleccionar el color de la impresión entre otras cosas.
+- Me he encargado de desplegar la aplicación con ayuda de algún compañero.
+- También he hecho varias revisiones sobre el software desplegado para asegurarnos de que funciona.
+- Me he encargado de recopilar el feedback de los usuarios pilotos en este sprint.
+- He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
 
 ### **Carretero Díaz, Antonio**
 
