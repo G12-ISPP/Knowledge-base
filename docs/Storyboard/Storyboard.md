@@ -1,2 +1,2 @@
 + [Storyboard](/pdf/Storyboard.pdf)
-+ [Storyboard 2](/pdf/Storyboard_2º.pdf)
++ [Storyboard v2.0](/pdf/Storyboard_v2.0.pdf)
