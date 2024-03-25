@@ -80,7 +80,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Campos Garrido, Juan Jesús | 10  | 10  | 10    |     |     |     | 30  | 1   |
 | Carretero Díaz, Antonio | 10  | 10  |  10  |     |     |     | 30  | 1   |
 | Cortabarra Romero, David | 10  | 10  |     |     |     |     | 20  | 1   |
-| Escalante Ramos, María | 10  | 10  |     |     |     |     | 20  | 1   |
+| Escalante Ramos, María | 10 | 10 | 10 |     |     |     | 30 | 1 |
 | García Linares, Diego | 10  | 10  |     |     |     |     | 20  | 1   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |     |     |     |     | 20  | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  |     |     |     |     | 20  | 1   |
@@ -415,6 +415,19 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en las sesiones de retrospectiva.
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
+
+### **Escalante Ramos, María**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He realizado junto a Alejandro García la primera y segunda versión del StoryBoard
+- He realizado la funcionalidad de publicar una opinión sobre un usuario
+- He contribuido a la funcionalidad de crear el Layout de la comunidad
+- He realizado la funcionalidad de subir un post a la comunidad
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí
+- He ejercido de usuario piloto para los alumnos dle grupo 6 del turno de mañana
 
 ### **García Linares, Diego**
 

@@ -230,6 +230,15 @@ Alejandro**
 
 ![](/img/timeEffort//image51.png)
 
+## **Escalante Ramos, María**
+
+![](/img/timeEffort//image56.png)
+
+![](/img/timeEffort//image57.png)
+
+![](/img/timeEffort//image58.png)
+
+
 ## **García Linares, Diego**
 
 ![](/img/timeEffort//image52.png)
