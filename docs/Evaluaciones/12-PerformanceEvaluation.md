@@ -84,7 +84,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | García Linares, Diego | 10  | 10  |     |     |     |     | 20    | 1   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  |     |     |     |     | 20    | 1   |
-| Mera Gómez, Pablo | 10  | 10  |     |     |     |     | 20    | 1   |
+| Mera Gómez, Pablo | 10  | 10  | 10  |     |     |     | 20    | 1   |
 | Reyes Alés, David | 10  | 10  |     |     |     |     | 20    | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | **Total** | **120** | **120** |     |     |     |     |       |     |
@@ -488,6 +488,21 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Arreglar los estilos de la vista de detalles de usuario.
 - Mostrar las opiniones de un usuario.
 - La lógica del buscador de la aplicación tanto para productos como usuarios.
+
+### **Mera Gómez, Pablo**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He contribuido realizando diferentes comentarios en las issues de GitHub asignadas a mí.
+- He ejercido de usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- He realizado la funcionalidad completa para que los impresores puedan solicitar realizar una impresión, tanto el listado, los detalles, como el envío de correos.
+- He realizado la funcionalidad para que un usuario pueda editar los productos que ha subido a Shar3D.
+- He realizado la funcionalidad para que un usuario pueda editar su perfil.
+- He realizado la guía de revisión del 2º sprint para los usuarios pilotos.
+- He realizado pruebas sobre el backend de la aplicación, más en específico sobre la funcionalidad de subir diseños.
+- He revisado el análisis de competidores para comprobar cómo ha evolucionado el mercado.
 
 ### **Santiago Félix, Alejandro**
 - Asistencia a clases presenciales para mantenerme actualizado.
