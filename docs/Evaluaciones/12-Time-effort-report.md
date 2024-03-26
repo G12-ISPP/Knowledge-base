@@ -251,6 +251,18 @@ Alejandro**
 
 ![](/img/timeEffort//image55.png)
 
+## **Santiago Félix, Alejandro**
+
+![](/img/timeEffort//image62.png)
+
+![](/img/timeEffort//image61.png)
+
+![](/img/timeEffort//image60.png)
+
+![](/img/timeEffort//image59.png)
+
+![](/img/timeEffort//image58.png)
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.

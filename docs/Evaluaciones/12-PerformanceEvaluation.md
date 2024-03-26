@@ -74,20 +74,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 <div class="markdown-table">
 
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Baquero Villena, Carlos | 10  | 10  |     |     |     |     | 20  | 1   |
-| Campano Galán, Alejandro | 10  | 10  |     |     |     |     | 20  | 1   |
-| Campos Garrido, Juan Jesús | 10  | 10  | 10    |     |     |     | 30  | 1   |
-| Carretero Díaz, Antonio | 10  | 10  |  10  |     |     |     | 30  | 1   |
-| Cortabarra Romero, David | 10  | 10  |     |     |     |     | 20  | 1   |
-| Escalante Ramos, María | 10 | 10 | 10 |     |     |     | 30 | 1 |
-| García Linares, Diego | 10  | 10  |     |     |     |     | 20  | 1   |
-| García Sánchez-Hermosilla, Alejandro | 10  | 10  |     |     |     |     | 20  | 1   |
-| Garrucho Sánchez, Úrsula | 10  | 10  |     |     |     |     | 20  | 1   |
-| Mera Gómez, Pablo | 10  | 10  |     |     |     |     | 20  | 1   |
-| Reyes Alés, David | 10  | 10  |     |     |     |     | 20  | 1   |
-| Santiago Félix, Alejandro | 10  | 10  |     |     |     |     | 20  | 1   |
-| **Total** | **120** | **120** |     |     |     |     |     |     |
+| --- | --- | --- |-----| --- | --- | --- |-------| --- |
+| Baquero Villena, Carlos | 10  | 10  |     |     |     |     | 20    | 1   |
+| Campano Galán, Alejandro | 10  | 10  |     |     |     |     | 20    | 1   |
+| Campos Garrido, Juan Jesús | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| Cortabarra Romero, David | 10  | 10  |     |     |     |     | 20    | 1   |
+| Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
+| García Linares, Diego | 10  | 10  |     |     |     |     | 20    | 1   |
+| García Sánchez-Hermosilla, Alejandro | 10  | 10  |     |     |     |     | 20    | 1   |
+| Garrucho Sánchez, Úrsula | 10  | 10  |     |     |     |     | 20    | 1   |
+| Mera Gómez, Pablo | 10  | 10  |     |     |     |     | 20    | 1   |
+| Reyes Alés, David | 10  | 10  |     |     |     |     | 20    | 1   |
+| Santiago Félix, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| **Total** | **120** | **120** |     |     |     |     |       |     |
 </div>
 
 ## **CONTRIBUCIONES EN LA FASE DE DP**
@@ -460,6 +460,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Mostrar las opiniones de un usuario.
 - La lógica del buscador de la aplicación tanto para productos como usuarios.
 
+### **Santiago Félix, Alejandro**
+- Asistencia a clases presenciales para mantenerme actualizado.
+- Revisión de todos los videos de esta fase para repasar temas previamente cubiertos.
+- Participación activa en sesiones de retrospectiva para reflexionar sobre nuestro progreso.
+- Revisión continua de pull requests durante el sprint, proporcionando comentarios constructivos.
+- Contribución a través de comentarios en las issues de GitHub asignadas a mí.
+- Implementación y mantenimiento de autenticación por tokens.
+- Desarrollo de un algoritmo para convertir archivos a formato STL para el visualizador.
+- Mejora de la calidad de los tests de chats mediante refactorización y creación de nuevos casos de prueba para mis chats.
+- Agregado de funcionalidad para seguir usuarios registrados en la aplicación mediante un botón correspondiente.
+- Diseño de un componente para enviar mensajes informativos al usuario que se utiliza al inicio para informar del modelo de negocio y para explicar como funciona el visualizador.
+- Implementación de la capacidad de hacer zoom y cambiar el color del modelo en el visualizador.
+- Desarrollo de un sistema de verificación de la validez de direcciones de correo electrónico. 
+- Definición de un nuevo sistema de despliegue para abordar problemas de espacio.
 
 ## **CONCLUSIONES**
 
