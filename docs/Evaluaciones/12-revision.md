@@ -599,6 +599,7 @@ Se ha añadido una funcionalidad para poder obtener archivos .stl a partir de ot
 .ply, .step, .obj, .vtk, .bmp y .dae. Esto permite unificar todos los archivos de la web
 en el mismo formato. Para poder acceder a esta sección puede pulsar sobre el botón "Convertir
 a STL" \[Figura 43\] del menú principal.
+Al utilizar esta funcionalidad hay que tener en cuenta que por problemas tecnológicos, la conversión puede llegar a tardar hasta 3 minutos, esto se debe a que utilizamos plataformas gratuitas para desplegar nuestra aplicación y estas plataformas tienen ciertas limitaciones que hacen que esta funcionalidad sea bastante más lenta.
 
 ![](/img/revision/image57.png)
 Figura 43 - Botón conversión STL
