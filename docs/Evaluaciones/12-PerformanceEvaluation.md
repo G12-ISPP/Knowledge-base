@@ -82,7 +82,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Cortabarra Romero, David | 10  | 10  |     |     |     |     | 20    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
 | García Linares, Diego | 10  | 10  |     |     |     |     | 20    | 1   |
-| García Sánchez-Hermosilla, Alejandro | 10  | 10  |     |     |     |     | 20    | 1   |
+| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  |     |     |     |     | 20    | 1   |
 | Mera Gómez, Pablo | 10  | 10  |     |     |     |     | 20    | 1   |
 | Reyes Alés, David | 10  | 10  |     |     |     |     | 20    | 1   |
@@ -444,6 +444,21 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He hecho tests tanto de frontend como backend para el listado de productos.
 - He hecho un apartado del usuario para ver sus productos.
 - He hecho un apartado para ver los productos de todos los usuarios.
+
+### **García Sánchez-Hermosilla, Alejandro**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint
+- He realizado junto con María Escalante la primera y segunda versión del Storyboard
+- He contribuido a la funcionalidad de crear un post para la comunidad
+- He realizado al funcionalidad de Layout de la comunidad
+- He realizado test para la funcionalidad de visualizar perfil
+- He completado los test para la funcionalidad del chat
+- He realizado configuraciones para mantener el control de la calidad estable con SonarCloud
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí
+- He ejercido de usuario piloto para los alumnos dle grupo 6 del turno de mañana
 
 ### **Garrucho Sánchez, Úrsula**
 
