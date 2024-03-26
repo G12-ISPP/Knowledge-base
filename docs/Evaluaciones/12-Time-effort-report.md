@@ -230,6 +230,14 @@ Alejandro**
 
 ![](/img/timeEffort//image51.png)
 
+## **Cortabarra Romero, David**
+
+![](/img/timeEffort//image66.png)
+
+![](/img/timeEffort//image67.png)
+
+![](/img/timeEffort//image68.png)
+
 ## **Escalante Ramos, María**
 
 ![](/img/timeEffort//image56.png)
