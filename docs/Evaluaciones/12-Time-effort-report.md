@@ -245,6 +245,14 @@ Alejandro**
 
 ![](/img/timeEffort//image53.png)
 
+## **García Sánchez-Hermosilla, Alejandro**
+
+![](/img/timeEffort//image63.png)
+
+![](/img/timeEffort//image64.png)
+
+![](/img/timeEffort//image65.png)
+
 ## **Garrucho Sánchez, Úrsula**
 
 ![](/img/timeEffort//image54.png)
