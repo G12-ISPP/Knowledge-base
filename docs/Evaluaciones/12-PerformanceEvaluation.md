@@ -79,7 +79,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Campano Galán, Alejandro | 10  | 10  |     |     |     |     | 20    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Cortabarra Romero, David | 10  | 10  |     |     |     |     | 20    | 1   |
+| Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
 | García Linares, Diego | 10  | 10  |     |     |     |     | 20    | 1   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
@@ -415,6 +415,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en las sesiones de retrospectiva.
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
+
+### **Cortabarra Romero, David**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He contribuido realizando diferentes comentarios en las issues de GitHub asignadas a mí.
+- He ejercido de usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- He tomado nota de todo el feedback comentado hacia cada uno de los grupos de proyecto durante este segundo sprint.
+- He creado las diferentes secciones que aparecen en la barra de navegación de la aplicación. Estas secciones son: diseños, piezas, impresoras, materiales y artistas. También he hecho completamente responsive todas estas páginas.
+- He cambiado el favicon de la aplicación y creado un sistema de etiquetado para nombrar a las páginas y así establecer dichos nombres en las pestañas del navegador.
+- He rediseñado al completo la página de detalles de artista y el perfil de usuario, así como he hecho completamente responsive dicho rediseño.
+- He corregido múltples errores de estilos y bugs visuales de la aplicación debido a la implementación de nuevas funcionalidades.
 
 ### **Escalante Ramos, María**
 
