@@ -279,6 +279,12 @@ Alejandro**
 
 ![](/img/timeEffort//image58.png)
 
+## **Reyes Alés, David**
+
+![](/img/timeEffort//image69.png)
+
+![](/img/timeEffort//image70.png)
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.

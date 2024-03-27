@@ -532,6 +532,19 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Desarrollo de un sistema de verificación de la validez de direcciones de correo electrónico. 
 - Definición de un nuevo sistema de despliegue para abordar problemas de espacio.
 
+### **Reyes Alés, David**
+- He contribuido asistiendo a todas las clases teóricas de esta fase.
+- He visto las pilladas teóricas correspondientes a este sprint.
+- He contribuido revisando PR  de código de mis compañeros.
+- He creado  la funcionalidad completa de chat, haciéndola totalmente "responsive" que formaba parte del MVP (habiendo probado a implementar websocket, decisión que hubo que  cambiar por problemas de  despliegue, y al final se  migró a una arquitectura http).
+- He ejericido de usuario piloto para evaluar el proyecto de otros compañeros.
+- He prestado atención al “feedback” de mis compañeros y he hecho los arreglos pertinentes en mi código
+- He participado en las revisiones visuales de las presentaciones de clase.
+- He contribuido en la documentación cuando se me requería.
+- He asistido a las clases necesarias, excepto una, decisión tomada por el equipo para dedicar el tiempo al proyecto.
+- He participado en sesiones de retrospectiva.
+
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.
