@@ -76,7 +76,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
 | --- | --- | --- |-----| --- | --- | --- |-------| --- |
 | Baquero Villena, Carlos | 10  | 10  |     |     |     |     | 20    | 1   |
-| Campano Galán, Alejandro | 10  | 10  |     |     |     |     | 20    | 1   |
+| Campano Galán, Alejandro | 10  | 10  | 10  |     |     |     | 20    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
@@ -400,6 +400,19 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - También he hecho varias revisiones sobre el software desplegado para asegurarnos de que funciona.
 - Me he encargado de recopilar el feedback de los usuarios pilotos en este sprint.
 - He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
+
+### **Campano Galán, Alejandro**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- Me he encargado de implementar el perfil de usuario.
+- He mejorado todo el carrito.
+- He revisado todos los placeholders de la aplicación y los he mejorado.
+- He realizado toda la lógica de negocio correspondiente al plan de usuario de vendedor.
+- He realizado toda la lógica de negocio correspondiente al plan de usuario de diseñador.
+- He realizado toda la lógica de negocio correspondiente al plan de usuario de comprador.
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
+- He hecho tests de los siguientes apartados: seguimiento de pedido, mis pedidos, seguimiento de comunidad, apartado de solicitudes de impresión.
 
 ### **Carretero Díaz, Antonio**
 
