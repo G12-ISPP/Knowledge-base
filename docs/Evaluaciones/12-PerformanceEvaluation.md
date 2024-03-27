@@ -85,7 +85,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    |     |     |     | 30    | 1   |
 | Mera Gómez, Pablo | 10  | 10  | 10  |     |     |     | 20    | 1   |
-| Reyes Alés, David | 10  | 10  |     |     |     |     | 20    | 1   |
+| Reyes Alés, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | **Total** | **120** | **120** |     |     |     |     |       |     |
 </div>
