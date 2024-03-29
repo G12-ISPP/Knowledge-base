@@ -224,6 +224,15 @@ Alejandro**
 
 **Reporte general**
 
+## **Campos Garrido, Juan Jesús**
+![](/img/timeEffort//TE-JJ-01.png)
+
+![](/img/timeEffort//TE-JJ-02.png)
+
+![](/img/timeEffort//TE-JJ-03.png)
+
+![](/img/timeEffort//TE-JJ-04.png)
+
 ## **Carretero Díaz, Antonio**
 
 ![](/img/timeEffort//image50.png)
