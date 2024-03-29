@@ -276,6 +276,14 @@ Alejandro**
 
 ![](/img/timeEffort//image55.png)
 
+## **Mera Gómez, Pablo**
+
+![](/img/timeEffort//image71.png)
+
+![](/img/timeEffort//image72.png)
+
+![](/img/timeEffort//image73.png)
+
 ## **Santiago Félix, Alejandro**
 
 ![](/img/timeEffort//image62.png)
