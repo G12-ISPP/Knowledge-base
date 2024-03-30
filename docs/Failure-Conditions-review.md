@@ -85,9 +85,27 @@ T-10) Failure to make a correct delivery considering the following instructions 
 + Perform a GitHub release linking the proper tag, which must include a zip file with all repositorycontent.
 
 Starting at deliverable #S1:
-T-11) Not following the instructions of the software reviewer's guidelines; or incurring in any of the failureconditions presented in those guidelines.
-T-12) Not including in the docs repository folder the pilot users performance evaluation(PilotUsersPerformanceEvaluation.md) following the pilot users performance evaluation template provided in EV. -> Se incluye dicho documento
-T-13) Not including in the docs repository folder all information received from pilot users(InformationProvidedByPilotUsers.md) considering the MinimumInformationFromPilotUsers_Gathered-ByForm document.
-T-14) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows:• Deployed Software review
-T-15) Having text in the slides that is not readable from the back of the class.
-T-16) Software Demo not showing realistic data or information
+T-11) Not following the instructions of the software reviewer's guidelines; or incurring in any of the failureconditions presented in those guidelines. -> Se han seguido las instrucciones dle documento y se revisarán las condiciones de fallo a continuación:
++ A legal interaction with your system results in an HTTP error perceived by user. -> Hemos revisado y ninguna acción legal desencadena en un error HTTP
+
++ A legal interaction with your system results in a panic (crash/...) perceived by user. -> Hemos revisado y ninguna acción legal desencadena en una pantalla de panico
+
++ A legal interaction with your system doesn’t have the expected behaviour -> Todas las interacciones con el sistema tienen el comportamiento esperado, concretamente la función más problemática es la conversión a STL que por problemas con el despliegue se ha tenido que separar del resto de la aplicación, por lo que cuando se accede a esta función, dicha función suele tardar más tiempo que el resto, concretamente entre 1 minuto y 3 minutos. Pero este comportamiento es normal y se explica porque esta función no cabe junto al resto en la plataforma de despliegue y se han tenido que separar, por lo que mientras todo el resto de funciones están activas desde que se accede a la aplicación, sin embargo, la conversión STL se activa una vez se hace una petición, por esta razón hay que espera a que la plataforma donde está desplegada arranque la aplicación de conversión y además haga la conversión que es un proceso un poco costoso.
+
++ Submitting a form with wrong data is not detected (form validation). -> Todos los campos de los formularios son validados en el sistema
+
++ An actor can list, edit, or delete data that belongs to another actor. -> Nadie puede editar o ver información de otra persona que sea privada 
+
++ The system is not deployed to the cloud or it is not available any time during the subject -> El sistema estará desplegado hasta julio
+
++ The system deployment is modified /updated after the delivery deadline. -> El software no será modificado una vez pase la fecha de entrega
+
+T-12) Not including in the docs repository folder the pilot users performance evaluation(PilotUsersPerformanceEvaluation.md) following the pilot users performance evaluation template provided in EV.  -> Se incluye dicho documento en la carpeta docs
+
+T-13) Not including in the docs repository folder all information received from pilot users(InformationProvidedByPilotUsers.md) considering the MinimumInformationFromPilotUsers_Gathered-ByForm document. -> Se incluye dicho documento y además se incluye el documento Propuesta de mejora UP donde a partir del feedback recopilado, se proponen tareas de mejora para tener en cuenta dicho feedback
+
+T-14) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows:• Deployed Software review -> El integrante del equipo Juan Jesús Campos Garrido se ha encargado de revisar que en el software desplegado funciona correctamente, además lo probará de nuevo al grabar la demo para la presentación
+
+T-15) Having text in the slides that is not readable from the back of the class. -> El encargado de revisar las presentaciones comprobará que todo el contenido es facilmente legible desde la distancia
+
+T-16) Software Demo not showing realistic data or information -> La demo será revisada para asegurarnos de que se utilizan datos realistas

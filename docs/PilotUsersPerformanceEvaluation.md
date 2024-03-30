@@ -6,14 +6,16 @@
 
 #### 02/03/2024
 
-
-## **REALIZADO POR:**
+# **CONTROL DE VERSIONES**
 <div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
+
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Campos Garrido, Juan Jesús | 02/03/2024 |
+| v1.0 | Evaluación para el sprint 1 | Campos Garrido, Juan Jesús | 02/03/2024 |
+| v1.5 | Conversión a MarkDown | García Linares, Diego | 08/03/2024 |
+| v2.0 | Evaluación para el sprint 2 | Campos Garrido, Juan Jesús | 30/03/2024 |
+
 </div>
 
 
@@ -23,8 +25,6 @@
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -41,13 +41,7 @@
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 </div>
 
-# **CONTROL DE VERSIONES**
-<div class="markdown-table">
 
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1 | Creación del documento | Campos Garrido, Juan Jesús | 02/03/2024 |
-</div>
 
 
 ## **RESUMEN EJECUTIVO**
@@ -69,10 +63,10 @@ Si se quiere consultar el feedback proporcionado por el grupo 6 y por el resto d
 
 | **Factor** | **#S1** | **#S2** | **#S3** | **#PPL** | **#WPL** |
 | --- | --- | --- | --- | --- | --- |
-| Punctuality | 10  |     |     |     |     |
-| Feedback validity | 10  |     |     |     |     |
-| Feedback amount | 10  |     |     |     |     |
-| Feedback quality | 10  |     |     |     |     |
+| Punctuality | 10  | 10  |     |     |     |
+| Feedback validity | 10  | 10 |     |     |     |
+| Feedback amount | 10  | 10 |     |     |     |
+| Feedback quality | 10  | 10 |     |     |     |
 </div>
 
 ## **CONCLUSIONES**
