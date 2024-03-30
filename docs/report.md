@@ -8,23 +8,26 @@
 
 # **REPORTE DE LA BASE DE CONOCIMIENTO GENERAL**
 
-## **REALIZADO POR:**
-<div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
-</div>
 
 ###     **2ª ENTREGA**
 
 ### **GRUPO 12**
 
+### **CONTROL DE VERSIONES**
+<div class="markdown-table">
+
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Campos Garrido, Juan Jesús | 17/02/2024 |
+| v1.0 | Descritas aportaciones realizadas | Campos Garrido, Juan Jesús | 17/02/2024 |
+| v1.1 | Aportaciones realizadas en la tercera semana | Campos Garrido, Juan Jesús | 22/02/2024 |
+| v2.0 | Actualización para el sprint 1 | Campos Garrido, Juan Jesús | 03/03/2024 |
+| v2.5 | Conversión a MarkDown | García Linares, Diego | 08/03/2024 |
+| v3.0 | Actualización para el sprint 2 | Campos Garrido, Juan Jesús | 30/03/2024 |
+</div>
+
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -43,15 +46,6 @@
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 </div>
 
-### **CONTROL DE VERSIONES**
-<div class="markdown-table">
-
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1 | Creación del documento | Campos Garrido, Juan Jesús | 17/02/2024 |
-| v1.0 | Descritas aportaciones realizadas | Campos Garrido, Juan Jesús | 17/02/2024 |
-| v1.1 | Aportaciones realizadas en la tercera semana | Campos Garrido, Juan Jesús | 22/02/2024 |
-</div>
 
 ## **RESUMEN EJECUTIVO**
 
