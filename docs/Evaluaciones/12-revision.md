@@ -33,6 +33,8 @@
 
 [**CONTENIDOS**](#contenidos)
 
+[**CONTENIDO 1º SPRINT**](#contenido-1º-sprint)
+
 [**CASO 1: REGISTRO DE USUARIOS**](#caso-1:-registro-de-usuarios)
 
 [**CASO 2: INICIO Y CIERRE DE SESIÓN**](#caso-2:-inicio-y-cierre-de-sesion)
@@ -51,6 +53,34 @@
 
 [**CONSIDERACIONES**](#consideraciones)
 
+[**CONTENIDO 2º SPRINT**](#contenido-2º-sprint)
+
+[**CASO 1: CHAT**](#caso-1-chat)
+
+[**CASO 2: LISTADO DE PRODUCTOS Y ARTISTAS**](#caso-2-listado-de-productos-y-artistas)
+
+[**CASO 3: APARTADO PARA ASIGNACIÓN DE IMPRESIONES**](#caso-3-apartado-para-asignación-de-impresiones)
+
+[**CASO 4: CONVERSIÓN STL**](#caso-4-conversión-stl)
+
+[**CASO 5: COMPRAR UN PLAN**](#caso-5-comprar-un-plan)
+
+[**CASO 6: PERFIL**](#caso-6-perfil)
+
+[**CASO 6.1: EDICIÓN PERFIL**](#61-edición-perfil)
+
+[**CASO 6.2: MIS PRODUCTOS**](#62-mis-productos)
+
+[**CASO 6.2.1: EDICIÓN DE PRODUCTOS**](#621-edición-producto)
+
+[**CASO 6.3: OPINIONES**](#63-opiniones)
+
+[**CASO 7: MIS PEDIDOS**](#caso-7-mis-pedidos)
+
+[**CASO 8: COMUNIDAD**](#caso-8-comunidad)
+
+[**CONSIDERACIONES SPRINT 2**](#consideraciones-1)
+
 [**CONCLUSIONES**](#conclusiones)
 
 [**BIBLIOGRAFÍA**](#bibliografía)
@@ -66,7 +96,8 @@
 | v0.1 | Creación del documento | Mera Gómez, Pablo | 28/02/2024 |
 | v1.0 | Primera versión | Mera Gómez, Pablo| 01/03/2024 |
 | v1.1 | Retoques finales | Mera Gómez, Pablo | 01/03/2024 |
-| v2.0 | Nuevas funcionalidades | Mera Gómez, Pablo | 19/03/2024 |
+| v2.0 | Nuevas funcionalidades sprint 2 | Mera Gómez, Pablo | 19/03/2024 |
+| v2.1 | Actualizado índice sprint 2 | Mera Gómez, Pablo | 30/03/2024 |
 
 </div>
 
