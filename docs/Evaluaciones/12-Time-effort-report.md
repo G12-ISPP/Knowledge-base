@@ -224,6 +224,18 @@ Alejandro**
 
 **Reporte general**
 
+## **Baquero Villena, Carlos**
+![](/img/timeEffort//TE-CB-01.png)
+![](/img/timeEffort//TE-CB-02.png)
+![](/img/timeEffort//TE-CB-03.png)
+![](/img/timeEffort//TE-CB-04.png)
+![](/img/timeEffort//TE-CB-05.png)
+![](/img/timeEffort//TE-CB-06.png)
+![](/img/timeEffort//TE-CB-07.png)
+![](/img/timeEffort//TE-CB-08.png)
+![](/img/timeEffort//TE-CB-09.png)
+![](/img/timeEffort//TE-CB-10.png)
+
 ## **Campos Garrido, Juan Jesús**
 ![](/img/timeEffort//TE-JJ-01.png)
 

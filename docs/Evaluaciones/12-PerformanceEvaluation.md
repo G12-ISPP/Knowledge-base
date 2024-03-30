@@ -385,6 +385,22 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 
 ## **CONTRIBUCIONES EN LA FASE DE SPRINT 2**
 
+### **Baquero Villena , Carlos**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- Me he encargado de realizar la funcionalidad de ver mis pedidos.
+- Me he encargado de arreglar errores respecto al resumen de pedido.
+- Me he encargado de realizar la funcionalidad de seguimiento de pedido.
+- He asistido a todas las reuniones de retrospectiva.
+- He resumido las píldoras teóricas de la semana 7 para añadirlo a la base de conocimientos.
+- He realizado pruebas sobre la conversión STL.
+- He comenzado a actualizar el test de registro de usuario.
+- He realizado cambios para el listado de mis pedidos.
+- Me he encargado de hacer varias mejoras recogidas del feedback de nuestros usuarios piloto.
+- He hecho de usuario piloto para la aplicación Ciao Lavoro.
+- He arreglado y probado la lógica del plan de vendedor.
+
 ### **Campos Garrido, Juan Jesús**
 
 - He contribuido asistiendo a todas las clases de esta fase.
