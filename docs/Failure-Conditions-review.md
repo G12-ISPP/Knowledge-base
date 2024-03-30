@@ -64,9 +64,9 @@ T-8) Not including the following issues in your working planning representing a 
 + Expected aspects review. -> Para esto en nuestro proyecto tenemos la [issue](https://github.com/G12-ISPP/ISPP/issues/292) Expected aspects review que trata de rellenar el documento [Expected-aspects-review](/docs/Expected-aspects-review).
 
 T-9) Not including the following content in the document of contributions to the shared Knowledge Base (X-report.pdf): -> En primer lugar hay una errata en esta failure condition ya que no concuerda el nombre que se propone para el documento X-report.pdf con el nombre que viene en el apartado T-10) report.md, por lo tanto nosotros seguiremos el del apartado T-10)
-+ The link to the shared Knowledge Base.
-+ The specific content that the team has contributed, which should include, at least, the specificfeedback received and the annotations on the general feedback.
-+ The consolidation actions that have been carried out. If none have been carried out, specify "Noconsolidation actions have been carried out".
++ The link to the shared Knowledge Base. -> Se incluye tanto el enlace al repo de GitHub como el enlace a la base de conocimiento desplegada
++ The specific content that the team has contributed, which should include, at least, the specificfeedback received and the annotations on the general feedback. -> Hay un apartado con las contribuciones que ha hecho el equipo y entres esas contribuciones está el feedback del equipo y aportaciones a los conceptos generales de la clase
++ The consolidation actions that have been carried out. If none have been carried out, specify "Noconsolidation actions have been carried out". -> Se incluye un apartado de Acciones de mejora tomadas
 
 
 T-10) Failure to make a correct delivery considering the following instructions concerning the Gitubrepository:
@@ -86,7 +86,7 @@ T-10) Failure to make a correct delivery considering the following instructions 
 
 Starting at deliverable #S1:
 T-11) Not following the instructions of the software reviewer's guidelines; or incurring in any of the failureconditions presented in those guidelines.
-T-12) Not including in the docs repository folder the pilot users performance evaluation(PilotUsersPerformanceEvaluation.md) following the pilot users performance evaluation templateprovided in EV.
+T-12) Not including in the docs repository folder the pilot users performance evaluation(PilotUsersPerformanceEvaluation.md) following the pilot users performance evaluation template provided in EV. -> Se incluye dicho documento
 T-13) Not including in the docs repository folder all information received from pilot users(InformationProvidedByPilotUsers.md) considering the MinimumInformationFromPilotUsers_Gathered-ByForm document.
 T-14) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows:• Deployed Software review
 T-15) Having text in the slides that is not readable from the back of the class.
