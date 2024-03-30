@@ -540,7 +540,7 @@ Una vez tienen las distintas páginas, le proporcionaremos los datos
 indispensables para que pueda acceder a la web y probar todo lo que
 explicaremos posteriormente:
 
--   URL de la web: [[https://ispp-s1.vercel.app/]](https://ispp-s1.vercel.app/)
+-   URL de la web del sprint 2: [[https://ispp-s2.vercel.app/]](https://ispp-s2.vercel.app/)
 
 -   Credenciales administrador:
 
