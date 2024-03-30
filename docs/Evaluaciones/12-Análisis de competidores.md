@@ -39,6 +39,8 @@
 
 [**CUADRO COMPARATIVO**](#cuadro-comparativo)
 
+[**REVISIÓN 2º SPRINT**](#revisión-2º-sprint)
+
 [**CONCLUSIONES**](#conclusiones)
 
 [**BIBLIOGRAFÍA**](#bibliografía)
@@ -56,6 +58,7 @@
 | v1.2.0 | Añadidos nuevos competidores junto con sus análisis exhaustivos | - Mera Gómez, Pablo - Campano Galán, Alejandro | 11/02/2024 |
 | v1.3.0 | Añadida lista de comparación entre los competidores | Mera Gómez, Pablo | 16/02/2024 |
 | v1.4.0 | Versión final para el entregable 1| Mera Gómez, Pablo | 17/02/2024 |
+| v2.0.0 | Revisión documento para sprint 2| Mera Gómez, Pablo | 29/03/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**
@@ -276,6 +279,25 @@ Como resumen, vamos a mostrar una matriz DAFO que indique las fortalezas, debili
 Según el cuadro, tenemos la debilidad de que intentar abarcar tantas características puede hacer que no perfeccionemos ninguna de ellas, pero esto se puede volver una oportunidad al ofrecer soluciones a un público objetivo superior a nuestros competidores y, además, creemos que tenemos una buena estrategia para centrar a todo ese público en nuestro servicio.
 
 La amenaza de que hay mucha oferta de impresión 3D tiene un trasfondo, pues esto ocurre porque hay mucha demanda puesto debido a que es una tecnología en auge, a pesar de ello, hay competidores que están establecidos con un gran público, pero la mayoría de ellos no tienen un marketing muy elaborado ni una marca establecida, por lo que podemos aprovechar eso para centrar a toda la comunidad en nuestra web y que el auge de la demanda recaiga en nuestro servicio.
+
+## **REVISIÓN 2º SPRINT**
+
+Para comenzar a revisar la evolución del mercado, lo primero que se ha realizado es el cuadro comparativo respecto a enero, que fue en la fecha en la que se obtuvo el anterior, con las 6 webs que considerábamos competencia.
+
+![](/img/Cuadro2.png)
+
+Como podemos ver, hay una empresa menos en la ecuación, puesto que Semrush no tiene datos sobre Innova3D, no conocemos el por qué no hay datos, lo más probable es porque no ha crecido como parecía que iba a ser y ha perdido la mayoría de los clientes, por lo tanto no debemos seguir teniendo en cuenta este servicio. Si nos fijamos en el cuadro comparativo, Innova3D era la empresa que compartía más características con Shar3D por lo que la noticia, además de pillarnos por sorpresa, requiere de un estudio adicional, tanto positivo como negativo. En cuanto al punto positivo, ha desaparecido del mercado aquella página que ofrecía productos muy similares a nosotros, por lo tanto el público objetivo de Innova3D puede recaer en nuestro servicio, lo que haría que incrementara nuestro impacto en el mercado. Sin embargo, si pensamos más allá, podemos hacernos la pregunta: ¿Por qué ha caido Innova3D?
+
+El motivo realmente lo desconocemos, pero que un servicio muy parecido al nuestro pierda tantos clientes debería hacernos pensar en qué tenemos distinto a ellos para que Shar3D si pueda tener el impacto en el mercado que Innova3D finalmente no ha conseguido. Por ello, vamos a centrarnos en los puntos débiles de Innova3D para conseguir diferenciarnos y destacar en el mercado.
+
+Consideramos que el punto débil del servicio es la comunidad, tiene muy pocas interacciones, sólo hay posts publicados por el propio servicio y eso conlleva a que los usuarios visiten la página, impriman algo y no vuelvan más, que era uno de los factores que considerábamos más propensos a ocurrir en páginas de este estilo y que buscamos, a través de la comunidad, evitar. Nuestro sistema de comunidad respecto al de Innova3D, permite interactuar entre los clientes de la web, hace que el mundo de la impresión pueda acceder a una única web para conocer las últimas noticias, como para obtener productos que necesiten para imprimir o como para ganar dinero a través de estas impresiones, por lo que intentamos cubrir todas las necesidades posibles del público objetivo.
+
+Además, otro factor que creemos que es realmente importante en Shar3D y que Innova no ha llevado a cabo es que las impresiones las hagan clientes. De esta manera, podrían captar la atención de un sector indispensable del gremio, que además de ganar dinero con el servicio, estarían interesados en todos los aspectos del mismo, como pueden ser diseños o impresoras. Desde Shar3D, siempre se planteó que los impresores autónomos, es decir, que tienen una impresora en su casa para proyectos individuales y no hacen negocio con ella, fueran la clave de nuestro modelo de negocio, porque creemos que ningún servicio se ha adaptado para que ellos formen parte de él.
+
+Respecto al resto de competidores, podemos ver que Imprimakers ha perdido valor en el mercado puesto que su crecimiento ha disminuido comparado a los datos de enero, un cambio inverso al que ha tenido impresoras3D.com, que ha sufrido un crecimiento exponencial y se ha colocado como empresa lider en el mercado, a pesar de no haber realizado grandes cambios apreciables en su web, se ha convertido en uno de nuestro principales competidores junto a Protolabs, que ha disminuido un poco su crecimiento pero sigue siendo líder.
+
+Por otro lado, Printalot ha conseguido un crecimiento notable respecto a enero y está en el límite para pasar a ser un agente de cambio, mientras que Lafactoria3D sigue hundiéndose en el mercado y pierde tanto crecimiento como clientes, por lo que podríamos llegar a considerar adaptar el cuadro comparativo para añadir a Printalot, que puede llegar a ser un gran competidor si consideramos el cambio que ha experimentado de un mes a otro.
+
 ## **CONCLUSIONES**
 
 Como conclusión, podemos ver que el mercado tiene muchas propuestas de negocio, algunas con más o menos éxito, pero destacan 2 principalmente, que son Imprimakers y Protolabs. Imprimakers consideramos que trabaja con un modelo de negocio parecido al que planteamos para Shar3D, pero sin embargo no es capaz de conectar con la comunidad de la impresión 3D debido a que no usan el blog asiduamente y no añaden funcionalidades, posiblemente necesarias para que el público objetivo tenga más interés en la página, como puede ser la compra/venta de productos. Por otro lado, Protolabs se aleja un poco más de nuestro modelo de negocio, pues únicamente trabajan con impresión bajo demanda, pero sin embargo abarca muchos clientes debido a su eficacia y rapidez realizando piezas a pequeña escala y a su experiencia en muchos países.
