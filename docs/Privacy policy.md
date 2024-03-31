@@ -1,3 +1,25 @@
+![alt text](/img/logo.png)
+
+## **PROYECTO**
+
+## **SHAR3D**
+
+#### 31/03/2024
+
+# **POLÍTICA DE PRIVACIDAD**
+
+### **SPRINT 2**
+
+### **- GRUPO 12 -**
+
+### **CONTROL DE VERSIONES**
+
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Garrucho Sánchez, Ursula | 18/03/2024 |
+| v1.0 | Versión definitiva para el sprint 2 | Garrucho Sánchez, Ursula | 21/03/2024 |
+| v1.1 | Revisión para la entrega del sprint 2 | Campos Garrido, Juan Jesús | 31/03/2024 |
+
 # Política de Privacidad
 
 ### ¡Bienvenido a Shar3d!
