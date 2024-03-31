@@ -75,7 +75,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
 | --- | --- | --- |-----| --- | --- | --- |-------| --- |
-| Baquero Villena, Carlos | 10  | 10  |     |     |     |     | 20    | 1   |
+| Baquero Villena, Carlos | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
@@ -429,6 +429,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado toda la lógica de negocio correspondiente al plan de usuario de comprador.
 - He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
 - He hecho tests de los siguientes apartados: seguimiento de pedido, mis pedidos, seguimiento de comunidad, apartado de solicitudes de impresión.
+- He realizado distintas mejoras solicitadas por los usuarios pilotos para elementos como el carrito o las páginas de planes
 
 ### **Carretero Díaz, Antonio**
 
