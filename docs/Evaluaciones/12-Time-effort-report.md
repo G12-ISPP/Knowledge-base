@@ -224,6 +224,8 @@ Alejandro**
 
 **Reporte general**
 
+![](/img/timeEffort//TE-G-01.png)
+
 ## **Baquero Villena, Carlos**
 ![](/img/timeEffort//TE-CB-01.png)
 ![](/img/timeEffort//TE-CB-02.png)

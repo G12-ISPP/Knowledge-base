@@ -81,6 +81,8 @@ A continuación, en esta tabla se encuentra cada usuario piloto que ha probado n
 
 ### Sprint 2
 
+Para ver el reporte temporal del tiempo que nuestros usuarios piloto del grupo 6 han dedicado hay que acceder a este enalce https://app.clockify.me/shared/6609486aa48eeb276cf20cf3
+
 | **Nombre del usuario piloto** | **Fecha de envío de feedback** | **Fecha de acceso al sistema** | **Fallos encontrados** | **Recomendaciones de mejora** | **Otros comentarios** |
 | --- | --- | --- | --- | --- | --- |
 | Marta Sanchez Romero | 23-03-2024 | 22-03-2024 | **Inicio de sesión:** Se me ha olvidado la contraseña que puse y no sabía donde darle para recuperarla **Registro:** No me deja poner ninguna foto de perfil de mi móvil porque son muy grandes, El cuadro de descripción se sale de la pantalla de registrar en el móvil  | **Al comprar:** Poner dirección de facturación por si es diferente a la de entrega | |
