@@ -71,19 +71,19 @@ T-9) Not including the following content in the document of contributions to the
 
 
 T-10) Failure to make a correct delivery considering the following instructions concerning the Gitubrepository:
-+  Provide the GitHub repository URL.
++  Provide the GitHub repository URL. -> Se entregarán los enlaces a los repositorios de la base de conocimiento, de la landing page y del código del proyecto SHAR3D
 +  Failure to make a mistake in the format or file name in any of the files that conform to the deliverableto be included in a “docs” folder of the GitHub repository:
-1. Presentation (presentacion.md)
-2. Report of contributions to the common KB. (report.md)
-3. Report of user pilots (at least considering status, plan, feedback management, etc.) (pilots.md)
-4. Individual performance evaluation (PerformanceEvaluation.md) following the performanceevaluation template provided in EV.
-5. Time-effort report for each member and for the group (Time-Effort-report.md).
-6. Report detailing the AI usage (AI-usage.md).
-7. Commitment Agreement (at least considering version, status, etc.) (commitmentAgreement.md).
-8. Pilot Users Commitment Agreement or Agreements (at least considering version, status, etc.)(pilotUsersCommitmentAgreement.md or several of them).
-9. Any other document or video you consider should be in md, pdf, ppt, pptx or mp4 format.
-+ Include a proper Tag for the delivered version of the code and documentation (e.g. 0.1 for #DPdeliverable, 1.0 for #S1 deliverable, ...).
-+ Perform a GitHub release linking the proper tag, which must include a zip file with all repositorycontent.
+1. Presentation (presentacion.md) -> Dentro de la carpeta docs está el archivo [presentacion.md](/docs/presentacion)
+2. Report of contributions to the common KB. (report.md) -> Dentro de la carpeta docs está el archivo [report.md](/docs/report)
+3. Report of user pilots (at least considering status, plan, feedback management, etc.) (pilots.md) -> Dentro de la carpeta docs está el archivo [pilots.md](/docs/pilots)
+4. Individual performance evaluation (PerformanceEvaluation.md) following the performanceevaluation template provided in EV. -> Dentro de la carpeta docs está el archivo [PerformanceEvaluation.md](/docs/PerformanceEvaluation)
+5. Time-effort report for each member and for the group (Time-Effort-report.md).-> Dentro de la carpeta docs está el archivo [Time-Effort-report.md](/docs/Time-Effort-report)
+6. Report detailing the AI usage (AI-usage.md). -> Dentro de la carpeta docs está el archivo [AI-usage.md](/docs/AI-usage)
+7. Commitment Agreement (at least considering version, status, etc.) (commitmentAgreement.md).-> Dentro de la carpeta docs está el archivo [commitmentAgreement.md](/docs/commitmentAgreement)
+8. Pilot Users Commitment Agreement or Agreements (at least considering version, status, etc.)(pilotUsersCommitmentAgreement.md or several of them). -> Dentro de la carpeta docs está el archivo [pilotUsersCommitmentAgreement.md](/docs/pilotUsersCommitmentAgreement)
+9. Any other document or video you consider should be in md, pdf, ppt, pptx or mp4 format. -> Se incluirán otros documentos generados para anteriores entregables que han sido mejorados así como la demo de este sprint.
++ Include a proper Tag for the delivered version of the code and documentation (e.g. 0.1 for #DPdeliverable, 1.0 for #S1 deliverable, ...). -> Se hará un despliegue con la Tag 2.0 porque estamos en el segundo sprint
++ Perform a GitHub release linking the proper tag, which must include a zip file with all repositorycontent. -> Incluiremos la Tag 2.0 y se subirá un zip con el contenido del repo en el momento de la release y además se generará un changelog de la base de conocimiento
 
 Starting at deliverable #S1:
 T-11) Not following the instructions of the software reviewer's guidelines; or incurring in any of the failureconditions presented in those guidelines. -> Se han seguido las instrucciones dle documento y se revisarán las condiciones de fallo a continuación:

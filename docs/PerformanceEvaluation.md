@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 22/03/2024
+#### 31/03/2024
 
 # **EVALUACIÓN DEL RENDIMIENTO INDIVIDUAL**
 
@@ -16,15 +16,14 @@
 | García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
+Cada integrante del equipo ha incluido su aportación y su nota
 
-### **3ª ENTREGA**
+### **SPRINT 2**
 
 ### **- GRUPO 12 -**
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -43,17 +42,6 @@
 [**BIBLIOGRAFÍA**](#bibliografía)
 
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
-</div>
-
-# **CONTROL DE VERSIONES**
-<div class="markdown-table">
-
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1.0 | Creación del documento | Campos Garrido, Juan Jesús | 17/02/2024 |
-| v1.0.0 | Evaluación de cada integrante añadida | Campos Garrido, Juan Jesús | 17/02/2024 |
-| v1.1.0 | Evaluación sprint 1 | Campos Garrido, Juan Jesús | 03/03/2024 |
-| v2.0.0 | Evaluación sprint 2 | Campos Garrido, Juan Jesús | 22/03/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**
@@ -81,13 +69,13 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
-| García Linares, Diego | 10  | 10  | 9    |     |     |     | 29    | 1   |
+| García Linares, Diego | 10  | 10  | 9    |     |     |     | 29    | 0.967   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    |     |     |     | 30    | 1   |
 | Mera Gómez, Pablo | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| **Total** | **120** | **120** |     |     |     |     |       |     |
+| **Total** | **120** | **120** | **119**    |     |     |     |       |     |
 </div>
 
 ## **CONTRIBUCIONES EN LA FASE DE DP**

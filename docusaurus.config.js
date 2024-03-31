@@ -67,15 +67,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Conceptos/Introducción',
+            docId: 'Inicio',
             position: 'left',
-            label: 'Conceptos teóricos',
+            label: 'docs',
           },
           {
             type: 'doc',
-            docId: 'Evaluaciones/Introducción',
+            docId: 'Conceptos/Introducción',
             position: 'left',
-            label: 'Docs evaluación',
+            label: 'Conceptos teóricos',
           },
           {
             type: 'doc',

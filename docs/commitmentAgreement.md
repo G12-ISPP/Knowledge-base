@@ -92,6 +92,8 @@ Los alumnos del grupo 12 de la asignatura Ingeniería de Software y Práctica Pr
 
 Para ver las tareas que han sido completadas por cada integrante del equipo: https://github.com/G12-ISPP/ISPP/issues
 
+Semanalmente el estado de este documento y su cumplimiento será revisado en la reunión de retrospectiva y se incluirá en la presentación de la semana, por lo que para ver el cumplimiento de dicho acuerdo se pueden revisar las distintas presentaciones que se encuentran en la carpeta /pdf de la base de conocimiento.
+
 ## **FIRMA DE LOS INTEGRANTES**
 
 Al firmar este documento entiendo y acepto las responsabilidades que se me asignan y me comprometo a cumplirlas según lo establecido en este compromiso.

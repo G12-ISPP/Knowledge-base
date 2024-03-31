@@ -4,28 +4,29 @@
 
 ## **SHAR3D**
 
-#### 27/02/2024
+#### 31/03/2024
 
 # **PLAN DE GESTIÓN DE USUARIOS PILOTOS**
 
-
-## **REALIZADO POR:**
-<div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
-</div>
-
-### **2ª ENTREGA**
+### **SPRINT 2**
 
 ### **- GRUPO 12 -** 
 
+# **CONTROL DE VERSIONES**
+<div class="markdown-table">
+
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Santiago Félix, Alejandro | 10/02/2024 |
+| v0.8 | Creación del plan inicial para los usuarios pilotos | Santiago Félix, Alejandro | 10/02/2024 |
+| v1.0 | Listado inicial de usuarios pilotos | Santiago Félix, Alejandro | 12/02/2024 |
+| v1.1 | Añadido estado usuarios | Mera Gómez, Pablo | 21/02/2024 |
+| v1.2 | Actualizado estado usuarios | Campano Galán, Alejandro | 27/02/2024 |
+| v1.5 | Conversión a Markdown | García Linares, Diego | 8/03/2024 |
+</div>
+
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -41,7 +42,7 @@
 
 [**FECHAS**](#fechas)
 
-[**SPRINT 1**](#sprint-1)
+[**GESTIÓN DEL FEEDBACK**](#gestión-del-feedback)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -50,18 +51,6 @@
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 </div>
 
-
-# **CONTROL DE VERSIONES**
-<div class="markdown-table">
-
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1 | Creación del documento | Santiago Félix, Alejandro | 10/02/2024 |
-| v0.8 | Creación del plan inicial para los usuarios pilotos | Santiago Félix, Alejandro | 10/02/2024 |
-| v1.0 | Listado inicial de usuarios pilotos | Santiago Félix, Alejandro | 12/02/2024 |
-| v1.1 | Añadido estado usuarios | Mera Gómez, Pablo | 21/02/2024 |
-| v1.2 | Actualizado estado usuarios | Campano Galán, Alejandro | 27/02/2024 |
-</div>
 
 ## **RESUMEN EJECUTIVO**
 
@@ -129,11 +118,11 @@ Los sistemas de comunicación son un componente esencial para el éxito de cualq
 
 En el primer sprint se le facilitará la aplicación junto al manual de uso y un formulario a los usuarios pilotos el día 1 de marzo de 2024 y se espera recibir el feedback desde dicho días hasta el domingo.
 
-En cuanto al segundo sprint el plazo inicial planteado por el equipo para que los usuarios pilotos accedan a la aplicación del viernes 22 de marzo al domingo 24 de marzo, aunque si algún usuario lo solicita se le permitirá administrar feedback en semana santa.
+En cuanto al segundo sprint el plazo inicial planteado por el equipo para que los usuarios pilotos accedan a la aplicación del viernes 22 de marzo al domingo 31 de marzo, dejando finalmente que cualquier usuario que quiera de feedback en semana santa, pero también dandoles la posibilidad de que nos den feedback antes de semana santa.
 
 Finalmente en el tercer sprint el plazo inicial planteado por el equipo va del 12 de abril al 14 de abril.
 
-## **SPRINT 1**
+## **GESTIÓN DEL FEEDBACK**
 
 Durante el primer sprint, se realizan las tareas que consoliden el MVP, por lo tanto, los usuarios deben probar que todas estas funcionalidades actúan como ellos esperan y que, además, pueden navegar por todo el sistema sin ningún error.
 
@@ -149,6 +138,9 @@ Creemos que este feedback es una parte esencial del proyecto, por lo que propone
 - 2 Sprints: en este caso, el usuario piloto, da feedback durante 2 sprints. Creemos que este caso requiere más esfuerzo que el anterior y que el feedback que recibiremos será mucho más completo, por lo que el usuario tendrá una bonificación para que, en su primer pedido en Shar3D, el envío del producto sea gratuito.
 - 3 Sprints: el usuario piloto ha probado toda la funcionalidad desarrollada por el equipo y obtenemos feedback de un posible cliente que tiene una visión general de todo lo que ofrecemos y comprende el funcionamiento del sistema en todos los aspectos. Por lo tanto, consideramos que la información que nos devuelve es muy importante para tener en cuenta en los siguientes incrementos y que deben tener un 100% de descuento en cualquier plan de Shar3D durante 1 mes.
 
+Una vez que recopilemos el feedback de nuestros usuarios pilotos, crearemos un documento donde haremos un listado de propuestas de mejora para implementar la información que nos han dado nuestros usuarios piloto y durante el siguiente sprint se irán implementando dichas mejoras.
+
+De hecho, en el segundo sprint ya se han implementado las mejoras que los usuarios piloto propusieron en el primer sprint y en el feedback recibido en el segundo sprint podemos observar que los usuarios piloto están satisfechos con las mejoras implementadas a partir de su feedback.
 
 ## **CONCLUSIONES**
 

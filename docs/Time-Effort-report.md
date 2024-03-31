@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 22/03/2024
+#### 31/03/2024
 
 # **REPORTE DE ESFUERZO TEMPORAL**
 
@@ -15,16 +15,16 @@
 | Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
 | García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
+
+Cada integrante se encarga de hacer su reporte individual
 </div>
 
-### **3ª ENTREGA**
+### **SPRINT 2**
 
 ### **- GRUPO 12 -**
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -45,17 +45,6 @@
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 </div>
 
-### **CONTROL DE VERSIONES**
-<div class="markdown-table">
-
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1 | Creación del documento | Campos Garrido, Juan Jesús | 17/02/2024 |
-| v1.0 | Preparación del documento con formato para incluir los reportes temporalres | Campos Garrido, Juan Jesús | 17/02/2024 |
-| v1.1 | Añadidos reportes temporales de la etapa de DP | Campos Garrido, Juan Jesús | 22/02/2024 |
-| v1.2 | Añadidos reportes temporales de la etapa de S1 | Campos Garrido, Juan Jesús | 02/03/2024 |
-| v2.0 | Añadidos reportes temporales de la etapa de S2 | Campos Garrido, Juan Jesús | 22/03/2024 |
-</div>
 
 ## **RESUMEN EJECUTIVO**
 

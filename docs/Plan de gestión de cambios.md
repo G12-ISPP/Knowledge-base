@@ -4,25 +4,25 @@
 
 ## **SHAR3D**
 
-#### 17/02/2024
+#### 31/03/2024
 
-## **REALIZADO POR:**
-<div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
-</div>
-
-### **1ª ENTREGA**
+### **SPRINT 2**
 
 ### **- GRUPO 12 -** 
 
+### **CONTROL DE VERSIONES**
+<div class="markdown-table">
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Carretero Díaz, Antonio | 17/02/2024 |
+| v1.0 | Proceso de gestión del cambio inicial | Carretero Díaz, Antonio | 17/02/2024 |
+| v1.1 | Cambios sobre el proceso | Garrucho Sánchez, Úrsula  García Linares, Diego  Escalante Ramos, María | 18/02/2024 |
+| v1.5 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
+| v2.0 | Revisión para el sprint 2 para evitar failure conditions | Campos Garrido, Juan Jesús | 08/03/2024 |
+</div>
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -53,14 +53,7 @@
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 </div>
 
-### **CONTROL DE VERSIONES**
-<div class="markdown-table">
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1 | Creación del documento | Carretero Díaz, Antonio | 17/02/2024 |
-| v1.0 | Proceso de gestión del cambio inicial | Carretero Díaz, Antonio | 17/02/2024 |
-| v1.1 | Cambios sobre el proceso | Garrucho Sánchez, Úrsula  García Linares, Diego  Escalante Ramos, María | 18/02/2024 |
-</div>
+
 
 ## **RESUMEN EJECUTIVO**
 

@@ -4,28 +4,30 @@
 
 ## **SHAR3D**
 
-#### 01/03/2024
+#### 31/03/2024
 
 # **ANÁLISIS DE COSTE**
 
-
-## **REALIZADO POR:**
-<div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
-</div>
-
-### **2ª ENTREGA**
+### **SPRINT 2**
 
 ### **- GRUPO 12 -** 
 
+# **CONTROL DE VERSIONES**
+<div class="markdown-table">
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v1.0.0 | Inicio del documento | García Sánchez-Hermosilla, Alejandro | 15/02/2024 |
+| v1.1.0 | Versión para la primera evaluación | García Sánchez-Hermosilla, Alejandro  Escalante Ramos, María | 15/02/2024 |
+| v1.2.0 | Ajuste de costes tras calcular la necesidad de GitHub Actions | Campos Garrido, Juan Jesús | 22/02/2024 |
+| v1.3.0 | Revisión del coste para añadir los conceptos CapEx OpEx | Campos Garrido, Juan Jesús | 01/03/2024 |
+| v1.4.0 | Añadidos distintos escenarios para medir la rentabilidad | Campos Garrido, Juan Jesús | 01/03/2024 |
+| v1.5.0 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
+| v1.6.0 | Corrección sobre el CAPEX | Campos Garrido, Juan Jesús | 10/03/2024 |
+| v2.0.0 | Revisión para la entrega del sprint 2 | Campos Garrido, Juan Jesús | 31/03/2024 |
+</div>
+
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -47,17 +49,6 @@
 
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 
-</div>
-
-# **CONTROL DE VERSIONES**
-<div class="markdown-table">
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v1.0.0 | Inicio del documento | García Sánchez-Hermosilla, Alejandro | 15/02/2024 |
-| v1.1.0 | Versión para la primera evaluación | García Sánchez-Hermosilla, Alejandro  Escalante Ramos, María | 15/02/2024 |
-| v1.2.0 | Ajuste de costes tras calcular la necesidad de GitHub Actions | Campos Garrido, Juan Jesús | 22/02/2024 |
-| v1.3.0 | Revisión del coste para añadir los conceptos CapEx OpEx | Campos Garrido, Juan Jesús | 01/03/2024 |
-| v1.4.0 | Añadidos distintos escenarios para medir la rentabilidad | Campos Garrido, Juan Jesús | 01/03/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**

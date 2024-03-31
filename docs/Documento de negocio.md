@@ -4,29 +4,35 @@
 
 ## **SHAR3D**
 
-#### 01/02/2024
+#### 31/03/2024
 
 # **DOCUMENTO DE NEGOCIO**
 
-
-## **REALIZADO POR:**
-<div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
-</div>
-
-### **1ª ENTREGA**
+### **SPRINT 2**
 
 ### **- GRUPO 12 -** 
 
+# **CONTROL DE VERSIONES**
+
+<div class="markdown-table">
+
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1.0 | Creación del documento | García Linares, Diego | 01/02/2024 |
+| v0.3.0 | Descripción de la idea de negocio y objetivos | Reyes Alés, David | 02/02/2024 |
+| v0.4.0 | Mejoras en la idea de negocio y creación de un MVP preliminar | Campos Garrido, Juan Jesús | 02/02/2024 |
+| v0.5.0 | Redacción inicial del dafo | García Linares, Diego | 02/02/2024 |
+| v0.6.0 | Revisión y mejora del MVP y discusión técnica del mismo | Carretero Díaz, Antonio | 03/02/2024 |
+| v0.7.0 | Mejora sobre el DAFO | Mera Gómez, Pablo | 08/02/2024 |
+| v1.0.0 | Actualización de formatos y revisión del documento | García Linares, Diego | 17/02/2024 |
+| v1.1.0 | Revisión, DAFO, resumen ejecutivo, introducción, conclusiones y pequeñas correcciones. | Baquero Villena, Carlos | 18/02/2024 |
+| v1.2.0 | Corrección en la idea de negocio y formato de colores en las tablas | Campos Garrido, Juan Jesús | 18/02/2024 |
+| v1.5.0 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
+| v2.0.0 | Revisión en el sprint 2 para evitar failure conditions | Campos Garrido, Juan Jesús | 31/03/2024 |
+</div>
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -52,23 +58,6 @@
 
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 
-</div>
-
-# **CONTROL DE VERSIONES**
-
-<div class="markdown-table">
-
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1.0 | Creación del documento | García Linares, Diego | 01/02/2024 |
-| v0.3.0 | Descripción de la idea de negocio y objetivos | Reyes Alés, David | 02/02/2024 |
-| v0.4.0 | Mejoras en la idea de negocio y creación de un MVP preliminar | Campos Garrido, Juan Jesús | 02/02/2024 |
-| v0.5.0 | Redacción inicial del dafo | García Linares, Diego | 02/02/2024 |
-| v0.6.0 | Revisión y mejora del MVP y discusión técnica del mismo | Carretero Díaz, Antonio | 03/02/2024 |
-| v0.7.0 | Mejora sobre el DAFO | Mera Gómez, Pablo | 08/02/2024 |
-| v1.0.0 | Actualización de formatos y revisión del documento | García Linares, Diego | 17/02/2024 |
-| v1.1.0 | Revisión, DAFO, resumen ejecutivo, introducción, conclusiones y pequeñas correcciones. | Baquero Villena, Carlos | 18/02/2024 |
-| v1.2.0 | Corrección en la idea de negocio y formato de colores en las tablas | Campos Garrido, Juan Jesús | 18/02/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**

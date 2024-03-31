@@ -4,28 +4,30 @@
 
 ## **SHAR3D**
 
-#### 01/03/2024
+#### 31/03/2024
 
 # **ANÁLISIS DE COMPETIDORES**
 
-
-## **REALIZADO POR:**
-<div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
-</div>
-
-### **1ª ENTREGA**
+### **SPRINT 2**
 
 ### **- GRUPO 12 -** 
+
+# **CONTROL DE VERSIONES**
+<div class="markdown-table">
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v1.0.0 | Creación del documento |- Mera Gómez, Pablo - Campano Galán, Alejandro - Santiago Sánchez, Alejandro | 05/02/2024 |
+| v1.1.0 | Revisión del documento | Cortabarra Romero, David| 06/02/2024 |
+| v1.2.0 | Añadidos nuevos competidores junto con sus análisis exhaustivos | - Mera Gómez, Pablo - Campano Galán, Alejandro | 11/02/2024 |
+| v1.3.0 | Añadida lista de comparación entre los competidores | Mera Gómez, Pablo | 16/02/2024 |
+| v1.4.0 | Versión final para el entregable 1| Mera Gómez, Pablo | 17/02/2024 |
+| v1.5.0 | Conversión a markdown | García Linares, Diego | 08/03/2024 |
+| v2.0.0 | Revisión documento para sprint 2| Mera Gómez, Pablo | 29/03/2024 |
+</div>
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
 
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -47,18 +49,6 @@
 
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 
-</div>
-
-# **CONTROL DE VERSIONES**
-<div class="markdown-table">
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v1.0.0 | Creación del documento |- Mera Gómez, Pablo - Campano Galán, Alejandro - Santiago Sánchez, Alejandro | 05/02/2024 |
-| v1.1.0 | Revisión del documento | Cortabarra Romero, David| 06/02/2024 |
-| v1.2.0 | Añadidos nuevos competidores junto con sus análisis exhaustivos | - Mera Gómez, Pablo - Campano Galán, Alejandro | 11/02/2024 |
-| v1.3.0 | Añadida lista de comparación entre los competidores | Mera Gómez, Pablo | 16/02/2024 |
-| v1.4.0 | Versión final para el entregable 1| Mera Gómez, Pablo | 17/02/2024 |
-| v2.0.0 | Revisión documento para sprint 2| Mera Gómez, Pablo | 29/03/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**

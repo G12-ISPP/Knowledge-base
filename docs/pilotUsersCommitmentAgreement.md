@@ -2,7 +2,7 @@
 ![alt text](/img/CL.png)
 
 
-## **PROYECTO**
+## Acuerdo de compromiso entre
 
 ## **SHAR3D + CIAOLAVORO**
 

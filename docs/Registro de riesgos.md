@@ -9,23 +9,28 @@
 # **REGISTRO DE RIESGOS**
 
 ## **REALIZADO POR:**
-<div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
-</div>
 
-### **1ª ENTREGA**
+
+### **SPRINT 2**
 
 ### **- GRUPO 12 -** 
+
+### **CONTROL DE VERSIONES**
+<div class="markdown-table">
+| **Versión**| **Descripción de los cambios**| **Autor**| **Fecha**|
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Campos Garrido, Juan Jesús | 10/02/2024 |
+| v0.3 | Añadido listado de 45 riesgos | Campos Garrido, Juan Jesús | 10/02/2024 |
+| v0.5 | Evaluados y priorizados los 45 riesgos iniciales | Campos Garrido, Juan Jesús | 11/02/2024 |
+| v0.8 | Propuestos 45 planes de acción para los riesgos iniciales | Campos Garrido, Juan Jesús | 11/02/2024 |
+| v0.9 | Añadido riesgo de dependencia entre tareas | Campos Garrido, Juan Jesús | 25/02/2024 |
+| V1.5 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
+| V2.0 | Añadido riesgo de relajación en el sprint 2 | 31/03/2024 |
+</div>
 
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -43,18 +48,7 @@
 
 </div>
 
-### **CONTROL DE VERSIONES**
 
-
-<div class="markdown-table">
-| **Versión**| **Descripción de los cambios**| **Autor**| **Fecha**|
-| --- | --- | --- | --- |
-| v0.1 | Creación del documento | Campos Garrido, Juan Jesús | 10/02/2024 |
-| v0.3 | Añadido listado de 45 riesgos | Campos Garrido, Juan Jesús | 10/02/2024 |
-| v0.5 | Evaluados y priorizados los 45 riesgos iniciales | Campos Garrido, Juan Jesús | 11/02/2024 |
-| v0.8 | Propuestos 45 planes de acción para los riesgos iniciales | Campos Garrido, Juan Jesús | 11/02/2024 |
-| v0.9 | Añadido riesgo de dependencia entre tareas | Campos Garrido, Juan Jesús | 25/02/2024 |
-</div>
 
 ## **RESUMEN EJECUTIVO**
 
@@ -122,6 +116,7 @@ En la siguiente tabla se identificarán los riesgos, los campos probabilidad e i
 | 44 | Uso de tecnologías obsoletas | 3 | 8 | 24 | 7 | Realizar un proceso adecuado para escoger tecnologías punteras que faciliten el desarrollo del proyecto utilizando las versiones más actuales posibles en cada caso |
 | 45 | Proceso para la gestión del cambio mal definido | 3 | 8 | 24 | 7 | Se evaluará el proceso de gestión del cambio para ver en qué puntos falla o no se aplica y se realizarán cambios para asegurarnos de tener un buen proceso de gestión del cambios y asegurarnos de su estricto cumplimiento |
 | 46 | Retrasos por las dependencias de tareas | 6 | 7 | 42 | 4 | Reorganizar las tareas en función de la disponibilidad del equipo para que los desarrolladores que tengan disponibilidad antes, hagan las tareas de las que dependen otras tareas |
+| 47 | Bajada del rendimiento de un integrante o del equipo tras un periodo de descanso del mismo | 6 | 7 | 42 | 4 | Se detectará si baja el rendimiento a partir de la medida de los puntos de esfuerzo por hora y si se detecta que desciendo el rendimiento de alguien se harán reuniones privadas para ver el motivo del bajón de rendimiento y para motivar al integrante a seguir trabajando como antes del parón |
 </div>
 
 ## **CONCLUSIONES**

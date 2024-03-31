@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 03/03/2024
+#### 31/03/2024
 
 # **INFORME DE USO DE IA**
 
@@ -16,16 +16,16 @@
 | Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
 | García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
+
+Cada integrante ha contribuido con sus propios prompts
 </div>
 
-### **2ª ENTREGA**
+### **SPRINT 2**
 
 ### **- GRUPO 12 -**
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -96,20 +96,14 @@
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 </div>
 
-## **CONTROL DE VERSIONES**
-<div class="markdown-table">
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v1.0.0 | Creación del documento | Baquero Villena, Carlos | 16/02/2024 |
-| v2.0.0 | Actualización del documento | Baquero Villena, Carlos | 03/03/2024 |
-</div>
 ## **RESUMEN EJECUTIVO**
 
-En este documento recopilan y describen todas las prompts realizadas a lo largo de la planificación y desarrollo del proyecto.
+En este documento recopilan y describen todas las prompts realizadas a lo largo de la planificación y desarrollo del proyecto. Para obetener más detalles sobre los prompts se recomienda consultar la carpeta IA donde hay un documento para cada prompt y se da un poco más de detalle, este documento es un simple recopilatorio resumido.
 
 ## **INTRODUCCIÓN**
 
 Este documento tiene como finalidad poder poder revisar los prompts realizados de la manera más rápida posible. Para ello se han resumido brevemente y se han recopilado todos los enlaces por si se necesita mayor exactitud en la información buscada.
+El equipo quiere aclarar que tras el primer sprint ha intentado optimizar el uso de la inteligencia artificial pensando en la huella de carbono que podemos producir y por eso se han reducido la cantidad de prompts desde dicha fase
 
 ## **CONTENIDOS**
 
@@ -513,6 +507,7 @@ Phind ha contribuido a que se reestructure la clase de los tests.
 ## **CONCLUSIONES**
 
 Se han recopilado y resumido todas las prompt realizadas a cualquier tipo de Inteligencia Artificial a la hora del desarrollo o planificación del proyecto.
+El equipo estima que se han producido unos 21.6 g de CO2 por nuestras consultas a inteligencias arfiticiales hasta el momento.
 
 # **BIBLIOGRAFÍA**
 
