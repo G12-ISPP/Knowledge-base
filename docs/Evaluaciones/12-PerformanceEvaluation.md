@@ -413,6 +413,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado toda la lógica de negocio correspondiente al plan de usuario de comprador.
 - He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
 - He hecho tests de los siguientes apartados: seguimiento de pedido, mis pedidos, seguimiento de comunidad, apartado de solicitudes de impresión.
+- He realizado distintas mejoras solicitadas por los usuarios pilotos para elementos como el carrito o las páginas de planes
 
 ### **Carretero Díaz, Antonio**
 

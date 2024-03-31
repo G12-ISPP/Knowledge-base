@@ -87,16 +87,15 @@ hemos escogido para registrar los tiempos.
 Carlos**
 ![](/img/timeEffort//image39.png)
 
-**Campano Galán,
-Alejandro**
+
 ![](/img/timeEffort//image49.png)
 
+##  **Campano Galán,Alejandro**
 
 ![](/img/timeEffort//image2.png)
+![](/img/timeEffort//image1.png)
 
 ## **Campos Garrido, Juan Jesús:**
-
-![](/img/timeEffort//image1.png)
 
 ![](/img/timeEffort//image22.png)
 
@@ -173,6 +172,7 @@ Alejandro**
 
 ## **Campano Galán,Alejandro**
 ![](/img/timeEffort//image41.png)
+![](/img/timeEffort//image69.png)
 
 ## **Campos Garrido, Juan Jesús:**
 ![](/img/timeEffort//image9.png)
@@ -229,6 +229,10 @@ Alejandro**
 ![](/img/timeEffort//image50.png)
 
 ![](/img/timeEffort//image51.png)
+
+## **Campano Galán,Alejandro**
+![](/img/timeEffort//image70.png)
+![](/img/timeEffort//image71.png)
 
 ## **Cortabarra Romero, David**
 
