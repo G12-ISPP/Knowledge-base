@@ -96,12 +96,6 @@ const config = {
             label: 'Actas de reunión',
           },
           {
-            type: 'doc',
-            docId: 'Costumer agreement/Costumer agreement',
-            position: 'left',
-            label: 'Costumer agreement',
-          },
-          {
             type: 'search',
             position: 'right',
           },
