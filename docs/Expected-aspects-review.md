@@ -9,14 +9,12 @@
 # **FAILURE CONDITIONS REVIEW**
 
 
-## **REALIZADO POR:**
-<div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
-</div>
+### **CONTROL DE VERSIONES**
+
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Campos Garrido, Juan Jesús| 26/03/2024 |
+| v1.0 | Versión definitiva para el sprint 2 | Carretero Díaz, Antonio| 31/03/2024 |
 
 ### **SPRINT 2**
 
