@@ -8,6 +8,9 @@
 
 # **FAILURE CONDITIONS REVIEW**
 
+### **SPRINT 2**
+
+### **- GRUPO 12 -**
 
 ### **CONTROL DE VERSIONES**
 
@@ -15,10 +18,6 @@
 | --- | --- | --- | --- |
 | v0.1 | Creación del documento | Campos Garrido, Juan Jesús| 26/03/2024 |
 | v1.0 | Versión definitiva para el sprint 2 | Carretero Díaz, Antonio| 31/03/2024 |
-
-### **SPRINT 2**
-
-### **- GRUPO 12 -**
 
 Este documento tiene como finalidad revisar la presentación del entregable y ver si cumple con todos los aspectos requeridos.
 

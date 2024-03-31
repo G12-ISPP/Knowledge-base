@@ -4,16 +4,23 @@
 
 ## **SHAR3D**
 
-#### 26/03/2024
+#### 31/03/2024
 
 ### **SPRINT 2**
 
 ### **- GRUPO 12 -** 
 
+# **CONTROL DE VERSIONES**
+<div class="markdown-table">
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Carretero Díaz, Antonio | 04/03/2024 |
+| v1.0 | Añadida informaicón del primer sprint    | Carretero Díaz, Antonio, Campos Garrido, Juan Jesús, Campano Galán, Alejandro    | 04/03/2024 |
+| v2.0 | Añadida informaicón del segundo sprint    | Campos Garrido, Juan Jesús    | 31/03/2024 |
+</div>
+
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -26,15 +33,6 @@
 [**BIBLIOGRAFÍA**](#bibliografía)
 
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
-</div>
-
-# **CONTROL DE VERSIONES**
-<div class="markdown-table">
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1 | Creación del documento | Carretero Díaz, Antonio | 04/03/2024 |
-| v1.0 | Añadida informaicón del primer sprint    | Carretero Díaz, Antonio, Campos Garrido, Juan Jesús, Campano Galán, Alejandro    | 04/03/2024 |
-| v2.0 | Añadida informaicón del segundo sprint    | Campos Garrido, Juan Jesús    | 31/03/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**
@@ -101,7 +99,6 @@ Para ver el reporte temporal del tiempo que nuestros usuarios piloto del grupo 6
 | Joaquín Carretero Díaz | 26-03-2024 | 22-03-2024 | Una vez registrado no avisa que hay que verificar el correo electrónico. Cuando intento iniciar sesión, al no haber verificado el correo, no me deja acceder hasta que no complete dicha verificación. Debería aparecer un mensaje al terminar el proceso de registro que se ha enviado un correo con ese fin. Por otro lado, si se intenta iniciar sesión sin verificar el correo, debería aparecer un mensaje donde se indique, ya que no aparece y no se sabe el motivo del fallo. | El pop-up que aparece al entrar se confunde con el resto de la página; sería recomendable cambiarle el color del fondo y añadirle un borde para diferenciarlo del resto de elementos. Añadiría productos complementarios en las fichas de producto, consiguiendo un beneficio doble: por un lado a los usuarios, para encontrar elementos complementarios, y por otro lado a los vendedores, para aumentar las ventas. | |
 | Pablo Mateos | 27-03-2024 | 22-03-2024 | Al crear el formulario dos errores se han solapado a la vez y no se pueden leer correctamente. He usado un codigo postal para imprimir una solicitud de impresion de 41700 y me da error : El código postal debe ser un número entero entre 1000 y 52999 | | |
 | Adrián García Chavero | 27-03-2024 | 22-03-2024 | **REGISTRO:** La bienvenida ocupa la mitad de la pantalla quitándole importancia al propio formulario de registro. Los inputs tienen demasiado espacio a la izquierda. Recomiendo crear un campo de confirmar contraseña. Si dejo el nombre, apellidos y descripción con espacios en blanco, no aparece ninguna validación y en la consola salta un 400 Bad Request. No se indica si los campos son requeridos o no. Que haya alguna carga una vez le de al botón de registrarse, indicando que se esta procesando la solicitud.Indicar al terminar el registro que se debe comprobar y verificar el correo.**INICIO Y CIERRE DE SESIÓN:** Mejorar el mensaje de cierre de sesión. **SOLICITAR IMPRESIÓN:** Recomiendo hacer el zoom con el scroll del ratón. Cuando se pone el zoom en 0, se aleja muchísimo la cámara. La ventana de información sobre el diseño, debería de marcarse los bordes para que no se note raro con el fondo o que se haga un modal para ello. En diseños grandes, el zoom no es muy útil ya que no aleja lo suficiente, como en el caso del dragón. Aparte de que aparezca el diseño en su color correspondiente, que aparezca el botón marcado. En el código postal, es mejor poner en el error de validación que el código no es valido. He podido pagar el diseño poniendo el nombre, ciudad y dirección con espacios en blanco. Si dejo vació el nombre, ciudad y dirección no aparece ningún error de validación pero no me deja pagar. **PAGO CON PAYPAL:** Mostrar una pantalla de carga mientras nos redirige al pago con paypal. Me ha cerrado sesión cuando he pagado en paypal. **VENDER PRODUCTO:** Si el nombre del archivo es muy largo, se sale de la pantalla. Indicar cuales campos son obligatorios. Al darle al botón de añadir producto y haber errores de validación, se mueve el formulario. En la pagina de inicio no se muestran todos los diseños destacados, he agregado un producto y no se encuentra ahí. **DETALLES DE PRODUCTO:** Al buscar un producto, recomiendo que se haga algún efecto al hacer hover sobre un producto. **DETALLES DE USUARIO:** Si intento agregarme una reseña a mi mismo, me aparece el error en la consola pero no en la página. Recomiendo ocultar el botón de añadir opinión si es mi propio usuario. El color del texto de las reseñas sale en blanco. Puedo agregar múltiples reseñas a un usuario, es mejor que solo se pueda editar la reseña anterior y aparezca como editado. **CARRITO DE COMPRA:** La imagen del producto en el overlay de la cesta esta estirada. He dejado la dirección y ciudad con espacios en blanco y me ha dejado hacer el pago. He comprado un producto y sigue apareciendo en la pagina de inicio. Ademas no se ha reducido su stock. | Recomiendo hacer un modal en vez de la ventana que se utiliza al inicio. Recomiendo hacer un componente "Carousel" para ir deslizando sobre los productos destacados. Recomiendo hacer un formulario por cada caso de uso, así estaría mas estructurado para que podáis mirar mejor el feedback recibido y reproducir cada caso de uso. Una parte del caso de uso para las sugerencias y otra para los fallos. | |
-| | | 22-03-2024 | | | |
 
 ## **CONCLUSIONES**
 

@@ -4,7 +4,12 @@
 
 ## **SHAR3D**
 
-#### 02/03/2024
+#### 31/03/2024
+
+
+### **SPRINT 2**
+
+### **- GRUPO 12 -** 
 
 # **CONTROL DE VERSIONES**
 <div class="markdown-table">
@@ -17,11 +22,6 @@
 | v2.0 | Evaluación para el sprint 2 | Campos Garrido, Juan Jesús | 30/03/2024 |
 
 </div>
-
-
-### **2ª ENTREGA**
-
-### **- GRUPO 12 -** 
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">

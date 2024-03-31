@@ -4,28 +4,29 @@
 
 ## **SHAR3D**
 
-#### 28/02/2024
+#### 31/02/2024
 
 # **GUÍA DE REVISIÓN**
 
-
-## **REALIZADO POR:**
-<div class="markdown-table">
-| Baquero Villena, Carlos | Campano Galán, Alejandro | Campos Garrido, Juan Jesús |
-| --- | --- | --- |
-| Carretero Díaz, Antonio | Cortabarra Romero, David | Escalante Ramos, María |
-| García Linares, Diego | García Sánchez-Hermosilla, Alejandro | Garrucho Sánchez, Úrsula |
-| Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
-</div>
-
-### **2ª ENTREGA**
+### **SPRINT 2**
 
 ### **- GRUPO 12 -**
 
+### **CONTROL DE VERSIONES**
+<div class="markdown-table">
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Mera Gómez, Pablo | 28/02/2024 |
+| v1.0 | Primera versión | Mera Gómez, Pablo| 01/03/2024 |
+| v1.1 | Retoques finales sprint 1| Mera Gómez, Pablo | 01/03/2024 |
+| v1.5 | Conversión a markdown | García Linares, Diego | 08/03/2024 |
+| v2.0 | Nuevas funcionalidades sprint 2 | Mera Gómez, Pablo | 19/03/2024 |
+| v2.1 | Actualizado índice sprint 2 | Mera Gómez, Pablo | 30/03/2024 |
+
+</div>
+
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
-
-[**CONTROL DE VERSIONES**](#control-de-versiones)
 
 [**RESUMEN EJECUTIVO**](#resumen-ejecutivo)
 
@@ -86,19 +87,6 @@
 [**BIBLIOGRAFÍA**](#bibliografía)
 
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
-</div>
-
-### **CONTROL DE VERSIONES**
-<div class="markdown-table">
-
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1 | Creación del documento | Mera Gómez, Pablo | 28/02/2024 |
-| v1.0 | Primera versión | Mera Gómez, Pablo| 01/03/2024 |
-| v1.1 | Retoques finales | Mera Gómez, Pablo | 01/03/2024 |
-| v2.0 | Nuevas funcionalidades sprint 2 | Mera Gómez, Pablo | 19/03/2024 |
-| v2.1 | Actualizado índice sprint 2 | Mera Gómez, Pablo | 30/03/2024 |
-
 </div>
 
 ## **RESUMEN EJECUTIVO**

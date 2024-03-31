@@ -10,15 +10,16 @@
 
 ### **CONTROL DE VERSIONES**
 
+### **SPRINT 2**
+
+### **- GRUPO 12 -**
+
+
 | **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
 | --- | --- | --- | --- |
 | v0.1 | Creación del documento | Campos Garrido, Juan Jesús| 26/03/2024 |
 | v0.5 | Numeración de las failure conditions | Campos Garrido, Juan Jesús| 26/03/2024 |
-
-
-### **SPRINT 2**
-
-### **- GRUPO 12 -**
+| v1.0 | Revisión de todas las failure conditions | Campos Garrido, Juan Jesús | 31/03/2024 |
 
 Este documento tiene como finalidad revisar todas las Failure Conditions y asegurarse de que no se cumple ninguna de cara al entregable del segundo sprint. Para esto haremos un listado de todas las Failure Conditions y argumentaremos la razón por la que las incumplimos todas.
 

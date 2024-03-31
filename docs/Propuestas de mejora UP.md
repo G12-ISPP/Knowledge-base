@@ -13,6 +13,14 @@
 
 ### **- GRUPO 12 -** 
 
+# **CONTROL DE VERSIONES**
+<div class="markdown-table">
+| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
+| --- | --- | --- | --- |
+| v0.1 | Creación del documento | Carretero Díaz, Antonio | 13/03/2024 |
+| v1.0 | Añadida informaicón del primer sprint    |  Campos Garrido, Juan Jesús   | 13/03/2024 |
+| v2.0 | Añadida informaicón del segundo sprint    | Campos Garrido, Juan Jesús    | 31/03/2024 |
+</div>
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
@@ -27,15 +35,6 @@
 
 [**PROMPTS DE INTELIGENCIA ARTIFICIAL**](#prompts-de-inteligencia-artificial)
 
-</div>
-
-# **CONTROL DE VERSIONES**
-<div class="markdown-table">
-| **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
-| --- | --- | --- | --- |
-| v0.1 | Creación del documento | Carretero Díaz, Antonio | 13/03/2024 |
-| v1.0 | Añadida informaicón del primer sprint    |  Campos Garrido, Juan Jesús   | 13/03/2024 |
-| v2.0 | Añadida informaicón del segundo sprint    | Campos Garrido, Juan Jesús    | 31/03/2024 |
 </div>
 
 ## **RESUMEN EJECUTIVO**
