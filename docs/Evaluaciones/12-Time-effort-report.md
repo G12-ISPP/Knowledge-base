@@ -86,17 +86,13 @@ hemos escogido para registrar los tiempos.
 **Baquero Villena,
 Carlos**
 ![](/img/timeEffort//image39.png)
-
-**Campano Galán,
-Alejandro**
 ![](/img/timeEffort//image49.png)
 
-
+## **Campano Galán, Alejandro**
 ![](/img/timeEffort//image2.png)
+![](/img/timeEffort//image1.png)
 
 ## **Campos Garrido, Juan Jesús:**
-
-![](/img/timeEffort//image1.png)
 
 ![](/img/timeEffort//image22.png)
 
@@ -173,6 +169,7 @@ Alejandro**
 
 ## **Campano Galán,Alejandro**
 ![](/img/timeEffort//image41.png)
+![](/img/timeEffort//image74.png)
 
 ## **Campos Garrido, Juan Jesús:**
 ![](/img/timeEffort//image9.png)
@@ -246,6 +243,10 @@ Alejandro**
 ![](/img/timeEffort//TE-JJ-03.png)
 
 ![](/img/timeEffort//TE-JJ-04.png)
+
+## **Campano Galán,Alejandro**
+![](/img/timeEffort//image75.png)
+![](/img/timeEffort//image76.png)
 
 ## **Carretero Díaz, Antonio**
 
