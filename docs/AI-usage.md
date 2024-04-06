@@ -89,6 +89,8 @@ Cada integrante ha contribuido con sus propios prompts
 
 [**Consulta para errores SonarCloud (Phind)**](#_heading=h.tpyhybf2xkff)
 
+[**Consulta propiedad intelectual**](#problemas-con-la-propiedad-intelectual-de-terceros)
+
 [**CONCLUSIONES**](#conclusiones)
 
 [**BIBLIOGRAFÍA**](#bibliografía)
@@ -503,6 +505,19 @@ En esta consulta se le pregunta a Phind que refactorice el código de los tests 
 **Respuesta**
 
 Phind ha contribuido a que se reestructure la clase de los tests.
+
+
+### **Problemas con la propiedad intelectual de terceros**
+
+[https://chat.openai.com/share/f54e8f20-1c8d-4a66-b3df-79d3cc732acd](https://chat.openai.com/share/f54e8f20-1c8d-4a66-b3df-79d3cc732acd)
+
+**Preguntas**
+
+Se ha preguntado a Chat GPT como podemos proteger la propiedad intelectual de terceros en la aplicación
+
+**Respuesta**
+
+Nos ha propuesto formas en las que podemos traspasar la responsabilidad a los usuarios que suban cosas que tengán derechos de copyright
 
 ## **CONCLUSIONES**
 

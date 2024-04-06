@@ -38,6 +38,11 @@ Shar3d es una plataforma dedicada a facilitar la compra y venta de una amplia va
 
 Tras la aceptación del Acuerdo del Servicio tras su lectura y entendimiento, aceptas comprometerte exclusivamente a propósitos legítimos y en pleno cumplimiento de los términos estipulados en este Acuerdo. Reconoces y aceptas ser responsable de todas las acciones llevadas a cabo bajo tu cuenta, asumiendo plena responsabilidad por cualquier actividad realizada en relación con la misma.
 
+Si algún usuario sube un diseño o pieza que sea propiedad intelectual de un tercero, dentro de la aplicación otros usuarios podrán reportar este tipo de productos y nosotros revisaremos los reportes para eliminar este tipo de productos en un plazo de máximo dos días.
+
+Si un usuario sube un producto que use propiedad intelectual de tercero y dicho producto es denunciado por los propietarios, siempre y cuando la denuncia se haya realizado antes del plazo de dos días desde que se subió el producto, la responsabilidad será de quien subió el producto, ya que desde SHAR3D, nos encargamos de proteger la propiedad intelectual de terceros y actuaremos rápidamente para eliminar productos que no deban estar en nuestra aplicación.
+
+
 ## Cuentas de Usuario
 
 Al acceder a determinadas funciones del Servicio, es posible que te solicitemos crear una cuenta personalizada. Al hacerlo, aceptas proporcionar información veraz, completa y actualizada. Esta información es fundamental para garantizar una experiencia óptima en nuestra plataforma.
