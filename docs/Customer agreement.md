@@ -19,6 +19,7 @@
 | v0.1 | Creación del documento | Garrucho Sánchez, Ursula | 18/03/2024 |
 | v1.0 | Versión definitiva para el sprint 2 | Garrucho Sánchez, Ursula | 21/03/2024 |
 | v1.1 | Revisión para la entrega del sprint 2 | Campos Garrido, Juan Jesús | 31/03/2024 |
+| v1.2 | Mejora para protegernos de denuncia por propiedad intelectual | Campos Garrido, Juan Jesús | 06/04/2024 |
 
 # Términos y condiciones
 
@@ -94,4 +95,4 @@ Si tienes alguna pregunta sobre este Acuerdo o necesitas ponerte en contacto con
 
 Al aceptar el Acuerdo, reconoces y aceptas haber leído, entendido y aceptado quedar sujeto a los términos y condiciones de este Acuerdo.
 
-Fecha última modificación: 17/03/2024
+Fecha última modificación: 06/04/2024
