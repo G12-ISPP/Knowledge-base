@@ -19,6 +19,7 @@
 | v0.1 | Creación del documento | Garrucho Sánchez, Ursula | 18/03/2024 |
 | v1.0 | Versión definitiva para el sprint 2 | Garrucho Sánchez, Ursula | 21/03/2024 |
 | v1.1 | Revisión para la entrega del sprint 2 | Campos Garrido, Juan Jesús | 31/03/2024 |
+| v1.2 | Mejora para protegernos de denuncia por propiedad intelectual | Campos Garrido, Juan Jesús | 06/04/2024 |
 
 # Términos y condiciones
 
@@ -37,6 +38,11 @@ Shar3d es una plataforma dedicada a facilitar la compra y venta de una amplia va
 ## Uso del Servicio
 
 Tras la aceptación del Acuerdo del Servicio tras su lectura y entendimiento, aceptas comprometerte exclusivamente a propósitos legítimos y en pleno cumplimiento de los términos estipulados en este Acuerdo. Reconoces y aceptas ser responsable de todas las acciones llevadas a cabo bajo tu cuenta, asumiendo plena responsabilidad por cualquier actividad realizada en relación con la misma.
+
+Si algún usuario sube un diseño o pieza que sea propiedad intelectual de un tercero, dentro de la aplicación otros usuarios podrán reportar este tipo de productos y nosotros revisaremos los reportes para eliminar este tipo de productos en un plazo de máximo dos días.
+
+Si un usuario sube un producto que use propiedad intelectual de tercero y dicho producto es denunciado por los propietarios, siempre y cuando la denuncia se haya realizado antes del plazo de dos días desde que se subió el producto, la responsabilidad será de quien subió el producto, ya que desde SHAR3D, nos encargamos de proteger la propiedad intelectual de terceros y actuaremos rápidamente para eliminar productos que no deban estar en nuestra aplicación.
+
 
 ## Cuentas de Usuario
 
@@ -89,4 +95,4 @@ Si tienes alguna pregunta sobre este Acuerdo o necesitas ponerte en contacto con
 
 Al aceptar el Acuerdo, reconoces y aceptas haber leído, entendido y aceptado quedar sujeto a los términos y condiciones de este Acuerdo.
 
-Fecha última modificación: 17/03/2024
+Fecha última modificación: 06/04/2024
