@@ -22,6 +22,7 @@
 | v1.5 | Conversión a markdown | García Linares, Diego | 08/03/2024 |
 | v2.0 | Nuevas funcionalidades sprint 2 | Mera Gómez, Pablo | 19/03/2024 |
 | v2.1 | Actualizado índice sprint 2 | Mera Gómez, Pablo | 30/03/2024 |
+| v3.0 | Nuevas funcionalidades sprint 3 | Mera Gómez, Pablo | 11/04/2024 |
 
 </div>
 
@@ -81,6 +82,30 @@
 [**CASO 8: COMUNIDAD**](#caso-8-comunidad)
 
 [**CONSIDERACIONES SPRINT 2**](#consideraciones-1)
+
+[**CONTENIDO 3º SPRINT**](#contenido-3º-sprint)
+
+[**CASO 1: DISEÑOS PARA IMPRIMIR**](#caso-1-diseños-para-imprimir)
+
+[**CASO 2: MIS SOLICITUDES DE IMPRESIÓN**](#caso-2-mis-solicitudes-de-impresión)
+
+[**CASO 3: COMUNIDAD**](#caso-3-comunidad)
+
+[**CASO 3.1: ME GUSTA A UN POST**](#31-me-gusta-a-un-post)
+
+[**CASO 3.2: COMENTAR UN POST**](#32-comentar-un-post)
+
+[**CASO 4: PANEL ADMINISTRADOR**](#caso-4-panel-administrador)
+
+[**CASO 4.1: LISTADO USUARIOS**](#41-listado-usuarios)
+
+[**CASO 5: REPORTAR PRODUCTO**](#caso-5-reportar-producto)
+
+[**CASO 6: ELIMINAR PRODUCTO**](#caso-6-eliminar-producto)
+
+[**CASO 7: SEGUIDOS Y SEGUIDORES**](#caso-7-seguidos-y-seguidores)
+
+[**CONSIDERACIONES SPRINT 3**](#consideraciones-2)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -713,6 +738,153 @@ de perfil que podrá ver el resto de los usuarios de Shar3D y se ha cambiado el 
 ![](/img/revision/image68.png)
 Figura 54 - Registro
 
+
+## **CONTENIDO 3º SPRINT**
+
+Primero de todo, la landing page de SHAR3D se encuentra en la URL:
+
+[[https://landing-page-shar3d.vercel.app/]](https://landing-page-shar3d.vercel.app/)
+desde aquí puedes acceder a la web del sistema en funcionamiento
+navegando hacia "Nuestros lanzamientos", pulsando sobre el frontend del Sprint 2, al final de la página
+principal.
+
+Si quiere directamente acceder a la web del sistema, sobre la cual se
+realizarán las pruebas debe acceder a la URL:
+
+[[https://ispp-s2.vercel.app/]](https://ispp-s3.vercel.app/)
+
+El GitHub del equipo de trabajo se encuentra en la siguiente URL:
+
+[[https://github.com/G12-ISPP/ISPP]](https://github.com/G12-ISPP/ISPP)
+
+La herramienta para registrar las horas de cada uno de los miembros es
+Clockify, para distinguir el trabajo de cada uno puede acceder a la URL:
+
+[[https://app.clockify.me/shared/65d87eea756abe0bdf308a40]](https://app.clockify.me/shared/65d87eea756abe0bdf308a40)
+
+Una vez tienen las distintas páginas, le proporcionaremos los datos
+indispensables para que pueda acceder a la web y probar todo lo que
+explicaremos posteriormente:
+
+-   URL de la web del sprint 2: [[https://ispp-s3.vercel.app/]](https://ispp-s2.vercel.app/)
+
+-   Credenciales administrador:
+
+    -   Usuario: admin
+
+    -   Contraseña: 4dm1n
+
+-   Credenciales usuario:
+
+    -   Usuario: user1
+
+    -   Contraseña: us3r
+
+-   Credenciales impresor:
+
+    -   Usuario: user2
+
+    -   Contraseña: us3r
+
+-   Credenciales PayPal:
+
+    -   Correo: sb-k43ebi28280380@personal.example.com
+
+    -   Contraseña: nNU\<\<9Y%
+
+En el caso de las credenciales de administrador, su uso va a ser
+irrelevante para esta revisión debido a que no ofrece funcionalidad
+distinta a la que de por sí tienen los usuarios, por lo tanto, no es
+necesario acceder como administrador.
+
+## **CASO 1: DISEÑOS PARA IMPRIMIR**
+
+Se ha añadido la posibilidad de ver, siempre que seas impresor, todas las impresiones que te has asignado y que tienes por imprimir aún. Para ello, debemos acceder a nuestro perfil de la misma manera que se explicó en el sprint anterior. Una vez dentro, debes pulsar sobre el botón "Por imprimir" \[Figura 55\], tras ello, podra ver todos los diseños que tiene que imprimir.
+
+![](/img/revision/image77.png)
+
+Figura 55 - Botón por imprimir
+
+## **CASO 2: MIS SOLICITUDES DE IMPRESIÓN**
+
+También, si hemos solicitado que nos impriman alguna pieza subiendo un diseño a la web, podemos ver todas ellas pulsando sobre el botón Mis solicitudes \[Figura 56\]
+
+![](/img/revision/image78.png)
+
+Figura 56 - Botón mis solicitudes
+
+## **CASO 3: COMUNIDAD**
+
+Se ha mejorado el apartado de la comunidad debido a que creemos que es muy importante esta sección para nuestro modelo de negocio. Ahora, además de ver tus propios posts, puedes dar me gusta a cada uno y comentar sobre ellos.
+
+### 3.1: ME GUSTA A UN POST
+
+Como podemos ver en la siguiente captura \[Figura 57\], podemos dar me gusta a un post pulsando sobre el corazón ubicado en la esquina inferior de cada post.
+
+![](/img/revision/image79.png)
+
+Figura 57 - Post comunidad
+
+### 3.2: COMENTAR UN POST
+
+Hay que hacerlo \[Figura 58\]
+
+
+Figura 58 - Comentar post
+
+## **CASO 4: PANEL ADMINISTRADOR**
+
+Para los administradores de Shar3D, hemos añadido funcionalidad especial, como puede ser obtener los usuarios y todos los reportes realizados, para ello podemos acceder al panel desde el perfil \[Figura 59\].
+
+
+Figura 59 - Botón panel
+
+
+### 4.1: LISTADO USUARIOS
+
+Una vez en el panel, si queremos ver todos los usuarios de Shar3D, accedemos pulsando sobre el botón Administrar usuarios. Una vez accedido, tenemos la lista completa de usuarios y podemos bloquearlos si lo creemos estimado, también podemos acceder a su perfil pulsando sobre el nombre, desde donde también se puede bloquear si el administrador lo considera.
+
+### 4.2: LISTADO REPORTES
+
+En cambio, si queremos ver los reportes de productos que han realizado los usuarios, accedemos pulsando el botón Administrar reportes de productos que se encuentra en el panel de administrador.
+
+## **CASO 5: REPORTAR PRODUCTO**
+
+Ahora, por si queremos reportar uno de los productos de la web, ya puede ser por problemas de calidad, derechos de autor o cualquier motivo de los que se muestran en el formulario, hemos añadido un botón en los detalles de cada producto \[Figura 60\], pulsando sobre él, nos aparecerá el formulario mencionado anteriormente para que expliquemos el motivo del reporte \[Figura 61\].
+
+![](/img/revision/image82.png)
+
+Figura 60 - Botón reportar
+
+![](/img/revision/image83.png)
+
+Figura 61 - Formulario reportar
+
+## **CASO 6: ELIMINAR PRODUCTO**
+
+Hemos añadido la posibilidad de eliminar los productos que usted mismo añada a la venta. Además, si eres administrador y lo considera necesario, también puede eliminar cualquier producto. Para ello debe pulsar sobre el botón Eliminar producto \[Figura 62\] en los detalles del mismo.
+
+![](/img/revision/image84.png)
+
+Figura 62 - Botón eliminar producto
+
+## **CASO 7: SEGUIDOS Y SEGUIDORES**
+
+Ahora podemos seguir a los usuarios de Shar3D para poder ver su actividad en la comunidad, para ello pulsamos sobre el botón seguir en su perfil de usuario \[Figura 63\]. Además, para saber a quién sigue cada usuario y viceversa, tenemos los nuevos botones de Seguidores y Seguidos \[Figura 64\]. Pulsando sobre ellos podremos ver una lista de todos aquellos usuarios que siguen o son seguidos por el usuario \[Figura 65\]
+
+![](/img/revision/image85.png)
+
+Figura 63 - Botón seguir
+
+![](/img/revision/image86.png)
+
+Figura 64 - Botón seguidores y seguidos
+
+![](/img/revision/image87.png)
+
+Figura 65 - Lista seguidos
+
+## **CONSIDERACIONES**
 
 
 ## **CONCLUSIONES**
