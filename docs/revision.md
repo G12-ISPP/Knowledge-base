@@ -145,7 +145,7 @@ Una vez tienen las distintas páginas, le proporcionaremos los datos
 indispensables para que pueda acceder a la web y probar todo lo que
 explicaremos posteriormente:
 
--   URL de la web: [[https://ispp-s1.vercel.app/]](https://ispp-s1.vercel.app/)
+-   URL de la web: [[https://ispp-s3-khaki.vercel.app/]](https://ispp-s3-khaki.vercel.app/)
 
 -   Credenciales administrador:
 
@@ -157,11 +157,11 @@ explicaremos posteriormente:
 
     -   Usuario: user1
 
-    -   Contraseña: us3r
+    -   Contraseña: @Us3r111
 
     -   Usuario: user2
 
-    -   Contraseña: us3r
+    -   Contraseña: @Us3r111
 
 -   Credenciales PayPal:
 
@@ -634,62 +634,6 @@ Figura 53 - Comunidad
 
 ## **CONTENIDO 3º SPRINT**
 
-Primero de todo, la landing page de SHAR3D se encuentra en la URL:
-
-[[https://landing-page-shar3d.vercel.app/]](https://landing-page-shar3d.vercel.app/)
-desde aquí puedes acceder a la web del sistema en funcionamiento
-navegando hacia "Nuestros lanzamientos", pulsando sobre el frontend del Sprint 2, al final de la página
-principal.
-
-Si quiere directamente acceder a la web del sistema, sobre la cual se
-realizarán las pruebas debe acceder a la URL:
-
-[[https://ispp-s2.vercel.app/]](https://ispp-s3.vercel.app/)
-
-El GitHub del equipo de trabajo se encuentra en la siguiente URL:
-
-[[https://github.com/G12-ISPP/ISPP]](https://github.com/G12-ISPP/ISPP)
-
-La herramienta para registrar las horas de cada uno de los miembros es
-Clockify, para distinguir el trabajo de cada uno puede acceder a la URL:
-
-[[https://app.clockify.me/shared/65d87eea756abe0bdf308a40]](https://app.clockify.me/shared/65d87eea756abe0bdf308a40)
-
-Una vez tienen las distintas páginas, le proporcionaremos los datos
-indispensables para que pueda acceder a la web y probar todo lo que
-explicaremos posteriormente:
-
--   URL de la web del sprint 2: [[https://ispp-s3.vercel.app/]](https://ispp-s2.vercel.app/)
-
--   Credenciales administrador:
-
-    -   Usuario: admin
-
-    -   Contraseña: 4dm1n
-
--   Credenciales usuario:
-
-    -   Usuario: user1
-
-    -   Contraseña: us3r
-
--   Credenciales impresor:
-
-    -   Usuario: user2
-
-    -   Contraseña: us3r
-
--   Credenciales PayPal:
-
-    -   Correo: sb-k43ebi28280380@personal.example.com
-
-    -   Contraseña: nNU\<\<9Y%
-
-En el caso de las credenciales de administrador, su uso va a ser
-irrelevante para esta revisión debido a que no ofrece funcionalidad
-distinta a la que de por sí tienen los usuarios, por lo tanto, no es
-necesario acceder como administrador.
-
 ## **CASO 1: DISEÑOS PARA IMPRIMIR**
 
 Se ha añadido la posibilidad de ver, siempre que seas impresor, todas las impresiones que te has asignado y que tienes por imprimir aún. Para ello, debemos acceder a nuestro perfil de la misma manera que se explicó en el sprint anterior. Una vez dentro, debes pulsar sobre el botón "Por imprimir" \[Figura 55\], tras ello, podra ver todos los diseños que tiene que imprimir.
@@ -720,9 +664,9 @@ Figura 57 - Post comunidad
 
 ### 3.2: COMENTAR UN POST
 
-Hay que hacerlo \[Figura 58\]
+Desde los detalles de un post en concreto pulsaremos sobre el botón comentar y se nos abrirá el siguiente formulario: \[Figura 58\]
 
-
+![](/img/revision/image88.png)
 Figura 58 - Comentar post
 
 ## **CASO 4: PANEL ADMINISTRADOR**
