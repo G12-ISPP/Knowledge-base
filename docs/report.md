@@ -121,6 +121,22 @@ Grupos de tarde -> Demos -> Semana 8 :
  
 - Intentar enlazar el killer opener con la demo de forma que las personas que participan en un teatrillo de un killer opener puedan aparecer con una foto dentro de la aplicación haciendo referencia a lo que se dice en el killer opener.
 
+Grupos de tarde -> Anuncios -> Semana 9: 
+
+- Hay que intentar hilar el killer opener con el anuncio y con la demo.
+
+Grupos de tarde -> Demos -> Semana 9:
+
+- Además de enlazar el killer opener con la demo, debemos intentar enlazar el anuncio.
+
+- Buscar desarrollar una historia a al hora de mostrar la demo.
+
+Grupos de tarde -> Presentación -> Semana 9:
+
+- Hay que redimensionar las presentaciones para que se adapten al proyector.
+
+- Hay que mantener la uniformidad en los elemntos de las presentaciones como las gráficas.
+
 ### **ACCIONES DE MEJORA TOMADAS**
 
 Algunas de las acciones de mejoras que han sido tomadas gracias al feedback que se ha aportado en clase y del cual se han tomado apuntes y se ha subido a la plataforma de docusaurus.
