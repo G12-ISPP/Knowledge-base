@@ -91,16 +91,7 @@
 
 ## **RESUMEN EJECUTIVO**
 
-En este documento se explican los 8 casos de uso implementados en el
-servicio Shar3D durante el primer sprint: Registro de usuarios, inicio y
-cierre de sesión, solicitar impresión, pagar con PayPal, vender
-producto, detalles del producto, detalles de usuario y carrito de la
-compra**.**
-
-Para ello, hemos realizado una explicación muy detallada de qué deben
-hacer para probar toda la funcionalidad implementada ayudándose de
-imágenes, que en todo momento permitan a los usuarios interactuar con el
-servicio.
+Este documento es una guía que describe las diferentes funcionalidades de la aplicación SHAR3D. Dichas funcionalidades están ordenadas según el sprint en el que fueron desarrolladas.
 
 ## **INTRODUCCIÓN**
 
@@ -109,19 +100,12 @@ interaccionar con el servicio Shar3D para comprobar el correcto
 funcionamiento de todos los casos de uso implementados hasta la fecha
 establecida.
 
-## **CONTENIDO 1º SPRINT**
-
-Primero de todo, la landing page de SHAR3D se encuentra en la URL:
+En primer lugar, la landing page de SHAR3D se encuentra en la URL:
 
 [[https://landing-page-shar3d.vercel.app/]](https://landing-page-shar3d.vercel.app/)
 desde aquí puedes acceder a la web del sistema en funcionamiento
 navegando hacia "Nuestros lanzamientos", al final de la página
 principal.
-
-Si quiere directamente acceder a la web del sistema, sobre la cual se
-realizarán las pruebas debe acceder a la URL:
-
-[[https://ispp-s1.vercel.app/]](https://ispp-s1.vercel.app/)
 
 El GitHub del equipo de trabajo se encuentra en la siguiente URL:
 
@@ -160,13 +144,7 @@ explicaremos posteriormente:
 
     -   Contraseña: nNU\<\<9Y%
 
-En el caso de las credenciales de administrador, su uso va a ser
-irrelevante para esta revisión debido a que no ofrece funcionalidad
-distinta a la que de por sí tienen los usuarios, por lo tanto, no es
-necesario acceder como administrador. Además, las credenciales de
-usuario sí pueden ser útiles, pero para que pueda entender cómo
-registrarse y tener su propio usuario y contraseña, le vamos a mostrar
-el primer caso de uso.
+## **CONTENIDO 1º SPRINT**
 
 ### **CASO 1: REGISTRO DE USUARIOS**
 
@@ -225,8 +203,7 @@ Una vez pulsado, el sistema nos redirigirá al formulario de iniciar
 sesión \[Figura 7\], en el cuál únicamente nos solicitarán el usuario y
 la contraseña. En el caso de proporcionar un usuario o contraseña
 incorrectos, el sistema nos mostrará un error \[Figura 8\]. Además, si
-intenta iniciar sesión cuando aún su sesión está abierta, se le debe
-mostrar otro error \[Figura 9\]. Finalmente, si las credenciales son
+intenta iniciar sesión sin haber confirmado el correo, se deberá encontrar el siguiente error \[Figura 9\]. Finalmente, si las credenciales son
 correctas y no tenía su sesión abierta anteriormente, el sistema le
 enviará instantáneamente al menú principal y podrá denotar que en el
 lugar que se encontraba anteriormente el botón "Iniciar sesión" \[Figura
@@ -243,7 +220,7 @@ Figura 8 -- Error contraseña
 
 ![](/img/revision/image8.png)
 
-Figura 9 -- Error ya iniciado
+Figura 9 -- Error email no confirmado
 
 ![](/img/revision/image17.png)
 
@@ -284,10 +261,6 @@ Figura 13 - Formulario de solicitud de impresión
 
 Figura 14 - Error en solicitud de impresión
 
-![](/img/revision/image31.png)
-
-Figura 15 - Resumen características de objeto a imprimir
-
 Una vez que el cliente considere que el modelo va a ser fructífero y que
 se ajusta en cuanto a tamaño, peso, calidad y precio, procede a pulsar
 sobre el botón pagar y, automáticamente se le redirigirá a la pasarela
@@ -327,16 +300,17 @@ Una vez pulsado sobre "Iniciar sesión" le aparecerá una última vista
 directamente sobre "Continuar y revisar pedido" para finalizar el pago
 ficticio y terminar la compra.
 
-Figura 17: Correo
-PayPal
-![](/img/revision/image24.png)
-
 ![](/img/revision/image49.png)
+
+Figura 17: Correo PayPal
+
+![](/img/revision/image24.png)
 
 Figura 18: Contraseña PayPal
 
-> Figura 19: Confirmar
-> PayPal![](/img/revision/image26.png)
+![](/img/revision/image26.png)
+
+Figura 19: Confirmar PayPal!
 
 ### **CASO 5: VENDER PRODUCTO**
 
@@ -490,74 +464,7 @@ proceso se ha desarrollado correctamente.
 
 Figura 35 - Vista detalles tras pago
 
-### **CONSIDERACIONES**
-
-Se ha de comentar que es posible que haya errores con el inicio de
-sesión, puesto que hay veces que, al pasar un tiempo con la sesión
-iniciada, pierdes los permisos a pesar de no haber hecho el logout. Esto
-puede aparecer si, a la hora de intentar realizar alguna acción, le
-aparece un error que no se ha especificado en esta guía, en ese caso,
-cierra sesión y vuelve a iniciar para que todo funcione correctamente.
-Si no es así, contacte con el equipo de desarrollo lo antes posible,
-muchas gracias.
-
 ## **CONTENIDO 2º SPRINT**
-
-Primero de todo, la landing page de SHAR3D se encuentra en la URL:
-
-[[https://landing-page-shar3d.vercel.app/]](https://landing-page-shar3d.vercel.app/)
-desde aquí puedes acceder a la web del sistema en funcionamiento
-navegando hacia "Nuestros lanzamientos", pulsando sobre el frontend del Sprint 2, al final de la página
-principal.
-
-Si quiere directamente acceder a la web del sistema, sobre la cual se
-realizarán las pruebas debe acceder a la URL:
-
-[[https://ispp-s2.vercel.app/]](https://ispp-s2.vercel.app/)
-
-El GitHub del equipo de trabajo se encuentra en la siguiente URL:
-
-[[https://github.com/G12-ISPP/ISPP]](https://github.com/G12-ISPP/ISPP)
-
-La herramienta para registrar las horas de cada uno de los miembros es
-Clockify, para distinguir el trabajo de cada uno puede acceder a la URL:
-
-[[https://app.clockify.me/shared/65d87eea756abe0bdf308a40]](https://app.clockify.me/shared/65d87eea756abe0bdf308a40)
-
-Una vez tienen las distintas páginas, le proporcionaremos los datos
-indispensables para que pueda acceder a la web y probar todo lo que
-explicaremos posteriormente:
-
--   URL de la web del sprint 2: [[https://ispp-s2.vercel.app/]](https://ispp-s2.vercel.app/)
-
--   Credenciales administrador:
-
-    -   Usuario: admin
-
-    -   Contraseña: 4dm1n
-
--   Credenciales usuario:
-
-    -   Usuario: user1
-
-    -   Contraseña: us3r
-
--   Credenciales impresor:
-
-    -   Usuario: user2
-
-    -   Contraseña: us3r
-
--   Credenciales PayPal:
-
-    -   Correo: sb-k43ebi28280380@personal.example.com
-
-    -   Contraseña: nNU\<\<9Y%
-
-En el caso de las credenciales de administrador, su uso va a ser
-irrelevante para esta revisión debido a que no ofrece funcionalidad
-distinta a la que de por sí tienen los usuarios, por lo tanto, no es
-necesario acceder como administrador.
 
 ## **CASO 1: CHAT**
 
@@ -637,7 +544,7 @@ Figura 44 - Botón comprar plan
 En este apartado se explicará los distintas acciones que se pueden realizar dentro del perfil de un usuario, tanto el nuestro propio como en el resto. En primer lugar, podemos acceder a nuestro perfil desde el botón "Ver perfil" \[Figura 45\]. Si queremos acceder al perfil de otro usuario,
 con pulsar sobre él desde cualquier lugar en el que se referencie, como puede ser un producto o el lista de artistas, es suficiente.
 
-![](/img/revision/image59.png)
+![](/img/revision/image58.png)
 Figura 45 - Botón ver perfil
 
 Tanto en nuestro perfil como en los demás, podremos ver los productos que tiene publicados el usuario y las opiniones. En el de los demás, podremos
@@ -699,21 +606,6 @@ En esta sección podrá compartir y ver la actividad del resto de usuarios de Sh
 
 ![](/img/revision/image67.png)
 Figura 53 - Comunidad
-
-## **CONSIDERACIONES**
-
-Respecto al 1º Sprint, ha habido una mejora notable en cuanto al registro,
-ya que se solicitó, como podemos ver en el feedback del 19 de marzo al grupo
-Cocenfe NGO, https://knowledge-base-orpin.vercel.app/docs/Feedback/feedback-19-03-2024,
-que el correo electrónico debía ser validado para poder completar el registro.
-De esta manera, el registro se ha modificado respecto a la anterior entrega para que
-se cumpla dicha propuesta. Además se ha añadido la posibilidad de añadir una foto
-de perfil que podrá ver el resto de los usuarios de Shar3D y se ha cambiado el estilo \[Figura 54\].
-
-![](/img/revision/image68.png)
-Figura 54 - Registro
-
-
 
 ## **CONCLUSIONES**
 
