@@ -111,53 +111,83 @@ En este documento se resumirán todas las propuestas de mejora que se han podido
 ### SPRINT 2
 | Propuesta | Acción | Estado | Id |
 | --- | --- | --- | --- |
-| Permitir mayores fotos de perfil | De cara al siguiente sprint se intentará que la aplicación acepté más fotos de perfil con mayor tamaño | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-1 |
+| Permitir mayores fotos de perfil | De cara al siguiente sprint se intentará que la aplicación acepté más fotos de perfil con mayor tamaño | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-1 |
 | Poner dirección de facturación por si es diferente | Aunque la dirección se autocomplete, realmente se puede modificar por lo tanto no es necesario añadir dirección de facturación |<span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
-| Problemas con los colores al subir una opinión por el modo oscuro y claro | Revisaremos este problema de cara a la siguiente entrega e intentaremos corregirlo | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-2 |
+| Problemas con los colores al subir una opinión por el modo oscuro y claro | Revisaremos este problema de cara a la siguiente entrega e intentaremos corregirlo | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-2 |
 | Más colores para los diseños | Esto queda descartado ya que creemos que con los que tenemos en un principio es suficiente | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
-| Problemas con el zoom en el visor 3D | Por esta razón en el primer sprint entregamos la aplicación sin el zoom, de cara a la siguiente entrega lo volveremos a quitar ya que sabemos que no es del todo útil | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-3 |
+| Problemas con el zoom en el visor 3D | Por esta razón en el primer sprint entregamos la aplicación sin el zoom, de cara a la siguiente entrega lo volveremos a quitar ya que sabemos que no es del todo útil | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-3 |
 | Poner más especificaciones técnicas en las impresoras y otros productos | Esta propuesta será estudiada de cara al futuro, pero no será priorizada  | <span style={{backgroundColor:"#0000ff"}}> En estudio</span> | id-4 |
-| No permitir incluir solo espacios en blanco en el registro | Este problema será solucionado de cara al siguiente lanzamiento | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> |  id-5 |
-| Si no se ha confirmado el correo indicar este fallo en el inicio de sesiónSi no se ha confirmado el correo indicar este fallo en el inicio de sesión | Este problema será solucionado de cara al siguiente lanzamiento | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> |  id-6 |
+| No permitir incluir solo espacios en blanco en el registro | Este problema será solucionado de cara al siguiente lanzamiento | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> |  id-5 |
+| Si no se ha confirmado el correo indicar este fallo en el inicio de sesiónSi no se ha confirmado el correo indicar este fallo en el inicio de sesión | Este problema será solucionado de cara al siguiente lanzamiento | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> |  id-6 |
 | Tras registrarte que se te notifique con que debes confirmar el correo | Este problema será solucionado de cara al siguiente lanzamiento | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-7 |
 | En lo comunidad se debería permitir ver mis propios posts en el feed | Este problema será solucionado de cara al siguiente lanzamiento | <span style={{backgroundColor:"#00ff00"}}> Implementado</span> |  id-8 |
 | El campo nombre de los diseños permite solo campos en blanco | Este problema será solucionado de cara al siguiente lanzamiento | <span style={{backgroundColor:"#00ff00"}}> Implementado</span> |  id-9 |
 | La conversión STL no ha funcionado | Esto se debe a problemas con la plataforma donde se aloja la aplicación, de cara a la siguiente entrega intentaremos mejorar su rendimiento en esta función, pero no podemos asegurar que lo consigamos | <span style={{backgroundColor:"#00ff00"}}> Implementado</span>  |  id-10 |
 | Con el plan comprador no ha permitido destacar más de 3 productos |  Realmente este fallo no existe, el plan comprador no permite destacar productos y si solo te permiten destacar tres productos es porque solo tienes el plan diseñadors |  <span style={{backgroundColor:"#ff0000"}}> Descartado </span> |  id-11 |
 | Si se edita un producto no dejará volverlo a destacar si ya se está en el límite | Se ha probado y tanto con el plan comprador como con el plan diseñador si estamos en el límite de productos destacados y editamos un producto que ya estaba destacado podremos seguir destacandolo sin problemas. Sin embargo, como se espera, si ya estás en el límite e intentas destacar un producto más, no te dejara para que no superes el límite |  <span style={{backgroundColor:"#00ff00"}}> Descartado </span> | id-12 |
-| Los listados se ven raros cuando tienes 8 productos o más | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-13 |
-| Si al vender un producto pones cantidades altas, esta se reducen a 98 sin avisar | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> |  id-14 |
-| Si el chat se alarga, pueden llegar a no verse las últimas líneas | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-15 |
-| En el listado la puntuación de las opiniones no son las mismas que las reales | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> |  id-16 |
-| Hacer que la foto no sea obligatoria en la comunidad | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> |  id-17 |
-| Incluir el plan de suscripción cuando veo mi perfil | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> |id-18 |
+| Los listados se ven raros cuando tienes 8 productos o más | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-13 |
+| Si al vender un producto pones cantidades altas, esta se reducen a 98 sin avisar | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#00ff00"}}> Implementado </span> |  id-14 |
+| Si el chat se alarga, pueden llegar a no verse las últimas líneas | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-15 |
+| En el listado la puntuación de las opiniones no son las mismas que las reales | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#00ff00"}}> Implementado </span> |  id-16 |
+| Hacer que la foto no sea obligatoria en la comunidad | Este problema será solucionado de cara al siguiente lanzamiento |  <span style={{backgroundColor:"#00ff00"}}> Implementado </span> |  id-17 |
+| Incluir el plan de suscripción cuando veo mi perfil | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> |id-18 |
 | Los custom designs no usan UUID | Esto ya ha sido corregido como un hotfix  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-19 |
-| Aumentar la seguridad de las contraseñas | De cara al siguiente lanzamiento obligaremos a que las contraseñas sean de 8 caracteres y con números, letras mayúsculas y minúsculas |<span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-20 |
-| Añadir más validaciones al subir un producto para que no se introduzca nombres muy largos que se desborden | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-21 |
-| Limitar el tamaño de las opiniones para que no se salgan de la pantalla | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-22 |
-| No permitir comprar mis propios productos | Esta mejora será implementada de cara a la siguiente entrega |<span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-23 |
-| Hacer que el email sea único | Esta mejora será implementada de cara a la siguiente entrega |<span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-24 |
-| No permitir introducir números en los campos de ciudad ni nombre ni apellido | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-25 |
+| Aumentar la seguridad de las contraseñas | De cara al siguiente lanzamiento obligaremos a que las contraseñas sean de 8 caracteres y con números, letras mayúsculas y minúsculas |<span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-20 |
+| Añadir más validaciones al subir un producto para que no se introduzca nombres muy largos que se desborden | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-21 |
+| Limitar el tamaño de las opiniones para que no se salgan de la pantalla | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-22 |
+| No permitir comprar mis propios productos | Esta mejora será implementada de cara a la siguiente entrega |<span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-23 |
+| Hacer que el email sea único | Esta mejora será implementada de cara a la siguiente entrega |<span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-24 |
+| No permitir introducir números en los campos de ciudad ni nombre ni apellido | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-25 |
 | He creado una solicitud de impresión, le di a pagar y se me abrió la pestaña de PayPal. Luego me di cuenta de que no había puesto una cosa que quería probar, le di hacia atrás y cambié el código postal para probar si podía poner letras y al darle a pagar, la página no hacía nada. He tenido que recargar y volver a hacer todo de nuevo | Hemos replicado el proceso que nos comentas y no hemos tenido ningún problema, quizás al retroceder dejaste sin completar algún campo y no te diste cuenta de que fallaba | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
-| No puedo ver mis solicitudes de impresión una vez hechas | Esta funcionalidad será desarrollada para el siguiente sprint |  <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-26 |
+| No puedo ver mis solicitudes de impresión una vez hechas | Esta funcionalidad será desarrollada para el siguiente sprint |  <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-26 |
 | Cuando se crea un diseño no te deja poner stock y se crea con 1 de stock | Esto se debe a que los diseños son simples archivos que no se terminan por lo que no tienen stock y se crean con 1 de stock para que solo se puedan comprar de uno en uno, pero nunca se gastan  | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
 | No funciona la paginación | La paginación no funciona actualmente porque no hay suficientes productos, en la mayoría de listados hay como mucho 20 productos y se comienza la paginación a partir de los 25 elementos | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
-| Añadir a la edición de perfil el cambiar a ser impresor o diseñador junto a nombre, apellidos y añadir restricciones a los campos | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-27 |
-| Añadir apartado con mis diseños a imprimir | Esta funcionalidad será desarrollada para el siguiente sprint | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-28 |
-| No mostrar el botón de poner opinión en mi perfil | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-29 |
+| Añadir a la edición de perfil el cambiar a ser impresor o diseñador junto a nombre, apellidos y añadir restricciones a los campos | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-27 |
+| Añadir apartado con mis diseños a imprimir | Esta funcionalidad será desarrollada para el siguiente sprint | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-28 |
+| No mostrar el botón de poner opinión en mi perfil | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-29 |
 | Puedo acceder a otros pedidos para poder acceder a un pedido mío sin tener que iniciar sesión, pero siento que es poco seguro ya que puedo ver datos personales de otra persona | Realmente para acceder a un pedido sin iniciar sesión necesitas un UUID del tipo 03ece4b1-7ec2-4908-9e23-c967052b60da por lo que para ver los detalles de un pedido de otro es un poco complicado | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
-| Limpiar console.log del apartado de comunidad |  Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-30 |
+| Limpiar console.log del apartado de comunidad |  Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-30 |
 | Como pasa el pedido del estado de pendiente? | Esto será algo que tendremos que implementar en las proximas iteraciones, realmente será el vendedor quien lo aceptará y lo enviará y ya pasará a ser responsabilidad de la empresa de envios | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-31 |
 | En el formulario de compra Cambiar el correo porque existe? | Claro, puede que hayas cambiado de correo o dirección, o puede que te convenga realizar algún cambio puntualmente, por eso la aplicación autorrelena los campos para facilitarte la compra, pero te da la posibilidad de realizar modificaciones | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
-| Cuando se accede a un usuario desde uno de sus productos no aparecen sus productos | Revisaremos porque ocurre este problema y lo solucionaremos | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-32 |
-| Reorganizar el escaparate principal para no tener tanto texto | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-33 |
+| Cuando se accede a un usuario desde uno de sus productos no aparecen sus productos | Revisaremos porque ocurre este problema y lo solucionaremos | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-32 |
+| Reorganizar el escaparate principal para no tener tanto texto | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-33 |
 | Implementar un buscador donde no hagan falta las tildes para hacer match | El equipo valorará la viabilidad de esta propuesta y si cabe dentro de nuestra planificacion lo desarrollaremos |<span style={{backgroundColor:"#0000ff"}}> En estudio</span> | id-34 |
 | Hacer que se pueda escoger la puntuación sobre las estrellas | El equipo valorará la viabilidad de esta propuesta y si cabe dentro de nuestra planificacion lo desarrollaremos |<span style={{backgroundColor:"#0000ff"}}> En estudio</span> | id-35 |
-| Añadir campo de confirmar contraseña | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-36 |
+| Añadir campo de confirmar contraseña | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-36 |
 | No se indica que campos son requeridos en el registro | Realmente todos los que tienen un asterisco son obligatorios, esto fue añadido tras el feedback del anterior sprint |<span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
 | En el inicio no se muestran todos los destacados | Esto se debe a que aparecen 5 objetos por categoría de entre los destacados para así no saturar a los usuarios al entrar  | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
-| No permitir múltiples reseñas sobre un usuario | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | id-37 |
+| No permitir múltiples reseñas sobre un usuario | Esta mejora será implementada de cara a la siguiente entrega | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | id-37 |
 | He comprado un producto y sigue apareciendo en la página de inicio. Además, no se ha reducido su stock. | Esto se debe a que has comprado un diseño, los diseños son simples archivos que no se terminan, por eso no pierden su stock | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
+
+
+### SPRINT 3
+| Propuesta | Acción | Estado | Id |
+| --- | --- | --- | --- |
+| Corregir estilos al subir post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-1 |
+| Corregir estilos conversión STL | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-2 |
+| Corregir las imagenes en las opiniones | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-3 |
+| Arreglar redireccion al subir un post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-4 |
+| Arreglar problema al subir varios post tanto en la comunidad como en mis post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-5 |
+| Corregir problema con las fotos en el chat | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-6 |
+| Corregir fallo al entrar en una de mis impresiones por imprimir | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-7 |
+| Revisar validaciones en el tamaño de los textos de un post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-8 |
+| Notificar de que un usuario esta bloqueado cuando intenta iniciar sesión | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-9 |
+| Desarrollar apartado de preguntas y respuestas | No se implementará este apartado ya que en nuestra landing page tenemos un formulario de contacto donde se nos puede consultar cualquier cosa y la responderemos | <span style={{backgroundColor:"#ff0000"}}> Descartado</span> | |
+| No se permite usar contraseñas excesivamente largass | Hemos llegado a la conclusión de limitar las contraseñas a 30 caracteres | <span style={{backgroundColor:"#ff0000"}}> Descartado</span> | |
+| Problemas tras solicitar una imresión | Revisaremos este problema para ver porque se ha causado, pero ya ha habido otros usuarios piloto que han conseguido realizar solicitudes de impresión | <span style={{backgroundColor:"#0000ff"}}> En estudio </span> | S3-10 |
+| En la vista de producto aparece como que yo he subido productos que realmente no he subido | Revisaremos este error y lo corregiremos | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-11 |
+| Cancelar un plan | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-12 |
+| Comprobar la longitud de las publicaciones | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-13 |
+| Las imágenes del listado de reportes se ven muy grandes | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-14 |
+| Problemas al comprar sin estar logueado | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-15 |
+| El pop up de bienvenida tiene por encima precios y el carrito | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-16 |
+| Al vender productos podeis no mostrar el destacar si alguien no tiene el plan |Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-17 |
+| Limitar el tamaño de mensaje del chat | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-18 |
+| Poner en editar producto el mismo diseño que al crear producto | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-19 |
+| Aumentar el tamaño del botón de me gusta | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-20 |
+
+
+
 
 ## **CONCLUSIONES**
 
