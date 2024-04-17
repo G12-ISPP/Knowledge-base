@@ -549,6 +549,38 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He asistido a las clases necesarias, excepto una, decisión tomada por el equipo para dedicar el tiempo al proyecto.
 - He participado en sesiones de retrospectiva.
 
+## **CONTRIBUCIONES EN LA FASE DE SPRINT 3**
+
+### **García Linares, Diego**
+
+- He contribuido asistiendo a las clases de manera presencial
+- He visto todos los videos de esta fase para hacer un recordatorio sobre los temas vistos en años anteriores
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
+- He realizado las encuestas para los usuarios pilotos de este sprint.
+- He solucionado diversos fallos en los detalles de lños diseños customizados.
+- He realizado el apartado de por imprimir de los impresores en el que se muestra las solicitudes que tiene por imprimir.
+- He reorganizado el escaparate principal de la página.
+- He añadido el campo de confirmar contraseña.
+- He añadido que ahora un usuario no puede dejar múltiples reseñas sobre otro usuario.
+- He realizado tests de backend para reportar un producto.
+
+### **Garrucho Sánchez, Úrsula**
+
+- He contribuido asistiendo a las clases de manera presencial
+- He visto todos los videos de esta fase para hacer un recordatorio sobre los temas vistos en años anteriores
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
+- He realizado las encuestas para los usuarios pilotos de este sprint.
+- He hecho que los emails de las cuentas de Shar3d deban ser únicos.
+- He restringido los campos de ciudad, nombre y apellidos en todos los formularios de Shar3d para que así no se puedan introducir caracteres numéricos.
+- He hecho que ya no se muestre el botón para dejar una opinión en el perfil de tu propio usuario.
+- He limpiado los console.log() del apartado de comunidad de Shar3d.
+- He realizado el apartado de mis solicitudes de impresión para que un usuario pueda ver qué solicitudes de impresión ha realizado.
+- He realizado tests de backend para la eliminación de un producto.
+
 
 ## **CONCLUSIONES**
 

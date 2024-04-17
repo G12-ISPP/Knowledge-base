@@ -306,6 +306,19 @@ Carlos**
 
 ![](/img/timeEffort//image70.png)
 
+### **FASE DE SPRINT 2**
+
+**Reporte general**
+
+## **García Linares, Diego**
+
+![](/img/timeEffort//image78.png)
+
+## **Garrucho Sánchez, Úrsula**
+
+![](/img/timeEffort//image77.png)
+
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.
