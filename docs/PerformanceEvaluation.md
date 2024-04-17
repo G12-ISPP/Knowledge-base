@@ -69,9 +69,9 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
-| García Linares, Diego | 10  | 10  | 9    |     |     |     | 29    | 0.967   |
+| García Linares, Diego | 10  | 10  | 9    | 9    |     |     | 38    | 0.95   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
-| Garrucho Sánchez, Úrsula | 10  | 10  | 10    |     |     |     | 30    | 1   |
+| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10    |     |     | 40    | 1   |
 | Mera Gómez, Pablo | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
