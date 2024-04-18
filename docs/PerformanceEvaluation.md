@@ -70,7 +70,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10    |     |     | 40    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
+| Escalante Ramos, María | 10 | 10 | 10  | 10 |     |     | 30 | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9    |     |     | 38    | 0.95   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10    |     |     | 40    | 1   |
@@ -568,6 +568,19 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Me he encargado de implementar diversas mejoras propuestas por los usuarios piloto como podrían ser ver mis propios post, incluir en mi perfil mis planes para que pueda verlos, aumentar la seguridad de las contraseñas, limitar el tamaño de las opiniones para que no se desborden, no permitir comprar mis propios productos, actualizar la interfaz de subir post, conversión STL o editar producto, corregir un problema con las imágenes de quien da una opinión o corregir fallo tras solicitar impresión 3D entre otras mejoras.
 - Me he encargado de revisar la aplicación una vez desplegada.
 - He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
+
+### **Escalante Ramos, María**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- He participado en todas las reuniones de retrospectiva del equipo a lo largo del sprint.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- He realizado revisión de código y he aprobado algunas pull requests.
+- He realizado los comentarios necesarios en las issues y pull requests.
+- He realizado junto a Alejandro García la primera y segunda versión del video anuncio del sistema.
+- He realizado el listado de reportes de productos para el administrador.
+- He realizado algunas mejoras sugeridas por los usuarios pilotos como revisar validaciones en el tamaño de los textos de un post, notificar de que un usuario esta bloqueado cuando intenta iniciar sesión y cancelar un plan.
+- He realizado un análisis de código mediante SonarCloud.
 
 ### **García Linares, Diego**
 

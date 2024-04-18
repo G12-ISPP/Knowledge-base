@@ -109,7 +109,7 @@ Carlos**
 ![](/img/timeEffort//image46.png)
 
 ## **Escalante Ramos,María**
-![](/img/timeEffort//image7.png)
+![](/img/timeEffort//TE-ME-07.png)
 
 
 ![](/img/timeEffort//image16.png)
@@ -175,7 +175,7 @@ Carlos**
 ![](/img/timeEffort//image10.png)
 
 ## **Escalante Ramos,María**
-![](/img/timeEffort//image30.png)
+![](/img/timeEffort//TE-ME-08.png)
 
 ## **García Linares, Diego**
 ![](/img/timeEffort//image12.png)
@@ -255,11 +255,11 @@ Carlos**
 
 ## **Escalante Ramos, María**
 
-![](/img/timeEffort//image56.png)
+![](/img/timeEffort//TE-ME-04.png)
 
-![](/img/timeEffort//image57.png)
+![](/img/timeEffort//TE-ME-05.png)
 
-![](/img/timeEffort//image58.png)
+![](/img/timeEffort//TE-ME-06.png)
 
 
 ## **García Linares, Diego**
@@ -300,7 +300,6 @@ Carlos**
 
 ![](/img/timeEffort//image59.png)
 
-![](/img/timeEffort//image58.png)
 
 ## **Reyes Alés, David**
 
@@ -315,6 +314,13 @@ Carlos**
 ## **Campos Garrido, Juan Jesús**
 ![](/img/timeEffort//TE-JJ-05.png)
 ![](/img/timeEffort//TE-JJ-06.png)
+
+## **Escalante Ramos, María**
+![](/img/timeEffort//TE-ME-01.png)
+![](/img/timeEffort//TE-ME-02.png)
+![](/img/timeEffort//TE-ME-03.png)
+
+
 
 ## **García Linares, Diego**
 
