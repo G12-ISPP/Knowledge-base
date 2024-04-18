@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 21/04/2024
 
 # **EVALUACIÓN DEL RENDIMIENTO INDIVIDUAL**
 
@@ -18,7 +18,7 @@
 </div>
 Cada integrante del equipo ha incluido su aportación y su nota
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -**
 
@@ -36,6 +36,8 @@ Cada integrante del equipo ha incluido su aportación y su nota
 [**CONTRIBUCIONES EN LA FASE DE SPRINT 1**](#contribuciones-en-la-fase-de-sprint-1)
 
 [**CONTRIBUCIONES EN LA FASE DE SPRINT 2**](#contribuciones-en-la-fase-de-sprint-2)
+
+[**CONTRIBUCIONES EN LA FASE DE SPRINT 3**](#contribuciones-en-la-fase-de-sprint-3)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -65,7 +67,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | --- | --- | --- |-----| --- | --- | --- |-------| --- |
 | Baquero Villena, Carlos | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Campos Garrido, Juan Jesús | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10    |     |     | 40    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
@@ -550,6 +552,22 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en sesiones de retrospectiva.
 
 ## **CONTRIBUCIONES EN LA FASE DE SPRINT 3**
+
+### **Campos Garrido, Juan Jesús**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- Me he encargado de preparar y estudiar las presentaciones de las dos semanas de la fase, además de presentar dichas presentaciones en clase.
+- Me he encargado de subir las issues de la planificación a GitHub.
+- He participado en todas las reuniones de retrospectiva del equipo a lo largo del sprint.
+- Me he encargado de realizar una modificación sobre los términos y condiciones de la aplicación y la política de privacidad, para que se tenga en cuenta la píldora teórica de GDPR.
+- Me he encargado de actualizar la guía de revisión para actualizar las imágenes de las funcionalidades implementadas en el sprint 1 y 2, ya que la interfaz de la aplicación ha sufrido modificaciones.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- He realizado pruebas sobre la funcionalidad de comentar un post.
+- Me he encargado de recopilar el feedback de los usuarios piloto y de crear el documento con la recopilación de propuestas de mejora a partir de dicho feedback.
+- Me he encargado de implementar diversas mejoras propuestas por los usuarios piloto como podrían ser ver mis propios post, incluir en mi perfil mis planes para que pueda verlos, aumentar la seguridad de las contraseñas, limitar el tamaño de las opiniones para que no se desborden, no permitir comprar mis propios productos, actualizar la interfaz de subir post, conversión STL o editar producto, corregir un problema con las imágenes de quien da una opinión o corregir fallo tras solicitar impresión 3D entre otras mejoras.
+- Me he encargado de revisar la aplicación una vez desplegada.
+- He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
 
 ### **García Linares, Diego**
 

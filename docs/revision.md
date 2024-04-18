@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 31/02/2024
+#### 18/04/2024
 
 # **GUÍA DE REVISIÓN**
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -**
 
@@ -22,7 +22,9 @@
 | v1.5 | Conversión a markdown | García Linares, Diego | 08/03/2024 |
 | v2.0 | Nuevas funcionalidades sprint 2 | Mera Gómez, Pablo | 19/03/2024 |
 | v2.1 | Actualizado índice sprint 2 | Mera Gómez, Pablo | 30/03/2024 |
+| v2.5 | Actualización capturas funcionalidades sprint2 y sprint 1| Campos Garrido, Juan Jesús | 11/04/2024 |
 | v3.0 | Nuevas funcionalidades sprint 3 | Mera Gómez, Pablo | 11/04/2024 |
+| v3.1 | Actualización de capturas tras correcciones | Campos Garrido, Juan Jesús | 18/04/2024 |
 
 </div>
 
