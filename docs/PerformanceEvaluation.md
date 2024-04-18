@@ -74,7 +74,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | García Linares, Diego | 10  | 10  | 9    | 9    |     |     | 38    | 0.95   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10    |     |     | 40    | 1   |
-| Mera Gómez, Pablo | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| Mera Gómez, Pablo | 10  | 10  | 10  | 10 |     |     | 40 | 1   |
 | Reyes Alés, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | **Total** | **120** | **120** | **119**    |     |     |     |       |     |
@@ -599,6 +599,18 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado el apartado de mis solicitudes de impresión para que un usuario pueda ver qué solicitudes de impresión ha realizado.
 - He realizado tests de backend para la eliminación de un producto.
 
+### **Mera Gómez, Pablo**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto el vídeo de esta fase.
+- He participado en todas las reuniones de retrospectiva del equipo a lo largo del sprint.
+- Me he encargado de revisar diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios en ellas
+- He contribuido realizando comentarios sobre las issues que se me han asignado.
+- Me he encargado de actualizar la guía de revisión para añadir todas las funcionalidades añadidas durante este sprint.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- He añadido una funcionalidad para que los administradores y los usuarios que suban un producto puedan eliminarlo.
+- He añadido al perfil de cada usuario botones para que, de cada usuario, podamos saber a cuántos sigue y cuántos le siguen
+- Para lo anterior, he añadido que, pulsando sobre cualquiera de los 2 botones, te redirija a un listado de los usuarios correspondientes, pudiendo acceder a cada perfil desde el propio listado.
 
 ## **CONCLUSIONES**
 
