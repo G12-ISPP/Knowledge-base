@@ -66,7 +66,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
 | --- | --- | --- |-----| --- | --- | --- |-------| --- |
 | Baquero Villena, Carlos | 10  | 10  |  10 |     |     |     | 30    | 1   |
-| Campano Galán, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| Campano Galán, Alejandro | 10  | 10  | 10  |  10  |     |     | 40    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10    |     |     | 40    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
@@ -552,6 +552,19 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en sesiones de retrospectiva.
 
 ## **CONTRIBUCIONES EN LA FASE DE SPRINT 3**
+
+### **Campano Galán, Alejandro**
+
+- He contribuido asistiendo a una clases de esta fase.
+- He visto todos los videos de dicha fase.
+- Me he encargado de realizar distintas implementaciones que han propuesto los usuarios pilotos.como distintas mejoras en el carrito y en el apartado de planes.
+-He asistido a todas las reuniones de retrospectiva.
+-He realizado toda la funcionalidad correspondiente a los reportes de usuarios.
+- He realizado la funcionalidad correspondiente a listar los post en la comunidad de una persona.
+- He realizado la funcionalidad correspondiente a ver los detalles de los post de la comunidad.
+- He sido usuario piloto en la aplicación del grupo 6 (Ciao Lavoro).
+- He realizado una mejora solicitada en el listado de reportes para poder filtrar.
+- He realizado revisión de código de mis compañeros en las distintas pull request.
 
 ### **Campos Garrido, Juan Jesús**
 
