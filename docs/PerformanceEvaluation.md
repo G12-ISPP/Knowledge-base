@@ -69,7 +69,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Campano Galán, Alejandro | 10  | 10  | 10  |  10  |     |     | 40    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10    |     |     | 40    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| Cortabarra Romero, David |  10  |  10  |  10  |  10  |     |     | 40    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10 |     |     | 40 | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9    |     |     | 38    | 0.95   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  |     |     | 40    | 1   |
@@ -581,6 +581,21 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Me he encargado de implementar diversas mejoras propuestas por los usuarios piloto como podrían ser ver mis propios post, incluir en mi perfil mis planes para que pueda verlos, aumentar la seguridad de las contraseñas, limitar el tamaño de las opiniones para que no se desborden, no permitir comprar mis propios productos, actualizar la interfaz de subir post, conversión STL o editar producto, corregir un problema con las imágenes de quien da una opinión o corregir fallo tras solicitar impresión 3D entre otras mejoras.
 - Me he encargado de revisar la aplicación una vez desplegada.
 - He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
+
+### **Cortabarra Romero, David**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He participado en sesiones de retrospectiva.
+- Me he encargado de revisar diferentes pull request que se han ido subiendo a lo largo del sprint.
+- He contribuido realizando diferentes comentarios en las issues de GitHub asignadas a mí.
+- He ejercido de usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- He tomado nota de todo el feedback comentado hacia cada uno de los grupos de proyecto durante este segundo sprint.
+- He rediseñado al completo la página de detalles de producto, así como he hecho responsive dicho rediseño.
+- He corregido los estilos de la página de registro de usuario, los cuales se habían roto con la inclusión de nuevas funcionalidades.
+- He rediseñado al completo la página de solicitar impresión, así como he hecho responsive dicho rediseño.
+- He rediseñado al completo la página de subir un producto, así como he hecho responsive dicho rediseño.
+- He realizado múltiples correcciones de bugs visuales en la aplicación con el objetivo de mejorar la expresiencia de usuario.
 
 ### **Escalante Ramos, María**
 
