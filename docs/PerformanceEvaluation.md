@@ -72,7 +72,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9    |     |     | 38    | 0.95   |
-| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
+| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  |     |     | 40    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10    |     |     | 40    | 1   |
 | Mera Gómez, Pablo | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
@@ -583,6 +583,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He añadido el campo de confirmar contraseña.
 - He añadido que ahora un usuario no puede dejar múltiples reseñas sobre otro usuario.
 - He realizado tests de backend para reportar un producto.
+
+### **García Sánchez-Hermosilla, Alejandro**
+
+- He visto todos los videos de esta fase para hacer un recordatorio sobre los temas vistos en años anteriores
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios en ellas
+- He contribuido realizando comentarios sobre las issues que se me han asignado.
+- He solucionado todos los fallos relacionados con la comunidad.
+- He realizado la funcionalidad de reportar un producto
+- He realizado junto con mi compañera María Escalante los videos de anuncios necesarios para este Sprint
+- He contribuido a realizar la funcionalidad de listado de reportes de productos
+- He sido usuario piloto para mis compañeros del grupo de mañana
+- He realziado la funcionalidad de completar una impresión para los custom design
+- He hecho revisiones continuas de codigo mediante sonarCloud y he realizado mejoras en su configuración
 
 ### **Garrucho Sánchez, Úrsula**
 

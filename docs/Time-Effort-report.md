@@ -320,6 +320,11 @@ Carlos**
 
 ![](/img/timeEffort//image78.png)
 
+## **García Sánchez-Hermosilla, Alejandro**
+
+![](/img/timeEffort//TE-AG-01.png)
+![](/img/timeEffort//TE-AG-02.png)
+
 ## **Garrucho Sánchez, Úrsula**
 
 ![](/img/timeEffort//image77.png)
