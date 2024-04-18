@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 21/04/2024
 
 # **EVALUACIÓN DEL RENDIMIENTO INDIVIDUAL**
 
@@ -18,7 +18,7 @@
 </div>
 Cada integrante del equipo ha incluido su aportación y su nota
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -**
 
@@ -36,6 +36,8 @@ Cada integrante del equipo ha incluido su aportación y su nota
 [**CONTRIBUCIONES EN LA FASE DE SPRINT 1**](#contribuciones-en-la-fase-de-sprint-1)
 
 [**CONTRIBUCIONES EN LA FASE DE SPRINT 2**](#contribuciones-en-la-fase-de-sprint-2)
+
+[**CONTRIBUCIONES EN LA FASE DE SPRINT 3**](#contribuciones-en-la-fase-de-sprint-3)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -65,13 +67,13 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | --- | --- | --- |-----| --- | --- | --- |-------| --- |
 | Baquero Villena, Carlos | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Campos Garrido, Juan Jesús | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10    |     |     | 40    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
-| García Linares, Diego | 10  | 10  | 9    |     |     |     | 29    | 0.967   |
+| García Linares, Diego | 10  | 10  | 9    | 9    |     |     | 38    | 0.95   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
-| Garrucho Sánchez, Úrsula | 10  | 10  | 10    |     |     |     | 30    | 1   |
+| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10    |     |     | 40    | 1   |
 | Mera Gómez, Pablo | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
@@ -548,6 +550,54 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He contribuido en la documentación cuando se me requería.
 - He asistido a las clases necesarias, excepto una, decisión tomada por el equipo para dedicar el tiempo al proyecto.
 - He participado en sesiones de retrospectiva.
+
+## **CONTRIBUCIONES EN LA FASE DE SPRINT 3**
+
+### **Campos Garrido, Juan Jesús**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- Me he encargado de preparar y estudiar las presentaciones de las dos semanas de la fase, además de presentar dichas presentaciones en clase.
+- Me he encargado de subir las issues de la planificación a GitHub.
+- He participado en todas las reuniones de retrospectiva del equipo a lo largo del sprint.
+- Me he encargado de realizar una modificación sobre los términos y condiciones de la aplicación y la política de privacidad, para que se tenga en cuenta la píldora teórica de GDPR.
+- Me he encargado de actualizar la guía de revisión para actualizar las imágenes de las funcionalidades implementadas en el sprint 1 y 2, ya que la interfaz de la aplicación ha sufrido modificaciones.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- He realizado pruebas sobre la funcionalidad de comentar un post.
+- Me he encargado de recopilar el feedback de los usuarios piloto y de crear el documento con la recopilación de propuestas de mejora a partir de dicho feedback.
+- Me he encargado de implementar diversas mejoras propuestas por los usuarios piloto como podrían ser ver mis propios post, incluir en mi perfil mis planes para que pueda verlos, aumentar la seguridad de las contraseñas, limitar el tamaño de las opiniones para que no se desborden, no permitir comprar mis propios productos, actualizar la interfaz de subir post, conversión STL o editar producto, corregir un problema con las imágenes de quien da una opinión o corregir fallo tras solicitar impresión 3D entre otras mejoras.
+- Me he encargado de revisar la aplicación una vez desplegada.
+- He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
+
+### **García Linares, Diego**
+
+- He contribuido asistiendo a las clases de manera presencial
+- He visto todos los videos de esta fase para hacer un recordatorio sobre los temas vistos en años anteriores
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
+- He realizado las encuestas para los usuarios pilotos de este sprint.
+- He solucionado diversos fallos en los detalles de lños diseños customizados.
+- He realizado el apartado de por imprimir de los impresores en el que se muestra las solicitudes que tiene por imprimir.
+- He reorganizado el escaparate principal de la página.
+- He añadido el campo de confirmar contraseña.
+- He añadido que ahora un usuario no puede dejar múltiples reseñas sobre otro usuario.
+- He realizado tests de backend para reportar un producto.
+
+### **Garrucho Sánchez, Úrsula**
+
+- He contribuido asistiendo a las clases de manera presencial
+- He visto todos los videos de esta fase para hacer un recordatorio sobre los temas vistos en años anteriores
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He contribuido en realizar diferentes comentarios en las issues de GitHub asignadas a mí.
+- He realizado las encuestas para los usuarios pilotos de este sprint.
+- He hecho que los emails de las cuentas de Shar3d deban ser únicos.
+- He restringido los campos de ciudad, nombre y apellidos en todos los formularios de Shar3d para que así no se puedan introducir caracteres numéricos.
+- He hecho que ya no se muestre el botón para dejar una opinión en el perfil de tu propio usuario.
+- He limpiado los console.log() del apartado de comunidad de Shar3d.
+- He realizado el apartado de mis solicitudes de impresión para que un usuario pueda ver qué solicitudes de impresión ha realizado.
+- He realizado tests de backend para la eliminación de un producto.
 
 
 ## **CONCLUSIONES**

@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 21/04/2024
 
 # **REPORTE DE ESFUERZO TEMPORAL**
 
@@ -19,7 +19,7 @@
 Cada integrante se encarga de hacer su reporte individual
 </div>
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -**
 
@@ -37,6 +37,8 @@ Cada integrante se encarga de hacer su reporte individual
 [**FASE DE SPRINT 1**](#fase-de-sprint-1)
 
 [**FASE DE SPRINT 2**](#fase-de-sprint-2)
+
+[**FASE DE SPRINT 3**](#fase-de-sprint-3)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -305,6 +307,23 @@ Carlos**
 ![](/img/timeEffort//image69.png)
 
 ![](/img/timeEffort//image70.png)
+
+### **FASE DE SPRINT 3**
+
+**Reporte general**
+
+## **Campos Garrido, Juan Jesús**
+![](/img/timeEffort//TE-JJ-05.png)
+![](/img/timeEffort//TE-JJ-06.png)
+
+## **García Linares, Diego**
+
+![](/img/timeEffort//image78.png)
+
+## **Garrucho Sánchez, Úrsula**
+
+![](/img/timeEffort//image77.png)
+
 
 ## **CONCLUSIONES**
 
