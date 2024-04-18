@@ -88,19 +88,23 @@ T-9) Failure to make a correct delivery considering the following instructions c
 
 Starting at deliverable #S3:
 T-10) Not following the instructions of the software reviewer's guidelines; or incurring in any of the failureconditions presented in those guidelines -> Se han seguido las instrucciones dle documento y se revisarán las condiciones de fallo a continuación:
-+ A legal interaction with your system results in an HTTP error perceived by user. -> Hemos revisado y ninguna acción legal desencadena en un error HTTP
 
-+ A legal interaction with your system results in a panic (crash/...) perceived by user. -> Hemos revisado y ninguna acción legal desencadena en una pantalla de panico
-
-+ A legal interaction with your system doesn’t have the expected behaviour -> Todas las interacciones con el sistema tienen el comportamiento esperado, concretamente la función más problemática es la conversión a STL que por problemas con el despliegue se ha tenido que separar del resto de la aplicación, por lo que cuando se accede a esta función, dicha función suele tardar más tiempo que el resto, concretamente entre 1 minuto y 3 minutos. Pero este comportamiento es normal y se explica porque esta función no cabe junto al resto en la plataforma de despliegue y se han tenido que separar, por lo que mientras todo el resto de funciones están activas desde que se accede a la aplicación, sin embargo, la conversión STL se activa una vez se hace una petición, por esta razón hay que espera a que la plataforma donde está desplegada arranque la aplicación de conversión y además haga la conversión que es un proceso un poco costoso.
-
-+ Submitting a form with wrong data is not detected (form validation). -> Todos los campos de los formularios son validados en el sistema
-
-+ An actor can list, edit, or delete data that belongs to another actor. -> Nadie puede editar o ver información de otra persona que sea privada 
-
-+ The system is not deployed to the cloud or it is not available any time during the subject -> El sistema estará desplegado hasta julio
-
-+ The system deployment is modified /updated after the delivery deadline. -> El software no será modificado una vez pase la fecha de entrega
+RG-1) A provider/consumer publishes an offer/request. (Use case implemented in #S1. -> Alguien puede subir un producto a la aplicación (por otro lado, alguien puede directamente solicitar un servicio de impresión personalizada) 
+RG-2) A consumer/provider searches for an offer/request. (Use case implemented in #S1. -> En la pantalla principal ya hay varios productos y están los listados y el buscador para ver más.
+RG-3) The consumer/provider selects the desired offer/request that matches its needs. (Usecase implemented in #S1). -> Se puede comprar cualquier producto con stock en la aplicación (En el caso de los diseños personalizados, cualquiera que tenga el rol de impresor, podrá escoger una solicitud que no haya sido escogida antes para imprimirla)
+RG-4) A consumer pays for an offer. (Mockup/ fake button in #S1) -> En la aplicación se paga al comprar, solicitar una impresión o comprar un plan y se paga a través de la pasarela de pago de paypal.
+RG-8) The URL of the landing page (which must allow to navigate to the deployment). -> La guia incluye un URL a la landing donde, además, hay un URL para ir al despliegue
+RG-9) Credentials (users and passwords) of at least two users, customers, and oneadministrator. -> En la landing se incluyen credenciales 
+RG-10) The URL of the deployment platform, with the corresponding credentials.o The URL of the Github repository.o The URL and credentials of the time tracking tool. ->Todo esto se proporcionará en la entrega por temas de privacidad y para evitar ataques.
+RG-11) Potential requirements to use the system (e.g., “activate location”). -> La aplicación no necesita requisitos extra.
+RG-12) A link to the demonstration shown in the evaluation class and stored in a demo folderwithin your GitHub repository. -> Se incluye en la guía de revisión un enlace a la demo que se mostrará en la evaluación, dicha demo también estará en la carpeta docs.
+RG-13) A legal interaction with your system results in an HTTP error perceived by user. -> Hemos revisado y ninguna acción legal desencadena en un error HTTP
+RG-14) A legal interaction with your system results in a panic (crash/...) perceived by user. -> Hemos revisado y ninguna acción legal desencadena en una pantalla de panico
+RG-15) A legal interaction with your system doesn’t have the expected behavior. -> Todas las interacciones con el sistema tienen el comportamiento esperado, concretamente la función más problemática es la conversión a STL que por problemas con el despliegue se ha tenido que separar del resto de la aplicación, por lo que cuando se accede a esta función, dicha función suele tardar más tiempo que el resto, concretamente entre 1 minuto y 3 minutos. Pero este comportamiento es normal y se explica porque esta función no cabe junto al resto en la plataforma de despliegue y se han tenido que separar, por lo que mientras todo el resto de funciones están activas desde que se accede a la aplicación, sin embargo, la conversión STL se activa una vez se hace una petición, por esta razón hay que espera a que la plataforma donde está desplegada arranque la aplicación de conversión y además haga la conversión que es un proceso un poco costoso.
+RG-16) Submitting a form with wrong data is not detected (form validation). -> Todos los campos de los formularios son validados en el sistema
+RG-17) An actor can list, edit, or delete data that belongs to another actor. -> Nadie puede editar o ver información de otra persona que sea privada 
+RG-18) The system is not deployed to the cloud, or it is not available any time during the subject(until July). -> El sistema estará desplegado hasta julio
+RG-19) The system deployment is modified /updated after the delivery deadline. -> El software no será modificado una vez pase la fecha de entrega
 
 T-11) Not including in the docs repository folder the pilot users performance evaluation, evaluating reviewer ISPP group as pilot user (PilotUsersPerformanceEvaluation.md) following the pilot usersperformance evaluation template provided in EV. Each and every group must be pilot user. (e.g. Group 1must include a PilotUsersPerformanceEvaluation.md evaluating the performance of Group 7 as pilot users). -> Se incluye dicho documento en la carpeta docs
 
