@@ -91,6 +91,8 @@ Cada integrante ha contribuido con sus propios prompts
 
 [**Consulta propiedad intelectual**](#problemas-con-la-propiedad-intelectual-de-terceros)
 
+[**Consulta para añadir un modal a la hora de eliminar un producto**] (#consulta-para-añadir-un-modal-a-la-hora-de-eliminar-un-producto)
+
 [**CONCLUSIONES**](#conclusiones)
 
 [**BIBLIOGRAFÍA**](#bibliografía)
@@ -518,6 +520,18 @@ Se ha preguntado a Chat GPT como podemos proteger la propiedad intelectual de te
 **Respuesta**
 
 Nos ha propuesto formas en las que podemos traspasar la responsabilidad a los usuarios que suban cosas que tengán derechos de copyright
+
+### **Consulta para añadir un modal a la hora de eliminar un producto**
+
+[https://chat.openai.com/share/dc6c9480-229d-44da-9d96-c93935aeddea](https://chat.openai.com/share/dc6c9480-229d-44da-9d96-c93935aeddea)
+
+**Preguntas**
+
+En esta consulta se le pregunta a ChatGPT que añada un modal para que, a la hora de eliminar un producto, haya un paso intermedio para confirmar si realmente quiere eliminarlo o no, ya que es una acción irreversible.
+
+**Respuesta**
+
+ChatGPT ha proporcionado un código en el cuál se añadía un modal y que ha servido como guía
 
 ## **CONCLUSIONES**
 
