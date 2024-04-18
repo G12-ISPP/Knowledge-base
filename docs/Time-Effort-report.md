@@ -311,6 +311,10 @@ Carlos**
 
 **Reporte general**
 
+## **Campano Galán, Alejandro**
+![](/img/timeEffort//TE-ACG-01.png)
+![](/img/timeEffort//TE-ACG-02.png)
+
 ## **Campos Garrido, Juan Jesús**
 ![](/img/timeEffort//TE-JJ-05.png)
 ![](/img/timeEffort//TE-JJ-06.png)
