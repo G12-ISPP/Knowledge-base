@@ -667,6 +667,25 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He añadido al perfil de cada usuario botones para que, de cada usuario, podamos saber a cuántos sigue y cuántos le siguen
 - Para lo anterior, he añadido que, pulsando sobre cualquiera de los 2 botones, te redirija a un listado de los usuarios correspondientes, pudiendo acceder a cada perfil desde el propio listado.
 
+### **Santiago Félix, Alejandro**
+- Asistí puntualmente a todas las clases de esta fase.
+- Visualicé todos los videos correspondientes a la fase.
+- Revisé y gestioné las solicitudes de extracción (PR).
+- Corregí un problema que causaba errores al cargar imágenes para las fotos de perfil.
+- Resolví inconvenientes relacionados con la paleta de colores en las opiniones.
+- Amplié las restricciones en el proceso de registro.
+- Implementé una verificación para asegurar la validez de las direcciones de correo electrónico.
+- Solucioné el problema de la longitud excesiva de los textos en las publicaciones.
+- Ajusté el tamaño de las imágenes en el listado de reportes.
+- Establecí que solo los usuarios con un plan pueden resaltar un producto.
+- Agregué restricciones para el envío de mensajes.
+- Realicé pruebas detalladas de la funcionalidad de las publicaciones.
+- Llevé a cabo la refactorización de aspectos específicos de las publicaciones.
+- Probé exhaustivamente la funcionalidad del listado de publicaciones.
+- Verifiqué el correcto funcionamiento de la función de "me gusta".
+- Realicé pruebas exhaustivas para la funcionalidad de cierre de cuentas por parte del administrador.
+- Verifiqué el correcto despliegue del Backend.
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.
