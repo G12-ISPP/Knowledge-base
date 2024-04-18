@@ -329,8 +329,6 @@ Carlos**
 ![](/img/timeEffort//TE-ME-02.png)
 ![](/img/timeEffort//TE-ME-03.png)
 
-
-
 ## **García Linares, Diego**
 
 ![](/img/timeEffort//image78.png)
@@ -348,6 +346,11 @@ Carlos**
 
 ![](/img/timeEffort//TE-PMG-01.png)
 ![](/img/timeEffort//TE-PMG-02.png)
+
+## **Santiago Félix, Alejandro**
+
+![](/img/timeEffort//TE-ASF-01.png)
+![](/img/timeEffort//TE-ASF-02.png)
 
 ## **CONCLUSIONES**
 
