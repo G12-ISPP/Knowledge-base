@@ -319,6 +319,10 @@ Carlos**
 ![](/img/timeEffort//TE-JJ-05.png)
 ![](/img/timeEffort//TE-JJ-06.png)
 
+## **Carretero Díaz, Antonio**
+![](/img/timeEffort//TE-ACD-01.png)
+![](/img/timeEffort//TE-ACD-02.png)
+
 ## **Cortabarra Romero, David**
 ![](/img/timeEffort//TE-DC-01.png)
 ![](/img/timeEffort//TE-DC-02.png)
