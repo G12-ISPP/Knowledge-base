@@ -68,7 +68,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Baquero Villena, Carlos | 10  | 10  |  10 |     |     |     | 30    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
-| Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   |     |     | 40    | 1   |
 | Cortabarra Romero, David |  10  |  10  |  10  | 10  |     |     | 40    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10  |     |     | 40 | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9   |     |     | 38    | 0.95   |
@@ -581,6 +581,21 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Me he encargado de implementar diversas mejoras propuestas por los usuarios piloto como podrían ser ver mis propios post, incluir en mi perfil mis planes para que pueda verlos, aumentar la seguridad de las contraseñas, limitar el tamaño de las opiniones para que no se desborden, no permitir comprar mis propios productos, actualizar la interfaz de subir post, conversión STL o editar producto, corregir un problema con las imágenes de quien da una opinión o corregir fallo tras solicitar impresión 3D entre otras mejoras.
 - Me he encargado de revisar la aplicación una vez desplegada.
 - He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
+
+### **Carretero Díaz, Antonio**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- Me he encargado de realizar la funcionalidad del panel de administrador cuando inicias sesión como administrador en la aplicación y de listar a todos los usuarios dentro del panel del administrador.
+- Me he encargado de implementar la funcionalidad de bloquear o desbloquear a un usuario desde los detalles del usuario o desde el listado de usuarios al iniciar sesión como administrador.
+- Me he asegurado de que la funcionalidad anterior fuese únicamente accesible por los administradores de la aplicación.
+- Me he encargado de arreglar algunos mostrados de imágenes de fotos de perfil en la aplicación.
+- Me he encargado de realizar la funcionalidad de realizar un comentario en un post.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
+- He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
+- He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
 
 ### **Cortabarra Romero, David**
 
