@@ -533,6 +533,18 @@ En esta consulta se le pregunta a ChatGPT que añada un modal para que, a la hor
 
 ChatGPT ha proporcionado un código en el cuál se añadía un modal y que ha servido como guía
 
+### **Consulta para subir un comentario en un post**
+
+[https://chat.openai.com/share/d428b695-54ed-4fc0-ad1a-68ceb3d65e97](https://chat.openai.com/share/d428b695-54ed-4fc0-ad1a-68ceb3d65e97)
+
+**Preguntas**
+
+Se ha solicitado a ChatGPT una pequeña idea sobre cuáles deberían ser los primeros pasos que debería dar para agregar a la aplicación la funcionalidad de añadir un comentario a un post publicado en el apartado de la comunidad.
+
+**Respuesta**
+
+ChatGPT ha proporcionado una serie de pasos a seguir para añadir la funcionalidad de añadir un comentario a un post publicado en la comunidad. Por ejemplo, se ha sugerido que se cree un nuevo modelo de comentario y se añada una relación con el modelo de post y una manera de integrar la funcionalidad de añadir un comentario en la interfaz de usuario.
+
 ## **CONCLUSIONES**
 
 Se han recopilado y resumido todas las prompt realizadas a cualquier tipo de Inteligencia Artificial a la hora del desarrollo o planificación del proyecto.
