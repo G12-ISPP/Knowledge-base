@@ -75,7 +75,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  |     |     | 40    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  |     |     | 40    | 1   |
 | Mera Gómez, Pablo | 10  | 10  | 10  | 10  |     |     | 40 | 1   |
-| Reyes Alés, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
+| Reyes Alés, David | 10  | 10  | 10  | 10  |     |     | 40 | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  |     |     | 30    | 1   |
 | **Total** | **120** | **120** | **119**    |     |     |     |       |     |
 </div>
@@ -337,6 +337,16 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado los tests correspondientes al componente del carrito comprobando las cosas con un carrito tanto lleno como vacío. En el vacío se comprueba que efectivamente no existen elementos y en el lleno se comprueba que existan ambos, que se puedan quitar y poner elementos y que además se puedan eliminar productos.
 - He resuelto diferentes incidencias relacionadas con diferentes partes del proyecto.
 
+### **Reyes Alés, David**
+
+- He contribuido asistiendo a todas las clases teóricas de esta fase.
+- He visto las pilladas teóricas correspondientes a este sprint.
+- He contribuido revisando PR de código de mis compañeros.
+- He creado la funcionalidad completa de chat, que formaba parte del MVP (habiendo probado a implementar websocket, decisión que hubo que cambiar por problemas de despliegue, y al final se migró a una arquitectura http).
+- He prestado atención al “feedback” de mis compañeros y he hecho los arreglos pertinentes en mi código
+- He participado en las revisiones visuales de las presentaciones de clase.
+- He contribuido en la documentación cuando se me requería.
+
 ### **Santiago Félix Alejandro**
 
 - He contribuido asistiendo a todas las clases de esta fase.
@@ -348,16 +358,6 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Creación de pruebas de detalles de producto, artista e impresoras.
 - Arreglo de integración continua en Frontend usando ahora el contenedor del Backend.
 - Arreglo del despliegue del Backend para que utilice los estáticos y creación de un manual para seguir un proceso en los próximos sprint
-
-### **David Reyes Alés**
-
-- He contribuido asistiendo a todas las clases teóricas de esta fase.
-- He visto las pilladas teóricas correspondientes a este sprint.
-- He contribuido revisando PR de código de mis compañeros.
-- He creado la funcionalidad completa de chat, que formaba parte del MVP (habiendo probado a implementar websocket, decisión que hubo que cambiar por problemas de despliegue, y al final se migró a una arquitectura http).
-- He prestado atención al “feedback” de mis compañeros y he hecho los arreglos pertinentes en mi código
-- He participado en las revisiones visuales de las presentaciones de clase.
-- He contribuido en la documentación cuando se me requería.
 
 ### **Mera Gómez, Pablo**
 
@@ -524,6 +524,18 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado pruebas sobre el backend de la aplicación, más en específico sobre la funcionalidad de subir diseños.
 - He revisado el análisis de competidores para comprobar cómo ha evolucionado el mercado.
 
+### **Reyes Alés, David**
+- He contribuido asistiendo a todas las clases teóricas de esta fase.
+- He visto las pilladas teóricas correspondientes a este sprint.
+- He contribuido revisando PR  de código de mis compañeros.
+- He creado  la funcionalidad completa de chat, haciéndola totalmente "responsive" que formaba parte del MVP (habiendo probado a implementar websocket, decisión que hubo que  cambiar por problemas de  despliegue, y al final se  migró a una arquitectura http).
+- He ejericido de usuario piloto para evaluar el proyecto de otros compañeros.
+- He prestado atención al “feedback” de mis compañeros y he hecho los arreglos pertinentes en mi código
+- He participado en las revisiones visuales de las presentaciones de clase.
+- He contribuido en la documentación cuando se me requería.
+- He asistido a las clases necesarias, excepto una, decisión tomada por el equipo para dedicar el tiempo al proyecto.
+- He participado en sesiones de retrospectiva.
+
 ### **Santiago Félix, Alejandro**
 - Asistencia a clases presenciales para mantenerme actualizado.
 - Revisión de todos los videos de esta fase para repasar temas previamente cubiertos.
@@ -538,18 +550,6 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Implementación de la capacidad de hacer zoom y cambiar el color del modelo en el visualizador.
 - Desarrollo de un sistema de verificación de la validez de direcciones de correo electrónico. 
 - Definición de un nuevo sistema de despliegue para abordar problemas de espacio.
-
-### **Reyes Alés, David**
-- He contribuido asistiendo a todas las clases teóricas de esta fase.
-- He visto las pilladas teóricas correspondientes a este sprint.
-- He contribuido revisando PR  de código de mis compañeros.
-- He creado  la funcionalidad completa de chat, haciéndola totalmente "responsive" que formaba parte del MVP (habiendo probado a implementar websocket, decisión que hubo que  cambiar por problemas de  despliegue, y al final se  migró a una arquitectura http).
-- He ejericido de usuario piloto para evaluar el proyecto de otros compañeros.
-- He prestado atención al “feedback” de mis compañeros y he hecho los arreglos pertinentes en mi código
-- He participado en las revisiones visuales de las presentaciones de clase.
-- He contribuido en la documentación cuando se me requería.
-- He asistido a las clases necesarias, excepto una, decisión tomada por el equipo para dedicar el tiempo al proyecto.
-- He participado en sesiones de retrospectiva.
 
 ## **CONTRIBUCIONES EN LA FASE DE SPRINT 3**
 
@@ -696,6 +696,17 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He añadido al perfil de cada usuario botones para que, de cada usuario, podamos saber a cuántos sigue y cuántos le siguen
 - Para lo anterior, he añadido que, pulsando sobre cualquiera de los 2 botones, te redirija a un listado de los usuarios correspondientes, pudiendo acceder a cada perfil desde el propio listado.
 
+### **Reyes Alés, David**
+
+- He asistido a todas las clases necesarias y/o dedicado tiempo extra a las clases no asistidas (Decisión tomada por todos).
+- He visualizado todas las píldoras dde teoría de este sprint.
+- He revisado solicitudes de cambio (PR).
+- He corregido errores mencionados en el feedback de los usuarios pilotos.
+- He hecho el sistema de cambio de estados del pedido a través de un enlace de un solo uso al email de los vendedores.
+- He realizado pruebas sobre la edición de perfil.
+- He realizado pruebas sobre la subida de una opinión.
+- He revisado todas las presentaciones, encargándome de mejorarlas visualmente.
+
 ### **Santiago Félix, Alejandro**
 - Asistí puntualmente a todas las clases de esta fase.
 - Visualicé todos los videos correspondientes a la fase.
@@ -714,6 +725,8 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Verifiqué el correcto funcionamiento de la función de "me gusta".
 - Realicé pruebas exhaustivas para la funcionalidad de cierre de cuentas por parte del administrador.
 - Verifiqué el correcto despliegue del Backend.
+
+
 
 ## **CONCLUSIONES**
 
