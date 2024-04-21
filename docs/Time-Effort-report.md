@@ -312,6 +312,11 @@ Carlos**
 **Reporte general**
 ![](/img/timeEffort//TE-G-02.png)
 
+## **Baquero Villena, Carlos**
+![](/img/timeEffort//TE-CB-11.png)
+![](/img/timeEffort//TE-CB-12.png)
+![](/img/timeEffort//TE-CB-13.png)
+
 ## **Campano Galán, Alejandro**
 ![](/img/timeEffort//TE-ACG-01.png)
 ![](/img/timeEffort//TE-ACG-02.png)

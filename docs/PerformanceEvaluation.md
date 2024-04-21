@@ -553,6 +553,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 
 ## **CONTRIBUCIONES EN LA FASE DE SPRINT 3**
 
+### **Baquero Villena, Carlos**
+
+- He contribuido asistiendo a una clase en esta fase.
+- He visualizado todas las píldoras teóricas de esta fase.
+- He asistido a todas las reuniones de retrospectiva de esta fase.
+- He realizado varios tests y corregido las funcionalidades de los distintos planes.
+- He realizado la funcionalidad de dar me gusta a un post.
+- He realizado tests sobre la foto de perfil en el registro de usuario.
+- He revisado las pull requests de mis compañeros.
+- He resumido los conceptos principales de las píldoras teóricas de las semanas 8 y 9.
+- He probado la funcionalidad de Lista de seguidos.
+- He hecho de usuario piloto para la aplicación Ciao Lavoro.
+- He realizado varias mejoras que nuestros usuarios pilotos nos han propuesto.
+
 ### **Campano Galán, Alejandro**
 
 - He contribuido asistiendo a una clases de esta fase.
