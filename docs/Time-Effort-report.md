@@ -290,6 +290,12 @@ Carlos**
 
 ![](/img/timeEffort//image73.png)
 
+## **Reyes Alés, David**
+
+![](/img/timeEffort//image69.png)
+
+![](/img/timeEffort//image70.png)
+
 ## **Santiago Félix, Alejandro**
 
 ![](/img/timeEffort//image62.png)
@@ -300,12 +306,6 @@ Carlos**
 
 ![](/img/timeEffort//image59.png)
 
-
-## **Reyes Alés, David**
-
-![](/img/timeEffort//image69.png)
-
-![](/img/timeEffort//image70.png)
 
 ### **FASE DE SPRINT 3**
 
@@ -351,6 +351,11 @@ Carlos**
 
 ![](/img/timeEffort//TE-PMG-01.png)
 ![](/img/timeEffort//TE-PMG-02.png)
+
+## **Reyes Alés, David**
+
+![](/img/timeEffort//TE-DRA-01.png)
+![](/img/timeEffort//TE-DRA-02.png)
 
 ## **Santiago Félix, Alejandro**
 
