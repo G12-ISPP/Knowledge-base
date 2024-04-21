@@ -4,14 +4,13 @@
 
 ## **SHAR3D**
 
-#### 10/02/2024
+#### 21/04/2024
 
 # **REGISTRO DE RIESGOS**
 
 ## **REALIZADO POR:**
 
-
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -** 
 
@@ -26,6 +25,7 @@
 | v0.9 | Añadido riesgo de dependencia entre tareas | Campos Garrido, Juan Jesús | 25/02/2024 |
 | V1.5 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
 | V2.0 | Añadido riesgo de relajación en el sprint 2 | 31/03/2024 |
+| v3.0 | Revisión en el sprint 3 para evitar failure conditions | Campos Garrido, Juan Jesús | 21/04/2024 |
 </div>
 
 

@@ -6,9 +6,9 @@
 
 ## **SHAR3D + CIAOLAVORO**
 
-#### 26/02/2024
+#### 06/04/2024
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -** 
 
@@ -21,7 +21,7 @@
 | v1.0 | Actualización por CiaoLavoro | Gónzalez Quintanilla, Diego | 21/03/2024 |
 | v1.1 | Propuesta de acuerdo por parte de SHAR3D | Campos Garrido, Juan Jesús | 04/04/2024 |
 | v1.2 | Actualización del acuerdo por CiaoLavoro | Gónzalez Quintanilla, Diego | 05/04/2024 |
-| v2.0 | Ratificación final del acuerdo por ambas partes | Campos Garrido, Juan Jesús, Gónzalez Quintanilla, Diego | 06/05/2024 |
+| v2.0 | Ratificación final del acuerdo por ambas partes | Campos Garrido, Juan Jesús, Gónzalez Quintanilla, Diego | 06/04/2024 |
 </div>
 
 ## INTRODUCCIÓN
@@ -59,7 +59,7 @@ A 20/03/2024
 
 
 
-### SPRINT 2
+### SPRINT 3
 
 Los integrantes del grupo 12 nos comprometemos a cumplir las siguientes condiciones y requisitos en segundo sprint:
 + El grupo 12 se compromete a entregar la aplicación, las guías, los formularios y demás documentos necesarios a lo largo del día 12/04/2024.

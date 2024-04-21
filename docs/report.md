@@ -4,12 +4,11 @@
 
 ## **SHAR3D**
 
-#### 22/02/2024
+#### 03/04/2024
 
 # **REPORTE DE LA BASE DE CONOCIMIENTO GENERAL**
 
-
-###     **2ª ENTREGA**
+### **SPRINT 3**
 
 ### **GRUPO 12**
 

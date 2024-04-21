@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 21/04/2024
 
 # **ANÁLISIS DE COMPETIDORES**
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -** 
 
@@ -23,6 +23,7 @@
 | v1.4.0 | Versión final para el entregable 1| Mera Gómez, Pablo | 17/02/2024 |
 | v1.5.0 | Conversión a markdown | García Linares, Diego | 08/03/2024 |
 | v2.0.0 | Revisión documento para sprint 2| Mera Gómez, Pablo | 29/03/2024 |
+| v2.0.1 | Revisión documento para evitar failure conditions | Campos Garrido, Juan Jesús | 21/04/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**

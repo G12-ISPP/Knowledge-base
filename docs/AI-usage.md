@@ -4,10 +4,13 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 21/04/2024
 
 # **INFORME DE USO DE IA**
 
+### **SPRINT 3**
+
+### **- GRUPO 12 -**
 
 ## **REALIZADO POR:**
 <div class="markdown-table">
@@ -19,10 +22,6 @@
 
 Cada integrante ha contribuido con sus propios prompts
 </div>
-
-### **SPRINT 2**
-
-### **- GRUPO 12 -**
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
@@ -544,6 +543,30 @@ Se ha solicitado a ChatGPT una pequeña idea sobre cuáles deberían ser los pri
 **Respuesta**
 
 ChatGPT ha proporcionado una serie de pasos a seguir para añadir la funcionalidad de añadir un comentario a un post publicado en la comunidad. Por ejemplo, se ha sugerido que se cree un nuevo modelo de comentario y se añada una relación con el modelo de post y una manera de integrar la funcionalidad de añadir un comentario en la interfaz de usuario.
+
+### **Consulta pruebas sobre la función de comentar**
+
+[https://chat.openai.com/share/551e163c-571b-4bd3-9444-707390513086](https://chat.openai.com/share/551e163c-571b-4bd3-9444-707390513086)
+
+**Preguntas**
+
+Se le solicita a ChatGPT que produzca varias pruebas unitarias sobre la función de comentar, a partir de otras pruebas de ejemplo y del código que debe probar.
+
+**Respuesta**
+
+ChatGPT proporciona una serie de test que siguen el formato del test que se le da como ejemplo y que prueban varios casos de uso de la función. Estos test solo han tenido que sufrir pequeñas modificaciones para que cumplan los estandares, pero se ha reducido bastante el tiempo de producción de dichos test.
+
+### **Consulta para comenzar el marketing**
+
+[https://chat.openai.com/share/771aaa7c-e66a-45e4-8a4c-9a97b45eea0b](https://chat.openai.com/share/771aaa7c-e66a-45e4-8a4c-9a97b45eea0b)
+
+**Preguntas**
+
+Se le pregunta a ChatGPT como podemos empezar el marketing para ganar tracción inicial
+
+**Respuesta**
+
+ChatGPT nos da varias propuestas para empezar a tener público, como puede ser Redes Sociales, Colaboraciones o asistir a eventos o ferias.
 
 ## **CONCLUSIONES**
 

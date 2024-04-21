@@ -310,6 +310,7 @@ Carlos**
 ### **FASE DE SPRINT 3**
 
 **Reporte general**
+![](/img/timeEffort//TE-G-02.png)
 
 ## **Campano Galán, Alejandro**
 ![](/img/timeEffort//TE-ACG-01.png)

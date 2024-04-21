@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 06/04/2024
 
 # **CUSTOMER AGREEMENT**
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -**
 
