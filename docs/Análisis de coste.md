@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 21/04/2024
+#### 28/04/2024
 
 # **ANÁLISIS DE COSTE**
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -** 
 
@@ -25,6 +25,7 @@
 | v1.6.0 | Corrección sobre el CAPEX | Campos Garrido, Juan Jesús | 10/03/2024 |
 | v2.0.0 | Revisión para la entrega del sprint 2 | Campos Garrido, Juan Jesús | 31/03/2024 |
 | v3.0.0 | Versión para el sprint 3 con los costes del CM y GDPR officer | 21/04/2024 |
+| v3.1.0 | Justificación por las cotizaciones sociales | Campos Garrido, Juan Jesús | 28/04/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**
@@ -98,6 +99,8 @@ En la siguiente tabla se muestra un desglose detallado de los perfiles laborales
 | Total | \-  | 1.800 h | **46.113 € \*\*** |
 
 **\*\*** Los costes de cada perfil han sido calculados en base a los salarios mínimos brutos estipulados para empleados junior.
+
+Un detalle importante sobre el cálculo de los costes de los sueldos en la etapa de desarrollo es que el equipo ha decidió no incluir los costes de las cotizaciones sociales, esto se debe a que realmente no contratamos desarrolladores ya que nosotros mismos seremos los encargados de desarrollar el proyecto y al no contratar a nadie, no creemos que debamos tener en cuenta las cotizaciones sociales. Desde nuestro punto de vista, vemos estos costes de desarrollo como el dinero que tendríamos que ganar una vez el proyecto esté en producción como compensación por el tiempo que le hemos invertido al desarrollo de este mismo.
 
 A este coste habría que sumarle el coste de la licencia de hospedar el proyecto en GitHub. Para ello se ha escogido la opción de suscripción Team con un precio de 3,28 €/mes por usuario de la empresa, lo que hace un total de **39,36 €/mes** ya que somos 12 desarrolladores en el proyecto. Durante 4 meses lo que haría un total de **157,44€**.
 

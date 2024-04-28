@@ -573,6 +573,12 @@ ChatGPT nos da varias propuestas para empezar a tener público, como puede ser R
 Se han recopilado y resumido todas las prompt realizadas a cualquier tipo de Inteligencia Artificial a la hora del desarrollo o planificación del proyecto.
 El equipo estima que se han producido unos 21.6 g de CO2 por nuestras consultas a inteligencias arfiticiales hasta el momento.
 
+### **Generación de videos para las redes sociales**
+
+El siguiente video ha sido generado por una Inteligencia artificial https://vm.tiktok.com/ZGe9WQg97/
+
+Concretamente la IA que ha generado el video es: https://www.veed.io/
+
 # **BIBLIOGRAFÍA**
 
 Intencionalmente vacío
