@@ -740,7 +740,6 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Me he encargado de subir contenido a las redes sociales, en concreto a TikTok, donde he subido diferentes vídeos promocionando la aplicación y mostrando su funcionalidad. A continuación, he dejado los enlaces a los vídeos subidos:
     - [Vídeo 1](https://www.tiktok.com/@shar3d_2024/video/7362597909163969824)
     - [Vídeo 2](https://www.tiktok.com/@shar3d_2024/video/7362927259818216737)
-    - [Vídeo 3]()
 
 - Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
 - Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
