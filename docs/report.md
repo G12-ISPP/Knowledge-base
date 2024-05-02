@@ -24,6 +24,7 @@
 | v2.5 | Conversión a MarkDown | García Linares, Diego | 08/03/2024 |
 | v3.0 | Actualización para el sprint 2 | Campos Garrido, Juan Jesús | 30/03/2024 |
 | v3.1 | Actualización tras la semana 8 | Campos Garrido, Juan Jesús | 03/04/2024 |
+| v3.2 | Actualización tras la semana 11 | Campos Garrido, Juan Jesús | 02/04/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**
@@ -135,6 +136,18 @@ Grupos de tarde -> Presentación -> Semana 9:
 - Hay que redimensionar las presentaciones para que se adapten al proyector.
 
 - Hay que mantener la uniformidad en los elemntos de las presentaciones como las gráficas.
+
+Grupos de tarde -> Segmentación de mercado -> Semana 11:
+
+- Para respaldar la segmentación de mercado, en las presentaciones hay que incluir perfiles.
+
+Grupos de tarde -> Inicio efectivo -> Semana 11:
+
+- Añadir un apoyo visual al killer opener para que sea más efectivo.
+
+Grupos de tarde -> Análisis de costes -> Semana 11:
+
+- En la gráfica de costes vs beneficios, añadir la previsión de usuarios en los costes y beneficios de cada caso.
 
 ### **ACCIONES DE MEJORA TOMADAS**
 
