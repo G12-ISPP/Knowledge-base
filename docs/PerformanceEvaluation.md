@@ -18,7 +18,7 @@
 </div>
 Cada integrante del equipo ha incluido su aportación y su nota
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -**
 
@@ -38,6 +38,8 @@ Cada integrante del equipo ha incluido su aportación y su nota
 [**CONTRIBUCIONES EN LA FASE DE SPRINT 2**](#contribuciones-en-la-fase-de-sprint-2)
 
 [**CONTRIBUCIONES EN LA FASE DE SPRINT 3**](#contribuciones-en-la-fase-de-sprint-3)
+
+[**CONTRIBUCIONES EN LA FASE DE PPL**](#contribuciones-en-la-fase-de-ppl)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -68,7 +70,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Baquero Villena, Carlos | 10  | 10  |  10 | 10    |     |     | 40    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
-| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   |     |     | 40    | 1   |
+| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10    |     | 50    | 1   |
 | Cortabarra Romero, David |  10  |  10  |  10  | 10  |     |     | 40    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10  |     |     | 40 | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9   |     |     | 38    | 0.95   |
@@ -726,7 +728,24 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Realicé pruebas exhaustivas para la funcionalidad de cierre de cuentas por parte del administrador.
 - Verifiqué el correcto despliegue del Backend.
 
+## **CONTRIBUCIONES EN LA FASE DE PPL**
 
+### **Carretero Díaz, Antonio**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Me he encargado de solucionar un problema que había en la aplicación con el seguimiento del pedido.
+- Me he encargado de solucionar un problema que había en la aplicación relacionado con el envío de mensajes del chat.
+- Me he encargado de subir contenido a las redes sociales, en concreto a TikTok, donde he subido diferentes vídeos promocionando la aplicación y mostrando su funcionalidad. A continuación, he dejado los enlaces a los vídeos subidos:
+    - [Vídeo 1](https://www.tiktok.com/@shar3d_2024/video/7362597909163969824)
+    - [Vídeo 2](https://www.tiktok.com/@shar3d_2024/video/7362927259818216737)
+
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
+- He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
+- He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
 
 ## **CONCLUSIONES**
 
