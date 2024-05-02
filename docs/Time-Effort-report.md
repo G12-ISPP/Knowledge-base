@@ -367,6 +367,11 @@ Carlos**
 ![](/img/timeEffort//TE-ASF-01.png)
 ![](/img/timeEffort//TE-ASF-02.png)
 
+### **FASE DE PPL**
+
+## **Carretero Díaz, Antonio**
+![](/img/timeEffort//TE-ACD-03.png)
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.
