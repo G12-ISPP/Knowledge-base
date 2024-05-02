@@ -4,13 +4,13 @@
 
 ## **SHAR3D**
 
-#### 18/04/2024
+#### 5/05/2024
 
 # **FAILURE CONDITIONS REVIEW**
 
 ### **CONTROL DE VERSIONES**
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -**
 
@@ -21,6 +21,7 @@
 | v0.5 | Numeración de las failure conditions | Campos Garrido, Juan Jesús| 26/03/2024 |
 | v1.0 | Revisión de todas las failure conditions | Campos Garrido, Juan Jesús | 31/03/2024 |
 | v2.0 | Revisión de todas las failure conditions para el Sprint 3 | Campos Garrido, Juan Jesús | 18/04/2024 |
+| v3.0 | Revisión de todas las failure conditions para el PPL | Campos Garrido, Juan Jesús | 05/05/2024 |
 
 Este documento tiene como finalidad revisar todas las Failure Conditions y asegurarse de que no se cumple ninguna de cara al entregable del tercer sprint. Para esto haremos un listado de todas las Failure Conditions y argumentaremos la razón por la que las incumplimos todas.
 
@@ -33,11 +34,11 @@ I-2) Failure to respond to random feedback questions regarding a task that is pa
  - Cada integrante se responsabilizará de estar preparado para responder a cualquier pregunta sobre las tareas que han realizado.
 
 I-3) Not including (and performing) an issue in your working planning for watching each theory pill shared inthe EV content. Such an issue must also be tracked with Clockify, and the name must be“watch_theory_pill_X” where X is the name of the theory pill name.
- - En este sprint se ha publicado una theory pill y se ha creado una issue para ver dicha theory pill, concretamente es la issue #370 con nombre watch_theory_pill_GDPR and UX y cada integrante se responsabiliza individualmente de verla, por lo que si alguien no la ve y suspende el entregable es su responsabilidad.
+ - En este sprint se ha publicado una theory pill y se ha creado una issue para ver dicha theory pill, concretamente es la issue #449 con nombre watch_theory_pill_on market segmentation_traction_and_community_management y cada integrante se responsabiliza individualmente de verla, por lo que si alguien no la ve y suspende el entregable es su responsabilidad.
 
 ### Team failure conditions:
 T-1) Failure to give notice (at the beginning of an evaluation class) that a member is absent.
-- Como la asistencia es una responsabilidad, si algún compañero no acude a la clase de evaluación, el equipo lo comentará a los profesores para evitar suspender. Concretamente en el pasado sprint un compañero no pudo venir y días antes lo comunicó al coordinador de la asignatura, a pesar de esto, varios integrantes del equipo notificamos a los profesores la ausencia de nuestro compañero.
+- Como la asistencia es una responsabilidad individual, si algún compañero no acude a la clase de evaluación, el equipo lo comentará a los profesores para evitar suspender.
 
 T-2) Taking longer than the stipulated time for the presentation (even if it is only a few seconds).
 - Los presentadores del equipo trabajarán la presentación para no tardar ni un segundo más de lo debido.
@@ -82,8 +83,8 @@ T-9) Failure to make a correct delivery considering the following instructions c
 7. Commitment Agreement (at least considering version, status, etc.) (commitmentAgreement.md). -> Dentro de la carpeta docs está el archivo [commitmentAgreement.md](/docs/commitmentAgreement)
 8. Pilot Users Commitment Agreement or Agreements (at least considering version, status, etc.)(pilotUsersCommitmentAgreement.md or several of them). -> Dentro de la carpeta docs está el archivo [pilotUsersCommitmentAgreement.md](/docs/pilotUsersCommitmentAgreement)
 9. Any other document or video you consider should be in md, pdf, ppt, pptx or mp4 format. -> Se incluirán otros documentos generados para anteriores entregables que han sido mejorados así como la demo de este sprint.
-+ Include a proper Tag for the delivered version of the code and documentation (e.g. 0.1 for #DPdeliverable, 1.0 for #S1 deliverable, ...).-> Se hará un despliegue con la Tag 3.0 porque estamos en el tercer sprint
-+ Perform a GitHub release linking the proper tag, which must include a zip file with all repository content. -> Incluiremos la Tag 3.0 y se subirá un zip con el contenido del repo en el momento de la release y además se generará un changelog de la base de conocimiento
++ Include a proper Tag for the delivered version of the code and documentation (e.g. 0.1 for #DPdeliverable, 1.0 for #S1 deliverable, ...).-> Se hará un despliegue con la Tag 4.0 porque estamos en la fase de PPL
++ Perform a GitHub release linking the proper tag, which must include a zip file with all repository content. -> Incluiremos la Tag 4.0 y se subirá un zip con el contenido del repo en el momento de la release y además se generará un changelog de la base de conocimiento
 
 
 Starting at deliverable #S3:
@@ -112,7 +113,7 @@ T-12) Not including in the docs repository folder all information received from 
 
 T-13) -> No existe, entendemos que ha habido un error y se la han saltado sin querer o simplemente las condiciones de aquí en adelante tienen un número que no les corresponde.
 
-T-14) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows: Deployed Software review -> El integrante del equipo Juan Jesús Campos Garrido se ha encargado de revisar que en el software desplegado funciona correctamente, además lo probará de nuevo al grabar la demo para la presentación
+T-14) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows: Deployed Software review -> Los integranttes del equipo Juan Jesús Campos Garrido, Antonio Carretero Díaz y Alejandro Santiago Félix se han encargado de revisar que en el software desplegado funciona correctamente, además se probará de nuevo al grabar la demo para la presentación
 
 T-15) Having text in the slides that is not readable from the back of the class. -> El encargado de revisar las presentaciones comprobará que todo el contenido es facilmente legible desde la distancia
 
