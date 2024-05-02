@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 21/04/2024
+#### 05/05/2024
 
 # **INFORME DE USO DE IA**
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -**
 
@@ -568,16 +568,24 @@ Se le pregunta a ChatGPT como podemos empezar el marketing para ganar tracción 
 
 ChatGPT nos da varias propuestas para empezar a tener público, como puede ser Redes Sociales, Colaboraciones o asistir a eventos o ferias.
 
-## **CONCLUSIONES**
 
-Se han recopilado y resumido todas las prompt realizadas a cualquier tipo de Inteligencia Artificial a la hora del desarrollo o planificación del proyecto.
-El equipo estima que se han producido unos 21.6 g de CO2 por nuestras consultas a inteligencias arfiticiales hasta el momento.
+# Imagenes de pedidos
+
+Se ha utilizado a DALL-E 3 para generar las fotos de las cajas de los pedidos.
+
+![image](https://github.com/G12-ISPP/Knowledge-base/assets/72869496/a3cc81ba-943c-4bbd-a02b-3ab0fd757a91)
 
 ### **Generación de videos para las redes sociales**
 
 El siguiente video ha sido generado por una Inteligencia artificial https://vm.tiktok.com/ZGe9WQg97/
 
 Concretamente la IA que ha generado el video es: https://www.veed.io/
+
+## **CONCLUSIONES**
+
+Se han recopilado y resumido todas las prompt realizadas a cualquier tipo de Inteligencia Artificial a la hora del desarrollo o planificación del proyecto.
+El equipo estima que se han producido unos 21.6 g de CO2 por nuestras consultas a inteligencias arfiticiales hasta el momento.
+
 
 # **BIBLIOGRAFÍA**
 
