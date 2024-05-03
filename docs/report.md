@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 03/04/2024
+#### 05/05/2024
 
 # **REPORTE DE LA BASE DE CONOCIMIENTO GENERAL**
 
-### **SPRINT 3**
+### **PPL**
 
 ### **GRUPO 12**
 
@@ -24,7 +24,7 @@
 | v2.5 | Conversión a MarkDown | García Linares, Diego | 08/03/2024 |
 | v3.0 | Actualización para el sprint 2 | Campos Garrido, Juan Jesús | 30/03/2024 |
 | v3.1 | Actualización tras la semana 8 | Campos Garrido, Juan Jesús | 03/04/2024 |
-| v3.2 | Actualización tras la semana 11 | Campos Garrido, Juan Jesús | 02/04/2024 |
+| v3.2 | Actualización tras la semana 11 | Campos Garrido, Juan Jesús | 02/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**

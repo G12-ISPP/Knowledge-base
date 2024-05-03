@@ -8,7 +8,7 @@
 
 # **POLÍTICA DE PRIVACIDAD**
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -**
 

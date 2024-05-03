@@ -8,7 +8,7 @@
 
 # **CUSTOMER AGREEMENT**
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -**
 

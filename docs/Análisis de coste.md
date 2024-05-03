@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 28/04/2024
+#### 05/05/2024
 
 # **ANÁLISIS DE COSTE**
 
@@ -26,6 +26,7 @@
 | v2.0.0 | Revisión para la entrega del sprint 2 | Campos Garrido, Juan Jesús | 31/03/2024 |
 | v3.0.0 | Versión para el sprint 3 con los costes del CM y GDPR officer | 21/04/2024 |
 | v3.1.0 | Justificación por las cotizaciones sociales | Campos Garrido, Juan Jesús | 28/04/2024 |
+| v3.1.1 | Revisión documento para evitar failure conditions | Campos Garrido, Juan Jesús | 05/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**

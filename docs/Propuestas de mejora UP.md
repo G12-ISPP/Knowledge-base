@@ -4,12 +4,12 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 29/04/2024
 
 # **PROPUESTAS DE MEJORAS POR LOS USUARIOS PILOTO**
 
 
-### **SPRINT 2**
+### **PPL**
 
 ### **- GRUPO 12 -** 
 
@@ -20,6 +20,7 @@
 | v0.1 | Creación del documento | Carretero Díaz, Antonio | 13/03/2024 |
 | v1.0 | Añadida informaicón del primer sprint    |  Campos Garrido, Juan Jesús   | 13/03/2024 |
 | v2.0 | Añadida informaicón del segundo sprint    | Campos Garrido, Juan Jesús    | 31/03/2024 |
+| v3.0 | Añadida información de PPL | Campos Garrido, Juan Jesús | 29/04/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**
@@ -190,26 +191,19 @@ En este documento se resumirán todas las propuestas de mejora que se han podido
 
 | Propuesta | Acción | Estado | Id |
 | --- | --- | --- | --- |
-| Añadir mensaje en el carrito cuando se quiera aumentar la cantidad de un diseño que se quiera comprar, para notificar que cada diseño solo se puede comprar de uno en uno | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-1 |
-| Cuando haces un comentario con 200 caracteres, el texto se sale del cuadro | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-2 |
-| El listado de reportes, se ve mal, cuando una imagen es muy grande se descuadra todo y no se ve bien | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-3 |
-| Cuando creas un post y usas más de 20 caracteres en el título, dice que el título no puede tener más de 50 caracteres. | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-3 |
-| Los iconos de instagram, X y facebook no cuentan con una url destino, con lo cual cuando lo pulsas solo recarga la pagina principal, la solucion seria ponerle el link destino de la red social a la que pertenece. Un fallo muy tonto que he apreciado es que twitter(o X) su icono ya no es un parajo, es una X.  | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-4 |
+| Añadir mensaje en el carrito cuando se quiera aumentar la cantidad de un diseño que se quiera comprar, para notificar que cada diseño solo se puede comprar de uno en uno | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-1 |
+| Cuando haces un comentario con 200 caracteres, el texto se sale del cuadro | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-2 |
+| El listado de reportes, se ve mal, cuando una imagen es muy grande se descuadra todo y no se ve bien | Se corregirá de cara a un futuro |<<span style={{backgroundColor:"#00ff00"}}> Implementado </span> | PPL-3 |
+| Cuando creas un post y usas más de 20 caracteres en el título, dice que el título no puede tener más de 50 caracteres. | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-3 |
+| Los iconos de instagram, X y facebook no cuentan con una url destino, con lo cual cuando lo pulsas solo recarga la pagina principal, la solucion seria ponerle el link destino de la red social a la que pertenece. Un fallo muy tonto que he apreciado es que twitter(o X) su icono ya no es un parajo, es una X.  | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span> | PPL-4 |
 | Si no pago en la pasarela de pago se borran los items de mi carrito | La aplicación está implementada así por temas de seguridad, sabemos que puede ser engorroso si vamos a la pasarela de pago y se nos había olvidado algo, pero así conseguirmos que la aplicaicón sea más segura | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
-| He conseguido crear una cuenta sin añadir ningun caracter especial a la constraseña. La contraseña que he usado es vivaelBETIS12 | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-5 |
-| Al subir una publicacion con mas de 300 caracteres el mensaje de error es que no puede tener mas de 300, pero si bajo hasta 299 me dice que el limite es 75 | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-6 |
-| Al aumentar la cantidad en editar productos da error. | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-7 |
-| En el listado de pedidos, buscar nueva imagen estandar para los pedidos que no sea de ningún elemento de la aplicación, esta imagen puede ser algo así como un texto de pedido | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-8 |
-| Si no se puede comentar dos veces en el mismo post no debería aparecer el botón |Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-9 |
-| Cambiar icono de ajustes por icono de una impresora | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-10 |
-| Hacer que cuando alguien cancele un plan vendedor o diseñador, todos sus productos destacados pasen a no estarlo |Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-11 |
-|  | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| He conseguido crear una cuenta sin añadir ningun caracter especial a la constraseña. La contraseña que he usado es vivaelBETIS12 | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-5 |
+| Al subir una publicacion con mas de 300 caracteres el mensaje de error es que no puede tener mas de 300, pero si bajo hasta 299 me dice que el limite es 75 | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-6 |
+| Al aumentar la cantidad en editar productos da error. | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-7 |
+| En el listado de pedidos, buscar nueva imagen estandar para los pedidos que no sea de ningún elemento de la aplicación, esta imagen puede ser algo así como un texto de pedido | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-8 |
+| Si no se puede comentar dos veces en el mismo post no debería aparecer el botón |Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-9 |
+| Cambiar icono de ajustes por icono de una impresora | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-10 |
+| Hacer que cuando alguien cancele un plan vendedor o diseñador, todos sus productos destacados pasen a no estarlo |Se corregirá de cara a un futuro |<span style={{backgroundColor:"#00ff00"}}> Implementado </span>  | PPL-11 |
 
 
 

@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 18/04/2024
+#### 05/05/2024
 
 # **GUÍA DE REVISIÓN**
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -**
 
@@ -25,6 +25,7 @@
 | v2.5 | Actualización capturas funcionalidades sprint2 y sprint 1| Campos Garrido, Juan Jesús | 11/04/2024 |
 | v3.0 | Nuevas funcionalidades sprint 3 | Mera Gómez, Pablo | 11/04/2024 |
 | v3.1 | Actualización de capturas tras correcciones | Campos Garrido, Juan Jesús | 18/04/2024 |
+| v3.2 | Revisión previa a la entrega del PPL | Campos Garrido, Juan Jesús | 05/05/2024 |
 
 </div>
 

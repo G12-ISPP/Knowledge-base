@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 21/04/2024
+#### 05/05/2024
 
 # **METODOLOGÍA DE DESARROLLO**
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -** 
 
@@ -23,6 +23,7 @@
 | v1.5.0 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
 | v2.0.0 | Revisión en el sprint 2 para evitar failure conditions | Campos Garrido, Juan Jesús | 31/03/2024 |
 | v2.0.1 | Revisión en el sprint 3 para evitar failure conditions | Campos Garrido, Juan Jesús | 21/04/2024 |
+| V2.0.2 | Revisión documento para evitar failure conditions | Campos Garrido, Juan Jesús | 05/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**

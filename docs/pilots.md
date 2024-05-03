@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 21/04/2024
+#### 05/05/2024
 
 # **PLAN DE GESTIÓN DE USUARIOS PILOTOS**
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -** 
 
@@ -24,6 +24,7 @@
 | v1.2 | Actualizado estado usuarios | Campano Galán, Alejandro | 27/02/2024 |
 | v1.5 | Conversión a Markdown | García Linares, Diego | 8/03/2024 |
 | v2.0 | Revisión en el sprint 3 para evitar failure conditions | Campos Garrido, Juan Jesús | 21/04/2024 |
+| v2.1 | Revisión documento para evitar failure conditions | Campos Garrido, Juan Jesús | 05/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**
