@@ -72,9 +72,9 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |     | 50    | 1   |
 | Cortabarra Romero, David |  10  |  10  |  10  | 10  |     |     | 40    | 1   |
-| Escalante Ramos, María | 10 | 10 | 10 | 10  |     |     | 40    | 1 |
+| Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 |     | 50 | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9   |     |     | 38    | 0.95   |
-| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  |     |     | 40    | 1   |
+| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  |     |     | 40    | 1   |
 | Mera Gómez, Pablo | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
@@ -764,6 +764,27 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en las sesiones de retrospectiva.
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
+
+### **Escalante Ramos, María**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- Junto a Alejandro García nos hemos encargado de subir contenido a las redes sociales, en concreto a Instagram, donde hemos subido la mayoría de las publicaciones existentes
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He realizado los videos de anuncio para atraer clientes junto a Alejandro García
+- He realizado la demo utilazada en las presentaciones junto a Alejandro García
+
+### **García Sánchez-Hermosilla, Alejandro**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Junto a María Escalante nos hemos encargado de subir contenido a las redes sociales, en concreto a Instagram, donde hemos subido la mayoría de las publicaciones existentes
+- He creado canciones para hacer una introducción a la demo de la aplicación
+- He realizado una publicacion sobre la demo en tiktok
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He realizado los videos de anuncio para atraer clientes junto a María Escalante
+- He realizado la demo utilazada en las presentaciones junto a María Escalante
 
 ### **Santiago Félix, Alejandro**
 
