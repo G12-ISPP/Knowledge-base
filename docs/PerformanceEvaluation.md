@@ -66,19 +66,19 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 <div class="markdown-table">
 
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
-| --- | --- | --- |-----|-----| --- | --- |-------| --- |
+| --- | --- | --- |-----|-----|-----| --- |-------| --- |
 | Baquero Villena, Carlos | 10  | 10  |  10 | 10    |     |     | 40    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
-| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10    |     | 50    | 1   |
+| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |     | 50    | 1   |
 | Cortabarra Romero, David |  10  |  10  |  10  | 10  |     |     | 40    | 1   |
-| Escalante Ramos, María | 10 | 10 | 10 | 10  |     |     | 40 | 1 |
+| Escalante Ramos, María | 10 | 10 | 10 | 10  |     |     | 40    | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9   |     |     | 38    | 0.95   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  |     |     | 40    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  |     |     | 40    | 1   |
-| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |     |     | 40 | 1   |
-| Reyes Alés, David | 10  | 10  | 10  | 10  |     |     | 40 | 1   |
-| Santiago Félix, Alejandro | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Reyes Alés, David | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
 | **Total** | **120** | **120** | **119**    |  **119**   |     |     |       | **11,95**    |
 </div>
 
@@ -712,7 +712,8 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 ### **Santiago Félix, Alejandro**
 - Asistí puntualmente a todas las clases de esta fase.
 - Visualicé todos los videos correspondientes a la fase.
-- Revisé y gestioné las solicitudes de extracción (PR).
+- Revisé y gestioné las pull request.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
 - Corregí un problema que causaba errores al cargar imágenes para las fotos de perfil.
 - Resolví inconvenientes relacionados con la paleta de colores en las opiniones.
 - Amplié las restricciones en el proceso de registro.
@@ -746,6 +747,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en las sesiones de retrospectiva.
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
+
+### **Santiago Félix, Alejandro**
+
+- Asistí puntualmente a todas las clases de esta fase.
+- Visualicé todos los vídeos correspondientes a la fase.
+- Revisé y gestioné las pull request.
+- Fui el usuario piloto representante del grupo 6 en el turno de mañana.
+- Realicé los despliegues del Backend y verifiqué su correcto funcionamiento.
+- Establecí y configuré las redes sociales desde cero.
+- Actualicé los anuncios y demostraciones en YouTube y adapté uno para TikTok e Instagram.
+    - [Vídeo 1](https://www.youtube.com/watch?v=UccNwqJ0yuQ)
+- Implementé todas las solicitudes aceptadas de los usuarios pilotos.
+
+
 
 ## **CONCLUSIONES**
 
