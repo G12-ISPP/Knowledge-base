@@ -381,7 +381,9 @@ Carlos**
 ![](/img/timeEffort//TE-ME-10.png)
 ![](/img/timeEffort//TE-ME-11.png)
 
-
+## **García Sánchez-Hermosilla, Alejandro**
+![](/img/timeEffort//TE-AG-03.png)
+![](/img/timeEffort//TE-AG-04.png)
 
 
 ## **Santiago Félix, Alejandro**
