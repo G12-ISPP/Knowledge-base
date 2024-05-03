@@ -376,6 +376,14 @@ Carlos**
 ## **Carretero Díaz, Antonio**
 ![](/img/timeEffort//TE-ACD-03.png)
 
+## **Escalante Ramos, María**
+![](/img/timeEffort//TE-ME-09.png)
+![](/img/timeEffort//TE-ME-10.png)
+![](/img/timeEffort//TE-ME-11.png)
+
+
+
+
 ## **Santiago Félix, Alejandro**
 ![](/img/timeEffort//TE-ASF-03.png)
 
