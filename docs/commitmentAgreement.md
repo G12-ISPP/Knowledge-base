@@ -3,7 +3,7 @@
 
 ## **SHAR3D**
 
-#### 04/02/2024
+#### 21/04/2024
 
 # **COMMITMENT AGREEMENT**
 
@@ -16,7 +16,7 @@
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
 
-### **2ª ENTREGA**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -**
 
@@ -57,6 +57,8 @@
 | v1.4.0 | Añadido compromiso de comunicación efectiva | Campos Garrido, Juan Jesús | 22/02/2024 |
 | v1.5.0 | Compromiso de todo el grupo con los nuevos apartados del acuerdo | Todos | 22/02/2024 |
 | v1.6.0 | Añadida referencia a la asignación de tareas en GitHub | Campos Garrido, Juan Jesús | 27/02/2024 |
+| v1.7.0 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
+| v1.7.1 | Revisión para entregar en el sprint 3 | Campos Garrido, Juan Jesús | 21/04/2024 |
 </div>
 
 # **RESUMEN EJECUTIVO**

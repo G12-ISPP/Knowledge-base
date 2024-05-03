@@ -18,7 +18,7 @@
 </div>
 Cada integrante del equipo ha incluido su aportación y su nota
 
-### **SPRINT 3**
+### **PPL**
 
 ### **- GRUPO 12 -**
 
@@ -38,6 +38,8 @@ Cada integrante del equipo ha incluido su aportación y su nota
 [**CONTRIBUCIONES EN LA FASE DE SPRINT 2**](#contribuciones-en-la-fase-de-sprint-2)
 
 [**CONTRIBUCIONES EN LA FASE DE SPRINT 3**](#contribuciones-en-la-fase-de-sprint-3)
+
+[**CONTRIBUCIONES EN LA FASE DE PPL**](#contribuciones-en-la-fase-de-ppl)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -64,20 +66,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 <div class="markdown-table">
 
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
-| --- | --- | --- |-----| --- | --- | --- |-------| --- |
-| Baquero Villena, Carlos | 10  | 10  |  10 |     |     |     | 30    | 1   |
-| Campano Galán, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10    |     |     | 40    | 1   |
-| Carretero Díaz, Antonio | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Cortabarra Romero, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Escalante Ramos, María | 10 | 10 | 10  |     |     |     | 30    | 1 |
-| García Linares, Diego | 10  | 10  | 9    | 9    |     |     | 38    | 0.95   |
-| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 |     |     |     | 30    | 1   |
-| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10    |     |     | 40    | 1   |
-| Mera Gómez, Pablo | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Reyes Alés, David | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| Santiago Félix, Alejandro | 10  | 10  | 10  |     |     |     | 30    | 1   |
-| **Total** | **120** | **120** | **119**    |     |     |     |       |     |
+| --- | --- | --- |-----|-----|-----| --- |-------| --- |
+| Baquero Villena, Carlos | 10  | 10  |  10 | 10    |     |     | 40    | 1   |
+| Campano Galán, Alejandro | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
+| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |     | 50    | 1   |
+| Cortabarra Romero, David |  10  |  10  |  10  | 10  |     |     | 40    | 1   |
+| Escalante Ramos, María | 10 | 10 | 10 | 10  |     |     | 40    | 1 |
+| García Linares, Diego | 10  | 10  | 9    | 9   |     |     | 38    | 0.95   |
+| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  |     |     | 40    | 1   |
+| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  |     |     | 40    | 1   |
+| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Reyes Alés, David | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
+| **Total** | **120** | **120** | **119**    |  **119**   |     |     |       | **11,95**    |
 </div>
 
 ## **CONTRIBUCIONES EN LA FASE DE DP**
@@ -337,6 +339,16 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado los tests correspondientes al componente del carrito comprobando las cosas con un carrito tanto lleno como vacío. En el vacío se comprueba que efectivamente no existen elementos y en el lleno se comprueba que existan ambos, que se puedan quitar y poner elementos y que además se puedan eliminar productos.
 - He resuelto diferentes incidencias relacionadas con diferentes partes del proyecto.
 
+### **Reyes Alés, David**
+
+- He contribuido asistiendo a todas las clases teóricas de esta fase.
+- He visto las pilladas teóricas correspondientes a este sprint.
+- He contribuido revisando PR de código de mis compañeros.
+- He creado la funcionalidad completa de chat, que formaba parte del MVP (habiendo probado a implementar websocket, decisión que hubo que cambiar por problemas de despliegue, y al final se migró a una arquitectura http).
+- He prestado atención al “feedback” de mis compañeros y he hecho los arreglos pertinentes en mi código
+- He participado en las revisiones visuales de las presentaciones de clase.
+- He contribuido en la documentación cuando se me requería.
+
 ### **Santiago Félix Alejandro**
 
 - He contribuido asistiendo a todas las clases de esta fase.
@@ -348,16 +360,6 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Creación de pruebas de detalles de producto, artista e impresoras.
 - Arreglo de integración continua en Frontend usando ahora el contenedor del Backend.
 - Arreglo del despliegue del Backend para que utilice los estáticos y creación de un manual para seguir un proceso en los próximos sprint
-
-### **David Reyes Alés**
-
-- He contribuido asistiendo a todas las clases teóricas de esta fase.
-- He visto las pilladas teóricas correspondientes a este sprint.
-- He contribuido revisando PR de código de mis compañeros.
-- He creado la funcionalidad completa de chat, que formaba parte del MVP (habiendo probado a implementar websocket, decisión que hubo que cambiar por problemas de despliegue, y al final se migró a una arquitectura http).
-- He prestado atención al “feedback” de mis compañeros y he hecho los arreglos pertinentes en mi código
-- He participado en las revisiones visuales de las presentaciones de clase.
-- He contribuido en la documentación cuando se me requería.
 
 ### **Mera Gómez, Pablo**
 
@@ -524,6 +526,18 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado pruebas sobre el backend de la aplicación, más en específico sobre la funcionalidad de subir diseños.
 - He revisado el análisis de competidores para comprobar cómo ha evolucionado el mercado.
 
+### **Reyes Alés, David**
+- He contribuido asistiendo a todas las clases teóricas de esta fase.
+- He visto las pilladas teóricas correspondientes a este sprint.
+- He contribuido revisando PR  de código de mis compañeros.
+- He creado  la funcionalidad completa de chat, haciéndola totalmente "responsive" que formaba parte del MVP (habiendo probado a implementar websocket, decisión que hubo que  cambiar por problemas de  despliegue, y al final se  migró a una arquitectura http).
+- He ejericido de usuario piloto para evaluar el proyecto de otros compañeros.
+- He prestado atención al “feedback” de mis compañeros y he hecho los arreglos pertinentes en mi código
+- He participado en las revisiones visuales de las presentaciones de clase.
+- He contribuido en la documentación cuando se me requería.
+- He asistido a las clases necesarias, excepto una, decisión tomada por el equipo para dedicar el tiempo al proyecto.
+- He participado en sesiones de retrospectiva.
+
 ### **Santiago Félix, Alejandro**
 - Asistencia a clases presenciales para mantenerme actualizado.
 - Revisión de todos los videos de esta fase para repasar temas previamente cubiertos.
@@ -539,19 +553,34 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Desarrollo de un sistema de verificación de la validez de direcciones de correo electrónico. 
 - Definición de un nuevo sistema de despliegue para abordar problemas de espacio.
 
-### **Reyes Alés, David**
-- He contribuido asistiendo a todas las clases teóricas de esta fase.
-- He visto las pilladas teóricas correspondientes a este sprint.
-- He contribuido revisando PR  de código de mis compañeros.
-- He creado  la funcionalidad completa de chat, haciéndola totalmente "responsive" que formaba parte del MVP (habiendo probado a implementar websocket, decisión que hubo que  cambiar por problemas de  despliegue, y al final se  migró a una arquitectura http).
-- He ejericido de usuario piloto para evaluar el proyecto de otros compañeros.
-- He prestado atención al “feedback” de mis compañeros y he hecho los arreglos pertinentes en mi código
-- He participado en las revisiones visuales de las presentaciones de clase.
-- He contribuido en la documentación cuando se me requería.
-- He asistido a las clases necesarias, excepto una, decisión tomada por el equipo para dedicar el tiempo al proyecto.
-- He participado en sesiones de retrospectiva.
-
 ## **CONTRIBUCIONES EN LA FASE DE SPRINT 3**
+
+### **Baquero Villena, Carlos**
+
+- He contribuido asistiendo a una clase en esta fase.
+- He visualizado todas las píldoras teóricas de esta fase.
+- He asistido a todas las reuniones de retrospectiva de esta fase.
+- He realizado varios tests y corregido las funcionalidades de los distintos planes.
+- He realizado la funcionalidad de dar me gusta a un post.
+- He realizado tests sobre la foto de perfil en el registro de usuario.
+- He revisado las pull requests de mis compañeros.
+- He resumido los conceptos principales de las píldoras teóricas de las semanas 8 y 9.
+- He probado la funcionalidad de Lista de seguidos.
+- He hecho de usuario piloto para la aplicación Ciao Lavoro.
+- He realizado varias mejoras que nuestros usuarios pilotos nos han propuesto.
+
+### **Campano Galán, Alejandro**
+
+- He contribuido asistiendo a una clases de esta fase.
+- He visto todos los videos de dicha fase.
+- Me he encargado de realizar distintas implementaciones que han propuesto los usuarios pilotos.como distintas mejoras en el carrito y en el apartado de planes.
+-He asistido a todas las reuniones de retrospectiva.
+-He realizado toda la funcionalidad correspondiente a los reportes de usuarios.
+- He realizado la funcionalidad correspondiente a listar los post en la comunidad de una persona.
+- He realizado la funcionalidad correspondiente a ver los detalles de los post de la comunidad.
+- He sido usuario piloto en la aplicación del grupo 6 (Ciao Lavoro).
+- He realizado una mejora solicitada en el listado de reportes para poder filtrar.
+- He realizado revisión de código de mis compañeros en las distintas pull request.
 
 ### **Campos Garrido, Juan Jesús**
 
@@ -569,6 +598,49 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Me he encargado de revisar la aplicación una vez desplegada.
 - He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
 
+### **Carretero Díaz, Antonio**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- Me he encargado de realizar la funcionalidad del panel de administrador cuando inicias sesión como administrador en la aplicación y de listar a todos los usuarios dentro del panel del administrador.
+- Me he encargado de implementar la funcionalidad de bloquear o desbloquear a un usuario desde los detalles del usuario o desde el listado de usuarios al iniciar sesión como administrador.
+- Me he asegurado de que la funcionalidad anterior fuese únicamente accesible por los administradores de la aplicación.
+- Me he encargado de arreglar algunos mostrados de imágenes de fotos de perfil en la aplicación.
+- Me he encargado de realizar la funcionalidad de realizar un comentario en un post.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
+- He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
+- He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
+
+### **Cortabarra Romero, David**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He participado en sesiones de retrospectiva.
+- Me he encargado de revisar diferentes pull request que se han ido subiendo a lo largo del sprint.
+- He contribuido realizando diferentes comentarios en las issues de GitHub asignadas a mí.
+- He ejercido de usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- He tomado nota de todo el feedback comentado hacia cada uno de los grupos de proyecto durante este segundo sprint.
+- He rediseñado al completo la página de detalles de producto, así como he hecho responsive dicho rediseño.
+- He corregido los estilos de la página de registro de usuario, los cuales se habían roto con la inclusión de nuevas funcionalidades.
+- He rediseñado al completo la página de solicitar impresión, así como he hecho responsive dicho rediseño.
+- He rediseñado al completo la página de subir un producto, así como he hecho responsive dicho rediseño.
+- He realizado múltiples correcciones de bugs visuales en la aplicación con el objetivo de mejorar la expresiencia de usuario.
+
+### **Escalante Ramos, María**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- He participado en todas las reuniones de retrospectiva del equipo a lo largo del sprint.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- He realizado revisión de código y he aprobado algunas pull requests.
+- He realizado los comentarios necesarios en las issues y pull requests.
+- He realizado junto a Alejandro García la primera y segunda versión del video anuncio del sistema.
+- He realizado el listado de reportes de productos para el administrador.
+- He realizado algunas mejoras sugeridas por los usuarios pilotos como revisar validaciones en el tamaño de los textos de un post, notificar de que un usuario esta bloqueado cuando intenta iniciar sesión y cancelar un plan.
+- He realizado un análisis de código mediante SonarCloud.
+
 ### **García Linares, Diego**
 
 - He contribuido asistiendo a las clases de manera presencial
@@ -584,6 +656,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He añadido que ahora un usuario no puede dejar múltiples reseñas sobre otro usuario.
 - He realizado tests de backend para reportar un producto.
 
+### **García Sánchez-Hermosilla, Alejandro**
+
+- He visto todos los videos de esta fase para hacer un recordatorio sobre los temas vistos en años anteriores
+- He participado en las sesiones de retrospectiva.
+- Me he encargado de revisar diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios en ellas
+- He contribuido realizando comentarios sobre las issues que se me han asignado.
+- He solucionado todos los fallos relacionados con la comunidad.
+- He realizado la funcionalidad de reportar un producto
+- He realizado junto con mi compañera María Escalante los videos de anuncios necesarios para este Sprint
+- He contribuido a realizar la funcionalidad de listado de reportes de productos
+- He sido usuario piloto para mis compañeros del grupo de mañana
+- He realziado la funcionalidad de completar una impresión para los custom design
+- He hecho revisiones continuas de codigo mediante sonarCloud y he realizado mejoras en su configuración
+
 ### **Garrucho Sánchez, Úrsula**
 
 - He contribuido asistiendo a las clases de manera presencial
@@ -598,6 +684,99 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He limpiado los console.log() del apartado de comunidad de Shar3d.
 - He realizado el apartado de mis solicitudes de impresión para que un usuario pueda ver qué solicitudes de impresión ha realizado.
 - He realizado tests de backend para la eliminación de un producto.
+
+### **Mera Gómez, Pablo**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto el vídeo de esta fase.
+- He participado en todas las reuniones de retrospectiva del equipo a lo largo del sprint.
+- Me he encargado de revisar diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios en ellas
+- He contribuido realizando comentarios sobre las issues que se me han asignado.
+- Me he encargado de actualizar la guía de revisión para añadir todas las funcionalidades añadidas durante este sprint.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- He añadido una funcionalidad para que los administradores y los usuarios que suban un producto puedan eliminarlo.
+- He añadido al perfil de cada usuario botones para que, de cada usuario, podamos saber a cuántos sigue y cuántos le siguen
+- Para lo anterior, he añadido que, pulsando sobre cualquiera de los 2 botones, te redirija a un listado de los usuarios correspondientes, pudiendo acceder a cada perfil desde el propio listado.
+
+### **Reyes Alés, David**
+
+- He asistido a todas las clases necesarias y/o dedicado tiempo extra a las clases no asistidas (Decisión tomada por todos).
+- He visualizado todas las píldoras dde teoría de este sprint.
+- He revisado solicitudes de cambio (PR).
+- He corregido errores mencionados en el feedback de los usuarios pilotos.
+- He hecho el sistema de cambio de estados del pedido a través de un enlace de un solo uso al email de los vendedores.
+- He realizado pruebas sobre la edición de perfil.
+- He realizado pruebas sobre la subida de una opinión.
+- He revisado todas las presentaciones, encargándome de mejorarlas visualmente.
+
+### **Santiago Félix, Alejandro**
+- Asistí puntualmente a todas las clases de esta fase.
+- Visualicé todos los videos correspondientes a la fase.
+- Revisé y gestioné las pull request.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Corregí un problema que causaba errores al cargar imágenes para las fotos de perfil.
+- Resolví inconvenientes relacionados con la paleta de colores en las opiniones.
+- Amplié las restricciones en el proceso de registro.
+- Implementé una verificación para asegurar la validez de las direcciones de correo electrónico.
+- Solucioné el problema de la longitud excesiva de los textos en las publicaciones.
+- Ajusté el tamaño de las imágenes en el listado de reportes.
+- Establecí que solo los usuarios con un plan pueden resaltar un producto.
+- Agregué restricciones para el envío de mensajes.
+- Realicé pruebas detalladas de la funcionalidad de las publicaciones.
+- Llevé a cabo la refactorización de aspectos específicos de las publicaciones.
+- Probé exhaustivamente la funcionalidad del listado de publicaciones.
+- Verifiqué el correcto funcionamiento de la función de "me gusta".
+- Realicé pruebas exhaustivas para la funcionalidad de cierre de cuentas por parte del administrador.
+- Verifiqué el correcto despliegue del Backend.
+
+## **CONTRIBUCIONES EN LA FASE DE PPL**
+
+### **Campos Garrido, Juan Jesús**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- Me he encargado de preparar y estudiar las cuatro presentaciones de la fase, además de presentar dichas presentaciones en clase y realizar tareas referentes a preparar las presentaciones como segmentar el mercado o hacer un planning de publicaciones.
+- Me he encargado de subir las issues de la planificación a GitHub.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- Me he encargado de recopilar el feedback de los usuarios piloto y de crear el documento con la recopilación de propuestas de mejora a partir de dicho feedback.
+- Me he encargado de subir algunas publicaciones a redes sociales como tik tok e instagram con contenido generado por mis compañeros, contenido como alguna demo etc.
+- He generado mis propias publicaciones para las redes sociales como pueden ser las siguientes:
+- https://vm.tiktok.com/ZGexnEJQj/
+- https://vm.tiktok.com/ZGexWSy8g/
+- https://vm.tiktok.com/ZGexWRqWX/
+- Me he encargado de revisar la aplicación una vez desplegada.
+- He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
+
+
+### **Carretero Díaz, Antonio**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Me he encargado de solucionar un problema que había en la aplicación con el seguimiento del pedido.
+- Me he encargado de solucionar un problema que había en la aplicación relacionado con el envío de mensajes del chat.
+- Me he encargado de subir contenido a las redes sociales, en concreto a TikTok, donde he subido diferentes vídeos promocionando la aplicación y mostrando su funcionalidad. A continuación, he dejado los enlaces a los vídeos subidos:
+    - [Vídeo 1](https://www.tiktok.com/@shar3d_2024/video/7362597909163969824)
+    - [Vídeo 2](https://www.tiktok.com/@shar3d_2024/video/7362927259818216737)
+
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
+- He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
+- He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
+
+### **Santiago Félix, Alejandro**
+
+- Asistí puntualmente a todas las clases de esta fase.
+- Visualicé todos los vídeos correspondientes a la fase.
+- Revisé y gestioné las pull request.
+- Fui el usuario piloto representante del grupo 6 en el turno de mañana.
+- Realicé los despliegues del Backend y verifiqué su correcto funcionamiento.
+- Establecí y configuré las redes sociales desde cero.
+- Actualicé los anuncios y demostraciones en YouTube y adapté uno para TikTok e Instagram.
+    - [Vídeo 1](https://www.youtube.com/watch?v=UccNwqJ0yuQ)
+- Implementé todas las solicitudes aceptadas de los usuarios pilotos.
+
 
 
 ## **CONCLUSIONES**

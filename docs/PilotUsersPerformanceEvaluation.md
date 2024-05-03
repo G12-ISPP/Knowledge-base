@@ -4,10 +4,10 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 21/04/2024
 
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -** 
 
@@ -20,6 +20,7 @@
 | v1.0 | Evaluación para el sprint 1 | Campos Garrido, Juan Jesús | 02/03/2024 |
 | v1.5 | Conversión a MarkDown | García Linares, Diego | 08/03/2024 |
 | v2.0 | Evaluación para el sprint 2 | Campos Garrido, Juan Jesús | 30/03/2024 |
+| v3.0 | Evaluación para el sprint 3 | Campos Garrido, Juan Jesús | 21/04/2024 |
 
 </div>
 
@@ -54,7 +55,7 @@ Intencionalmente vacío.
 
 ## **CONTENIDOS**
 
-En primer lugar, nos gustaría comunicar que el equipo del que somos usuarios pilotos, es decir el grupo 6, nos comunicó que nos daría acceso a la aplicación y nos enviarían los formularios el viernes 1 de marzo de 2024 y que tendríamos hasta el domingo para darles feedback y, finalmente, el sábado 2 de marzo nos comunicaron que al final intentarían enviarnos la aplicación el domingo 3 de marzo y que nos darían de plazo hasta el miércoles 6 de marzo, por lo que no tuvimos mucho tiempo para darles feedback antes de la fecha de la entrega del sprint.
+En primer lugar, nos gustaría comunicar que el equipo del que somos usuarios pilotos, es decir el grupo 6, nos comunicó que nos daría acceso a la aplicación y nos enviarían los formularios el viernes 1 de marzo de 2024 y que tendríamos hasta el domingo para darles feedback y, finalmente, el sábado 2 de marzo nos comunicaron que al final intentarían enviarnos la aplicación el domingo 3 de marzo y que nos darían de plazo hasta el miércoles 6 de marzo, por lo que no tuvimos mucho tiempo para darles feedback antes de la fecha de la entrega del sprint 1.
 
 Si se quiere consultar el feedback proporcionado por el grupo 6 y por el resto de usuarios pilotos, se puede consultar en el archivo 12-PilotUsersFeedback
 
@@ -63,10 +64,10 @@ Si se quiere consultar el feedback proporcionado por el grupo 6 y por el resto d
 
 | **Factor** | **#S1** | **#S2** | **#S3** | **#PPL** | **#WPL** |
 | --- | --- | --- | --- | --- | --- |
-| Punctuality | 10  | 10  |     |     |     |
-| Feedback validity | 10  | 10 |     |     |     |
-| Feedback amount | 10  | 10 |     |     |     |
-| Feedback quality | 10  | 10 |     |     |     |
+| Punctuality | 10  | 10  | 10  |     |     |
+| Feedback validity | 10  | 10 | 10 |     |     |
+| Feedback amount | 10  | 10 | 10  |     |     |
+| Feedback quality | 10  | 10 | 10  |     |     |
 </div>
 
 ## **CONCLUSIONES**

@@ -163,29 +163,53 @@ En este documento se resumirán todas las propuestas de mejora que se han podido
 ### SPRINT 3
 | Propuesta | Acción | Estado | Id |
 | --- | --- | --- | --- |
-| Corregir estilos al subir post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-1 |
-| Corregir estilos conversión STL | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-2 |
-| Corregir las imagenes en las opiniones | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-3 |
-| Arreglar redireccion al subir un post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-4 |
-| Arreglar problema al subir varios post tanto en la comunidad como en mis post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-5 |
-| Corregir problema con las fotos en el chat | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-6 |
-| Corregir fallo al entrar en una de mis impresiones por imprimir | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-7 |
-| Revisar validaciones en el tamaño de los textos de un post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-8 |
-| Notificar de que un usuario esta bloqueado cuando intenta iniciar sesión | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-9 |
+| Corregir estilos al subir post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-1 |
+| Corregir estilos conversión STL | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-2 |
+| Corregir las imagenes en las opiniones | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-3 |
+| Arreglar redireccion al subir un post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-4 |
+| Arreglar problema al subir varios post tanto en la comunidad como en mis post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-5 |
+| Corregir problema con las fotos en el chat | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-6 |
+| Corregir fallo al entrar en una de mis impresiones por imprimir | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-7 |
+| Revisar validaciones en el tamaño de los textos de un post | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-8 |
+| Notificar de que un usuario esta bloqueado cuando intenta iniciar sesión | Esta propuesta será implementada de cara a la siguiente entrega  | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-9 |
 | Desarrollar apartado de preguntas y respuestas | No se implementará este apartado ya que en nuestra landing page tenemos un formulario de contacto donde se nos puede consultar cualquier cosa y la responderemos | <span style={{backgroundColor:"#ff0000"}}> Descartado</span> | |
 | No se permite usar contraseñas excesivamente largass | Hemos llegado a la conclusión de limitar las contraseñas a 30 caracteres | <span style={{backgroundColor:"#ff0000"}}> Descartado</span> | |
 | Problemas tras solicitar una imresión | Revisaremos este problema para ver porque se ha causado, pero ya ha habido otros usuarios piloto que han conseguido realizar solicitudes de impresión | <span style={{backgroundColor:"#0000ff"}}> En estudio </span> | S3-10 |
-| En la vista de producto aparece como que yo he subido productos que realmente no he subido | Revisaremos este error y lo corregiremos | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-11 |
-| Cancelar un plan | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-12 |
-| Comprobar la longitud de las publicaciones | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-13 |
-| Las imágenes del listado de reportes se ven muy grandes | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-14 |
-| Problemas al comprar sin estar logueado | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-15 |
-| El pop up de bienvenida tiene por encima precios y el carrito | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-16 |
-| Al vender productos podeis no mostrar el destacar si alguien no tiene el plan |Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-17 |
-| Limitar el tamaño de mensaje del chat | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-18 |
-| Poner en editar producto el mismo diseño que al crear producto | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-19 |
-| Aumentar el tamaño del botón de me gusta | Se implementara de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | S3-20 |
+| En la vista de producto aparece como que yo he subido productos que realmente no he subido | Revisaremos este error y lo corregiremos | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-11 |
+| Cancelar un plan | Se implementara de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-12 |
+| Comprobar la longitud de las publicaciones | Se implementara de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-13 |
+| Las imágenes del listado de reportes se ven muy grandes | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-14 |
+| Problemas al comprar sin estar logueado | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-15 |
+| El pop up de bienvenida tiene por encima precios y el carrito | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-16 |
+| Al vender productos podeis no mostrar el destacar si alguien no tiene el plan |Se implementara de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-17 |
+| Limitar el tamaño de mensaje del chat | Se implementara de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-18 |
+| Poner en editar producto el mismo diseño que al crear producto | Se implementara de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-19 |
+| Aumentar el tamaño del botón de me gusta | Se implementara de cara a un futuro | <span style={{backgroundColor:"#00ff00"}}> Implementado </span> | S3-20 |
 
+### PPL
+
+| Propuesta | Acción | Estado | Id |
+| --- | --- | --- | --- |
+| Añadir mensaje en el carrito cuando se quiera aumentar la cantidad de un diseño que se quiera comprar, para notificar que cada diseño solo se puede comprar de uno en uno | Se corregirá de cara a un futuro | <span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-1 |
+| Cuando haces un comentario con 200 caracteres, el texto se sale del cuadro | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-2 |
+| El listado de reportes, se ve mal, cuando una imagen es muy grande se descuadra todo y no se ve bien | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-3 |
+| Cuando creas un post y usas más de 20 caracteres en el título, dice que el título no puede tener más de 50 caracteres. | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-3 |
+| Los iconos de instagram, X y facebook no cuentan con una url destino, con lo cual cuando lo pulsas solo recarga la pagina principal, la solucion seria ponerle el link destino de la red social a la que pertenece. Un fallo muy tonto que he apreciado es que twitter(o X) su icono ya no es un parajo, es una X.  | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-4 |
+| Si no pago en la pasarela de pago se borran los items de mi carrito | La aplicación está implementada así por temas de seguridad, sabemos que puede ser engorroso si vamos a la pasarela de pago y se nos había olvidado algo, pero así conseguirmos que la aplicaicón sea más segura | <span style={{backgroundColor:"#ff0000"}}> Descartado </span> | |
+| He conseguido crear una cuenta sin añadir ningun caracter especial a la constraseña. La contraseña que he usado es vivaelBETIS12 | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-5 |
+| Al subir una publicacion con mas de 300 caracteres el mensaje de error es que no puede tener mas de 300, pero si bajo hasta 299 me dice que el limite es 75 | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-6 |
+| Al aumentar la cantidad en editar productos da error. | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-7 |
+| En el listado de pedidos, buscar nueva imagen estandar para los pedidos que no sea de ningún elemento de la aplicación, esta imagen puede ser algo así como un texto de pedido | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-8 |
+| Si no se puede comentar dos veces en el mismo post no debería aparecer el botón |Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-9 |
+| Cambiar icono de ajustes por icono de una impresora | Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-10 |
+| Hacer que cuando alguien cancele un plan vendedor o diseñador, todos sus productos destacados pasen a no estarlo |Se corregirá de cara a un futuro |<span style={{backgroundColor:"#ffff00"}}> En desarrollo </span>  | PPL-11 |
+|  | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
 
 

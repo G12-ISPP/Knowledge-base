@@ -109,7 +109,7 @@ Carlos**
 ![](/img/timeEffort//image46.png)
 
 ## **Escalante Ramos,María**
-![](/img/timeEffort//image7.png)
+![](/img/timeEffort//TE-ME-07.png)
 
 
 ![](/img/timeEffort//image16.png)
@@ -175,7 +175,7 @@ Carlos**
 ![](/img/timeEffort//image10.png)
 
 ## **Escalante Ramos,María**
-![](/img/timeEffort//image30.png)
+![](/img/timeEffort//TE-ME-08.png)
 
 ## **García Linares, Diego**
 ![](/img/timeEffort//image12.png)
@@ -255,11 +255,11 @@ Carlos**
 
 ## **Escalante Ramos, María**
 
-![](/img/timeEffort//image56.png)
+![](/img/timeEffort//TE-ME-04.png)
 
-![](/img/timeEffort//image57.png)
+![](/img/timeEffort//TE-ME-05.png)
 
-![](/img/timeEffort//image58.png)
+![](/img/timeEffort//TE-ME-06.png)
 
 
 ## **García Linares, Diego**
@@ -290,6 +290,12 @@ Carlos**
 
 ![](/img/timeEffort//image73.png)
 
+## **Reyes Alés, David**
+
+![](/img/timeEffort//image69.png)
+
+![](/img/timeEffort//image70.png)
+
 ## **Santiago Félix, Alejandro**
 
 ![](/img/timeEffort//image62.png)
@@ -300,30 +306,78 @@ Carlos**
 
 ![](/img/timeEffort//image59.png)
 
-![](/img/timeEffort//image58.png)
-
-## **Reyes Alés, David**
-
-![](/img/timeEffort//image69.png)
-
-![](/img/timeEffort//image70.png)
 
 ### **FASE DE SPRINT 3**
 
 **Reporte general**
+![](/img/timeEffort//TE-G-02.png)
+
+## **Baquero Villena, Carlos**
+![](/img/timeEffort//TE-CB-11.png)
+![](/img/timeEffort//TE-CB-12.png)
+![](/img/timeEffort//TE-CB-13.png)
+
+## **Campano Galán, Alejandro**
+![](/img/timeEffort//TE-ACG-01.png)
+![](/img/timeEffort//TE-ACG-02.png)
 
 ## **Campos Garrido, Juan Jesús**
 ![](/img/timeEffort//TE-JJ-05.png)
 ![](/img/timeEffort//TE-JJ-06.png)
 
+## **Carretero Díaz, Antonio**
+![](/img/timeEffort//TE-ACD-01.png)
+![](/img/timeEffort//TE-ACD-02.png)
+
+## **Cortabarra Romero, David**
+![](/img/timeEffort//TE-DC-01.png)
+![](/img/timeEffort//TE-DC-02.png)
+![](/img/timeEffort//TE-DC-03.png)
+
+## **Escalante Ramos, María**
+![](/img/timeEffort//TE-ME-01.png)
+![](/img/timeEffort//TE-ME-02.png)
+![](/img/timeEffort//TE-ME-03.png)
+
 ## **García Linares, Diego**
 
 ![](/img/timeEffort//image78.png)
+
+## **García Sánchez-Hermosilla, Alejandro**
+
+![](/img/timeEffort//TE-AG-01.png)
+![](/img/timeEffort//TE-AG-02.png)
 
 ## **Garrucho Sánchez, Úrsula**
 
 ![](/img/timeEffort//image77.png)
 
+## **Mera Gómez, Pablo**
+
+![](/img/timeEffort//TE-PMG-01.png)
+![](/img/timeEffort//TE-PMG-02.png)
+
+## **Reyes Alés, David**
+
+![](/img/timeEffort//TE-DRA-01.png)
+![](/img/timeEffort//TE-DRA-02.png)
+
+## **Santiago Félix, Alejandro**
+
+![](/img/timeEffort//TE-ASF-01.png)
+![](/img/timeEffort//TE-ASF-02.png)
+
+### **FASE DE PPL**
+
+## **Campos Garrido, Juan Jesús**
+![](/img/timeEffort//TE-JJ-07.png)
+![](/img/timeEffort//TE-JJ-08.png)
+
+## **Carretero Díaz, Antonio**
+![](/img/timeEffort//TE-ACD-03.png)
+
+## **Santiago Félix, Alejandro**
+![](/img/timeEffort//TE-ASF-03.png)
 
 ## **CONCLUSIONES**
 

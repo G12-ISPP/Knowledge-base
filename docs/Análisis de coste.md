@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 28/04/2024
 
 # **ANÁLISIS DE COSTE**
 
-### **SPRINT 2**
+### **PPL**
 
 ### **- GRUPO 12 -** 
 
@@ -24,6 +24,8 @@
 | v1.5.0 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
 | v1.6.0 | Corrección sobre el CAPEX | Campos Garrido, Juan Jesús | 10/03/2024 |
 | v2.0.0 | Revisión para la entrega del sprint 2 | Campos Garrido, Juan Jesús | 31/03/2024 |
+| v3.0.0 | Versión para el sprint 3 con los costes del CM y GDPR officer | 21/04/2024 |
+| v3.1.0 | Justificación por las cotizaciones sociales | Campos Garrido, Juan Jesús | 28/04/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**
@@ -90,11 +92,15 @@ En la siguiente tabla se muestra un desglose detallado de los perfiles laborales
 | Analistas de negocios | 23,65 €/h | 150 h | 3.547,50 € |
 | Especialista en QA | 30,46 €/h | 100 h | 3.046 € |
 | Especialistas en base de datos | 22,17 €/h | 100 h | 2.217 € |
-| Diseñadores gráfico | 20,15 €/h | 100 h | 2.015 € |
-| DevOps | 12,05 €/h | 150 h | 1.807,5 € |
+| Diseñadores gráfico | 20,15 €/h | 50 h | 1.007,5 € |
+| GDPR officer | 20,15 €/h | 50 h | 1.007,5 € |
+| Dev ops | 12,05 €/h | 30 h | 351,5€ |
+| Marketing | 12,05 €/h | 120 h | 1.446 € |
 | Total | \-  | 1.800 h | **46.113 € \*\*** |
 
 **\*\*** Los costes de cada perfil han sido calculados en base a los salarios mínimos brutos estipulados para empleados junior.
+
+Un detalle importante sobre el cálculo de los costes de los sueldos en la etapa de desarrollo es que el equipo ha decidió no incluir los costes de las cotizaciones sociales, esto se debe a que realmente no contratamos desarrolladores ya que nosotros mismos seremos los encargados de desarrollar el proyecto y al no contratar a nadie, no creemos que debamos tener en cuenta las cotizaciones sociales. Desde nuestro punto de vista, vemos estos costes de desarrollo como el dinero que tendríamos que ganar una vez el proyecto esté en producción como compensación por el tiempo que le hemos invertido al desarrollo de este mismo.
 
 A este coste habría que sumarle el coste de la licencia de hospedar el proyecto en GitHub. Para ello se ha escogido la opción de suscripción Team con un precio de 3,28 €/mes por usuario de la empresa, lo que hace un total de **39,36 €/mes** ya que somos 12 desarrolladores en el proyecto. Durante 4 meses lo que haría un total de **157,44€**.
 
@@ -112,13 +118,15 @@ Tras realizar un estudio sobre las plataformas de despliegue más utilizadas por
 
 Con esto en la mayoría de casos obtendremos una instancia con 6 núcleos de cpu 10 gb de ram y 20 de almacenamiento lo que puede soportar un total de 10.000 personas concurrentemente.
 
-Además del propio despliegue se ha decidido contratar a un técnico para que realice revisiones y mejoras correctivas mensuales del servicio de despliegue por un sueldo de 10 €/hora y 75 h/mes que da un total de **750 €/mes.**
+Además del propio despliegue se ha decidido contratar a un técnico para que realice revisiones, mejoras correctivas mensuales del servicio y se encarge de que se cumpla la GDPR por un sueldo de 10 €/hora y 75 h/mes que da un total de **750 €/mes.**
+
+Por otro lado, se contratará a alguien que haga de Community manager en alguna plataforma de freelancers, esto podría tener un coste de **200€/mes** a cambio de un post en cada una de nuestras redes sociales cada tres días.
 
 Además, debemos tener en cuenta el coste de GitHub para el técnico que realice las revisiones y mejoras correctivas lo que implicaría un gasto de **3,28€/mes.**
 
 También debemos de tener en cuenta que para mantener la calidad del código en el proyecto vamos a usar SonarCloud que tiene un precio de **11 €/mes** durante el tiempo que la aplicación esté desplegada.
 
-Lo que en resumen conlleva un coste operacional de **943,6€/mes**.
+Lo que en resumen conlleva un coste operacional de **1143,6€/mes**.
 
 ### **TCO**
 
@@ -136,11 +144,12 @@ OPEX:
 - Coste de licencias de GitHub durante el ciclo de vida del servicio 78,72€
 - Coste del despliegue 4.303,68€
 - Coste de licencias de SonarCloud al cabo de dos años del servicio 528€
-- Coste de las revisiones y mejoras continuas 18.000€
+- Coste de las revisiones, mejoras continuas y cumplimiento de la GDPR 18.000€
+- Coste del CM 4.800€
 
 A estos costes se añadirá una reserva de contingencia de 2.000€
 
-Por lo que en total el coste de propiedad del servicio al cabo de dos años será de 72.240,84 €
+Por lo que en total el coste de propiedad del servicio al cabo de dos años será de 77.040,84 €
 
 ### **RENTABILIDAD DEL NEGOCIO**
 
@@ -172,7 +181,7 @@ Teniendo en cuenta todas estas estimaciones y cálculos basados en datos estadí
 
 - Beneficio ventas: **14400€**
 
-Todo esto hace un total de **72.000€** en 2 años. Que comparándolo con los **72.240,84 €** que costaría la propiedad del servicio en ese mismo tiempo, nos da la seguridad de que recuperamos la inversión inicial y a partir del tercer año empezaríamos a ganar dinero.
+Todo esto hace un total de **72.000€** en 2 años. Que comparándolo con los **77.040,84 €** que costaría la propiedad del servicio en ese mismo tiempo, nos da la seguridad de que recuperamos la inversión inicial y a partir del tercer año empezaríamos a ganar dinero.
 
 En un escenario pesimista las suposiciones serían las siguientes:
 
@@ -186,7 +195,7 @@ Se estiman 100 transacciones mensuales, donde el precio por transacción sería 
 
 - Beneficio ventas: **7200€**
 
-Todo esto haría un total de **45.600€**, una cifra bastante inferior a los **72.240,84 €** que costaría la propiedad del servicio durante este periodo, en este escenario la aplicación podría llegar a ser rentable al cabo de varios años más, pero no a corto plazo, por lo que la aplicación no sería realmente sostenible.
+Todo esto haría un total de **45.600€**, una cifra bastante inferior a los **77.040,84 €** que costaría la propiedad del servicio durante este periodo, en este escenario la aplicación podría llegar a ser rentable al cabo de varios años más, pero no a corto plazo, por lo que la aplicación no sería realmente sostenible.
 
 En un escenario optimista las suposiciones serían las siguientes:
 
@@ -200,7 +209,7 @@ Se estiman 300 transacciones mensuales, donde el precio por transacción sería 
 
 - Beneficio ventas: **21600€**
 
-Todo esto haría un total de **117.600€**, una cifra superior a los **72.240,84 €** que costaría la propiedad del servicio durante este periodo, en este escenario la aplicación sería altamente rentable.
+Todo esto haría un total de **117.600€**, una cifra superior a los **77.040,84 €** que costaría la propiedad del servicio durante este periodo, en este escenario la aplicación sería altamente rentable.
 
 
 ## **CONCLUSIONES**

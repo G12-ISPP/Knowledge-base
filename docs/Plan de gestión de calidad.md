@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 21/04/2024
 
 ## **REALIZADO POR:**
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -** 
 
@@ -24,6 +24,7 @@
 | v1.5.0 | Nueva medición sobre el rendimiento individual | Campos Garrido, Juan Jesús | 23/02/2024 |
 | v1.6.0 | Conversión a Markdown | García Linares, Diego | 08/03/2024|
 | v2.0.0 | Revisión en el sprint 2 para evitar failure conditions | Campos Garrido, Juan Jesús | 31/03/2024 |
+| v3.0.0 | Revisión en el sprint 3 para evitar failure conditions | Campos Garrido, Juan Jesús | 21/04/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**

@@ -4,10 +4,13 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 05/05/2024
 
 # **INFORME DE USO DE IA**
 
+### **PPL**
+
+### **- GRUPO 12 -**
 
 ## **REALIZADO POR:**
 <div class="markdown-table">
@@ -19,10 +22,6 @@
 
 Cada integrante ha contribuido con sus propios prompts
 </div>
-
-### **SPRINT 2**
-
-### **- GRUPO 12 -**
 
 ### **ÍNDICE DE CONTENIDOS**
 <div class="markdown-center">
@@ -90,6 +89,8 @@ Cada integrante ha contribuido con sus propios prompts
 [**Consulta para errores SonarCloud (Phind)**](#_heading=h.tpyhybf2xkff)
 
 [**Consulta propiedad intelectual**](#problemas-con-la-propiedad-intelectual-de-terceros)
+
+[**Consulta para añadir un modal a la hora de eliminar un producto**] (#consulta-para-añadir-un-modal-a-la-hora-de-eliminar-un-producto)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -519,10 +520,72 @@ Se ha preguntado a Chat GPT como podemos proteger la propiedad intelectual de te
 
 Nos ha propuesto formas en las que podemos traspasar la responsabilidad a los usuarios que suban cosas que tengán derechos de copyright
 
+### **Consulta para añadir un modal a la hora de eliminar un producto**
+
+[https://chat.openai.com/share/dc6c9480-229d-44da-9d96-c93935aeddea](https://chat.openai.com/share/dc6c9480-229d-44da-9d96-c93935aeddea)
+
+**Preguntas**
+
+En esta consulta se le pregunta a ChatGPT que añada un modal para que, a la hora de eliminar un producto, haya un paso intermedio para confirmar si realmente quiere eliminarlo o no, ya que es una acción irreversible.
+
+**Respuesta**
+
+ChatGPT ha proporcionado un código en el cuál se añadía un modal y que ha servido como guía
+
+### **Consulta para subir un comentario en un post**
+
+[https://chat.openai.com/share/d428b695-54ed-4fc0-ad1a-68ceb3d65e97](https://chat.openai.com/share/d428b695-54ed-4fc0-ad1a-68ceb3d65e97)
+
+**Preguntas**
+
+Se ha solicitado a ChatGPT una pequeña idea sobre cuáles deberían ser los primeros pasos que debería dar para agregar a la aplicación la funcionalidad de añadir un comentario a un post publicado en el apartado de la comunidad.
+
+**Respuesta**
+
+ChatGPT ha proporcionado una serie de pasos a seguir para añadir la funcionalidad de añadir un comentario a un post publicado en la comunidad. Por ejemplo, se ha sugerido que se cree un nuevo modelo de comentario y se añada una relación con el modelo de post y una manera de integrar la funcionalidad de añadir un comentario en la interfaz de usuario.
+
+### **Consulta pruebas sobre la función de comentar**
+
+[https://chat.openai.com/share/551e163c-571b-4bd3-9444-707390513086](https://chat.openai.com/share/551e163c-571b-4bd3-9444-707390513086)
+
+**Preguntas**
+
+Se le solicita a ChatGPT que produzca varias pruebas unitarias sobre la función de comentar, a partir de otras pruebas de ejemplo y del código que debe probar.
+
+**Respuesta**
+
+ChatGPT proporciona una serie de test que siguen el formato del test que se le da como ejemplo y que prueban varios casos de uso de la función. Estos test solo han tenido que sufrir pequeñas modificaciones para que cumplan los estandares, pero se ha reducido bastante el tiempo de producción de dichos test.
+
+### **Consulta para comenzar el marketing**
+
+[https://chat.openai.com/share/771aaa7c-e66a-45e4-8a4c-9a97b45eea0b](https://chat.openai.com/share/771aaa7c-e66a-45e4-8a4c-9a97b45eea0b)
+
+**Preguntas**
+
+Se le pregunta a ChatGPT como podemos empezar el marketing para ganar tracción inicial
+
+**Respuesta**
+
+ChatGPT nos da varias propuestas para empezar a tener público, como puede ser Redes Sociales, Colaboraciones o asistir a eventos o ferias.
+
+
+# Imagenes de pedidos
+
+Se ha utilizado a DALL-E 3 para generar las fotos de las cajas de los pedidos.
+
+![image](https://github.com/G12-ISPP/Knowledge-base/assets/72869496/a3cc81ba-943c-4bbd-a02b-3ab0fd757a91)
+
+### **Generación de videos para las redes sociales**
+
+El siguiente video ha sido generado por una Inteligencia artificial https://vm.tiktok.com/ZGe9WQg97/
+
+Concretamente la IA que ha generado el video es: https://www.veed.io/
+
 ## **CONCLUSIONES**
 
 Se han recopilado y resumido todas las prompt realizadas a cualquier tipo de Inteligencia Artificial a la hora del desarrollo o planificación del proyecto.
 El equipo estima que se han producido unos 21.6 g de CO2 por nuestras consultas a inteligencias arfiticiales hasta el momento.
+
 
 # **BIBLIOGRAFÍA**
 

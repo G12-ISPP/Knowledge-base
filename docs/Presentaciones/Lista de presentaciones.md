@@ -13,3 +13,7 @@
 + [Presentación Semana 7](/pdf/Presentación-Semana-7.pdf)
 
 + [Presentación entrega Sprint 2](/pdf/Presentación-S2.pdf)
+
++ [Presentación Semana 7](/pdf/Presentación-Semana-8.pdf)
+
++ [Presentación entrega Sprint 3](/pdf/Presentación-S3.pdf)

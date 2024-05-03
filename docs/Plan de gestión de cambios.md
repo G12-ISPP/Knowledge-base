@@ -4,9 +4,9 @@
 
 ## **SHAR3D**
 
-#### 31/03/2024
+#### 21/04/2024
 
-### **SPRINT 2**
+### **SPRINT 3**
 
 ### **- GRUPO 12 -** 
 
@@ -18,7 +18,8 @@
 | v1.0 | Proceso de gestión del cambio inicial | Carretero Díaz, Antonio | 17/02/2024 |
 | v1.1 | Cambios sobre el proceso | Garrucho Sánchez, Úrsula  García Linares, Diego  Escalante Ramos, María | 18/02/2024 |
 | v1.5 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
-| v2.0 | Revisión para el sprint 2 para evitar failure conditions | Campos Garrido, Juan Jesús | 08/03/2024 |
+| v2.0 | Revisión para el sprint 2 para evitar failure conditions | Campos Garrido, Juan Jesús | 31/03/2024 |
+| v3.0 | Revisión en el sprint 3 para evitar failure conditions | Campos Garrido, Juan Jesús | 21/04/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**
