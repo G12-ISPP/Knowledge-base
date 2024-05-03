@@ -69,7 +69,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | --- | --- | --- |-----|-----|-----| --- |-------| --- |
 | Baquero Villena, Carlos | 10  | 10  |  10 | 10    |     |     | 40    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
-| Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |     | 50    | 1   |
 | Cortabarra Romero, David |  10  |  10  |  10  | 10  |     |     | 40    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10  |     |     | 40    | 1 |
@@ -730,6 +730,23 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Verifiqué el correcto despliegue del Backend.
 
 ## **CONTRIBUCIONES EN LA FASE DE PPL**
+
+### **Campos Garrido, Juan Jesús**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- Me he encargado de preparar y estudiar las cuatro presentaciones de la fase, además de presentar dichas presentaciones en clase y realizar tareas referentes a preparar las presentaciones como segmentar el mercado o hacer un planning de publicaciones.
+- Me he encargado de subir las issues de la planificación a GitHub.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- Me he encargado de recopilar el feedback de los usuarios piloto y de crear el documento con la recopilación de propuestas de mejora a partir de dicho feedback.
+- Me he encargado de subir algunas publicaciones a redes sociales como tik tok e instagram con contenido generado por mis compañeros, contenido como alguna demo etc.
+- He generado mis propias publicaciones para las redes sociales como pueden ser las siguientes:
+- https://vm.tiktok.com/ZGexnEJQj/
+- https://vm.tiktok.com/ZGexWSy8g/
+- https://vm.tiktok.com/ZGexWRqWX/
+- Me he encargado de revisar la aplicación una vez desplegada.
+- He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
+
 
 ### **Carretero Díaz, Antonio**
 
