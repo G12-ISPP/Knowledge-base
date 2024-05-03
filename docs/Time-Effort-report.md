@@ -369,6 +369,10 @@ Carlos**
 
 ### **FASE DE PPL**
 
+## **Campos Garrido, Juan Jesús**
+![](/img/timeEffort//TE-JJ-07.png)
+![](/img/timeEffort//TE-JJ-08.png)
+
 ## **Carretero Díaz, Antonio**
 ![](/img/timeEffort//TE-ACD-03.png)
 
