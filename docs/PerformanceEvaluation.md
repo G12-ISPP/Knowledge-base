@@ -747,6 +747,15 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Me he encargado de revisar la aplicación una vez desplegada.
 - He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
 
+### **Campano Galán, Alejandro**
+
+- He contribuido asistiendo a una clases de esta fase.
+- He visto todos los videos de dicha fase.
+- He contribuido a grabar las demos.
+- He contribuido a realizar todo el enlace entre demo, anuncio y killer oppener, dedicando tiempo a realizar una introducción en la demo con parte de marketing.
+- He realizado el video de inversores y mejorado con el correspondiente feedback
+- He sido usuario piloto en el sistema de Ciao Lavoro
+
 
 ### **Carretero Díaz, Antonio**
 

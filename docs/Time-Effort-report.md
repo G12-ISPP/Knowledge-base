@@ -373,6 +373,10 @@ Carlos**
 ![](/img/timeEffort//TE-JJ-07.png)
 ![](/img/timeEffort//TE-JJ-08.png)
 
+## **Campano Galán, Alejandro**
+![](/img/timeEffort//TE-ACG-03.png)
+
+
 ## **Carretero Díaz, Antonio**
 ![](/img/timeEffort//TE-ACD-03.png)
 
