@@ -76,7 +76,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | García Linares, Diego | 10  | 10  | 9    | 9   |     |     | 38    | 0.95   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  |     |     | 40    | 1   |
-| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |     | 50    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
 | **Total** | **120** | **120** | **119**    |  **119**   |     |     |       | **11,95**    |
@@ -785,6 +785,18 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
 - He realizado los videos de anuncio para atraer clientes junto a María Escalante
 - He realizado la demo utilazada en las presentaciones junto a María Escalante
+
+### **Mera Gómez, Pablo**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- Me he encargado de realizar la encuesta para que los usuarios pilotos den feedback.
+- Me he encargado íntegramente de Twitter, tanto en generar contenido para la misma, publicarlo e intentar atraer al máximo número de usuarios.
+- He generado contenido que ayude a conocer la aplicación, además de publicarlo en las demás redes sociales. Un ejemplo es:
+    - [Vídeo](https://www.tiktok.com/@shar3d_2024/photo/7365094494942858529)
+- Me he encargado de recopilar noticias relacionadas con la impresión 3D para un posible podcast, comentarlas como artículos de interés en la comunidad o en redes sociales.
+
 
 ### **Santiago Félix, Alejandro**
 
