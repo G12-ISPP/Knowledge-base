@@ -76,7 +76,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | García Linares, Diego | 10  | 10  | 9    | 9   |     |     | 38    | 0.95   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  |     |     | 40    | 1   |
-| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |     | 50    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
 | **Total** | **120** | **120** | **119**    |  **119**   |     |     |       | **11,95**    |
