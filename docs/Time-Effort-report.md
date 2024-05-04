@@ -389,6 +389,11 @@ Carlos**
 ## **Santiago Félix, Alejandro**
 ![](/img/timeEffort//TE-ASF-03.png)
 
+## **Mera Gómez, Pablo**
+![](/img/timeEffort//TE-PMG-03.png)
+![](/img/timeEffort//TE-PMG-04.png)
+![](/img/timeEffort//TE-PMG-05.png)
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.

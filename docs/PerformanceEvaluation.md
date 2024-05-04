@@ -786,6 +786,18 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado los videos de anuncio para atraer clientes junto a María Escalante
 - He realizado la demo utilazada en las presentaciones junto a María Escalante
 
+### **Mera Gómez, Pablo**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- Me he encargado de realizar la encuesta para que los usuarios pilotos den feedback.
+- Me he encargado íntegramente de Twitter, tanto en generar contenido para la misma, publicarlo e intentar atraer al máximo número de usuarios.
+- He generado contenido que ayude a conocer la aplicación, además de publicarlo en las demás redes sociales. Un ejemplo es:
+    - [Vídeo](https://www.tiktok.com/@shar3d_2024/photo/7365094494942858529)
+- Me he encargado de recopilar noticias relacionadas con la impresión 3D para un posible podcast, comentarlas como artículos de interés en la comunidad o en redes sociales.
+
+
 ### **Santiago Félix, Alejandro**
 
 - Asistí puntualmente a todas las clases de esta fase.
