@@ -49,7 +49,7 @@ T-3) Finishing the presentation before the last minute.
 T-4) Use a different presentation file than the one included in the deliverable.
 - El equipo siempre presentará la misma presentación que entregue, aunque en el último momento antes de exponer detecten alguna mejora.
 
-T-5) Not respecting or not reacting to the feedback given in class without an explicit justification explainedin the presentation.
+T-5) Not respecting or not reacting to the feedback given in class without an explicit justification explained in the presentation.
 - El equipo se compromete a respetar todo el feedback y a reaccionar a él para mejorar.
 
 T-6) Failure to explicitly include any of the expected aspects in the presentation document as they wereexplained in the previous class discussion.
@@ -63,8 +63,8 @@ T-7) Including a document in the repository as part of a deliverable without an 
 + Name(s) and surname(s) of the team members contributing to the document, indicating the typeof contribution made. Only the names of those who have contributed should be entered, with a clear indication of the type of contribution (writing, revision, etc.) which must match thecorresponding clockify entry. -> Se pueden observar quienes han trabajado en un documento viendo el control de versiones. Además, cuando alguien añade una nueva entrada a un documento antes revisa lo que ya había en el mismo.
 
 T-8) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows:
-+ FC terms review. -> Para esto en nuestro proyecto tenemos la [issue](https://github.com/G12-ISPP/ISPP/issues/354) Fc terms review que trata de rellenar este documento 
-+ Expected aspects review. -> Para esto en nuestro proyecto tenemos la [issue](https://github.com/G12-ISPP/ISPP/issues/355) Expected aspects review que trata de rellenar el documento [Expected-aspects-review](/docs/Expected-aspects-review).
++ FC terms review. -> Para esto en nuestro proyecto tenemos la [issue](https://github.com/G12-ISPP/ISPP/issues/446) Fc terms review que trata de rellenar este documento 
++ Expected aspects review. -> Para esto en nuestro proyecto tenemos la [issue](https://github.com/G12-ISPP/ISPP/issues/447) Expected aspects review que trata de rellenar el documento [Expected-aspects-review](/docs/Expected-aspects-review).
 
 T-9) Failure to make a correct delivery considering the following instructions concerning the Gitub repository:
 + Provide the GitHub repository URL. -> Se entregarán los enlaces a los repositorios de la base de conocimiento, de la landing page y del código del proyecto SHAR3D.
@@ -88,7 +88,7 @@ T-9) Failure to make a correct delivery considering the following instructions c
 
 
 Starting at deliverable #S3:
-T-10) Not following the instructions of the software reviewer's guidelines; or incurring in any of the failureconditions presented in those guidelines -> Se han seguido las instrucciones dle documento y se revisarán las condiciones de fallo a continuación:
+T-10) Not following the instructions of the software reviewer's guidelines; or incurring in any of the failureconditions presented in those guidelines -> Se han seguido las instrucciones del documento y se revisarán las condiciones de fallo a continuación:
 
 RG-1) A provider/consumer publishes an offer/request. (Use case implemented in #S1. -> Alguien puede subir un producto a la aplicación (por otro lado, alguien puede directamente solicitar un servicio de impresión personalizada) 
 RG-2) A consumer/provider searches for an offer/request. (Use case implemented in #S1. -> En la pantalla principal ya hay varios productos y están los listados y el buscador para ver más.

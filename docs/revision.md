@@ -148,7 +148,7 @@ Una vez tienen las distintas páginas, le proporcionaremos los datos
 indispensables para que pueda acceder a la web y probar todo lo que
 explicaremos posteriormente:
 
--   URL de la web: [[https://ispp-s3-khaki.vercel.app/]](https://ispp-s3-khaki.vercel.app/)
+-   URL de la web: [[https://ispp-ppl.vercel.app/]](https://ispp-ppl.vercel.app/)
 
 -   Credenciales administrador:
 
@@ -172,8 +172,8 @@ explicaremos posteriormente:
 
     -   Contraseña: nNU\<\<9Y%
 
-- Enlace a la demo del [sprint3](/video/Demo-S3.mp4)
- (También se puede encontrar en la carpeta docs con el nombre Demo-S3.mp4)
+- Enlace a la demo del [PPL](/video/Demo-PPL.mp4)
+ (También se puede encontrar en la carpeta docs con el nombre Demo-PPL.mp4)
 
 ## **CONTENIDO 1º SPRINT**
 
