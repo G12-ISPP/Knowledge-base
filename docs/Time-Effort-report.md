@@ -394,10 +394,15 @@ Carlos**
 ![](/img/timeEffort//TE-ME-10.png)
 ![](/img/timeEffort//TE-ME-11.png)
 
+## **García Linares, Diego**
+![](/img/timeEffort//TE-DGL-01.png)
+
 ## **García Sánchez-Hermosilla, Alejandro**
 ![](/img/timeEffort//TE-AG-03.png)
 ![](/img/timeEffort//TE-AG-04.png)
 
+## **Garrucho Sánchez, Úrsula**
+![](/img/timeEffort//TE-UGS-01.png)
 
 ## **Santiago Félix, Alejandro**
 ![](/img/timeEffort//TE-ASF-03.png)
