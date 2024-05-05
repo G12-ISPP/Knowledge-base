@@ -67,7 +67,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
 | --- | --- | --- |-----|-----|-----| --- |-------| --- |
-| Baquero Villena, Carlos | 10  | 10  |  10 | 10    |     |     | 40    | 1   |
+| Baquero Villena, Carlos | 10  | 10  |  10 | 10    | 10  |     | 50    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  | 10  |  10  |     | 40    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |     | 50    | 1   |
