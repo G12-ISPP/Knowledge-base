@@ -29,9 +29,9 @@ Este documento tiene como finalidad revisar la presentación del entregable y ve
 
 - **Elevator pitch:** Se encuentra en la diapositiva 5.
 
-- **Anuncio** Se encuentra en la diapositiva 6.
+- **Anuncio:** Se encuentra en la diapositiva 6.
 
-- **Demo** Se encuentra en la diapositiva 8.
+- **Demo:** Se encuentra en la diapositiva 8.
 
 - **Análisis de competidores:** Se encuentra en la diapositiva 10.
 
@@ -51,18 +51,18 @@ Este documento tiene como finalidad revisar la presentación del entregable y ve
 
 - **Perfiles:** Se encuentra en la diapositiva 29 y 30.
 
-- **Optimización del SEO:** Se encuentra en la diapositiva 32.
+- **Optimización del SEO:** Se encuentra en la diapositiva 32 y 33.
 
-- **Plan de lanzaminto:** Se encuentra en la diapositiva 34.
+- **Plan de lanzaminto:** Se encuentra en la diapositiva 35.
 
-- **Comunidad:** Se encuentra en la diapositiva 36.
+- **Comunidad:** Se encuentra en la diapositiva 37.
 
-- **Gestión de la comunidad y ejemplos reales:** Se encuentra desde la diapositiva 38 hasta la diapositiva 41.
+- **Gestión de la comunidad y ejemplos reales:** Se encuentra desde la diapositiva 39 hasta la diapositiva 42.
 
-- **Estado actual del proyecto (Burn down vs Burn up):** Se encuentra en la diapositiva 42.
+- **Estado actual del proyecto (Burn down vs Burn up):** Se encuentra en la diapositiva 43.
 
-- **Reloj del proyecto:** Se encuentra en las diapositivas 43.
+- **Reloj del proyecto:** Se encuentra en las diapositivas 44.
 
-- **Uso de la inteligencia artificial:** Se encuentra en la diapositiva 44.
+- **Uso de la inteligencia artificial:** Se encuentra en la diapositiva 45.
 
-- **Landing page y correo de contacto:** Se encuentra en la diapositiva 45.
+- **Landing page y correo de contacto:** Se encuentra en la diapositiva 46.
