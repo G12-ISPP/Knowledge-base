@@ -371,6 +371,9 @@ Carlos**
 
 ### **FASE DE PPL**
 
+**Reporte general**
+![](/img/timeEffort//TE-G-03.png)
+
 ## **Baquero Villena, Carlos**
 ![](/img/timeEffort//TE-CB-14.png)
 ![](/img/timeEffort//TE-CB-15.png)

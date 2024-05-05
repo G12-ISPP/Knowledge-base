@@ -68,18 +68,18 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
 | --- | --- | --- |-----|-----|-----| --- |-------| --- |
 | Baquero Villena, Carlos | 10  | 10  |  10 | 10    | 10  |     | 50    | 1   |
-| Campano Galán, Alejandro | 10  | 10  | 10  | 10  |  10  |     | 40    | 1   |
+| Campano Galán, Alejandro | 10  | 10  | 10  | 10  |  10  |     | 50    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |     | 50    | 1   |
 | Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  |     |  50  | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 |     | 50 | 1 |
-| García Linares, Diego | 10  | 10  | 9    | 9   | 9    |     | 47    | 0.94   |
+| García Linares, Diego | 10  | 10  | 9    | 9   | 7    |     | 45    | 0.9   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
-| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 10  |     | 50    | 1   |
+| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 7  |     | 47    | 0.94  |
 | Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |     | 50    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |  9   |     | 49    | 0.98   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
-| **Total** | **120** | **120** | **119**    |  **119**   |     |     |       | **11,95**    |
+| **Total** | **120** | **120** | **119**    |  **119**   | **113**    |     |     11,92  | **11,95**    |
 </div>
 
 ## **CONTRIBUCIONES EN LA FASE DE DP**
