@@ -77,7 +77,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 10  |     | 50    | 1   |
 | Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |     | 50    | 1   |
-| Reyes Alés, David | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
+| Reyes Alés, David | 10  | 10  | 10  | 10  |  9   |     | 49    | 0.98   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
 | **Total** | **120** | **120** | **119**    |  **119**   |     |     |       | **11,95**    |
 </div>
@@ -849,6 +849,14 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He generado contenido que ayude a conocer la aplicación, además de publicarlo en las demás redes sociales. Un ejemplo es:
     - [Vídeo](https://www.tiktok.com/@shar3d_2024/photo/7365094494942858529)
 - Me he encargado de recopilar noticias relacionadas con la impresión 3D para un posible podcast, comentarlas como artículos de interés en la comunidad o en redes sociales.
+
+### **Reyes Alés, David**
+
+- He asistido a todas lass clases de esta fase.
+- He visualizado todos los vídeos correspondientes de este entregable.
+- He sido usuario piloto de la aplicación del grupo 6, dándo feedback de su aplicación.
+- Me he encargado de comunicarme con los encargados del centro para pedir el uso de las pantallas digitales.
+- He creado panfletos digitales para su visualizaddo en las pantallas del centro, folletos publicitarios para colgarlos en tablones de anuncios, y diseños para imprimir tarjetas publicitarias de nuestro proyecto.
 
 
 ### **Santiago Félix, Alejandro**
