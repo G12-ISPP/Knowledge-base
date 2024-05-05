@@ -731,6 +731,16 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 
 ## **CONTRIBUCIONES EN LA FASE DE PPL**
 
+### **Baquero Villena, Carlos**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- He visto todos los videos de dicha fase.
+- He realizado resumenes de los conceptos vistos en las píldoras teóricas para la base de conocimientos.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- Me he encargado de generar varios memes y de subirlos a Instagram y X.
+- Me he encargado de promocionar nuestra aplicación, pegando folletos por las calles.
+
+
 ### **Campos Garrido, Juan Jesús**
 
 - He contribuido asistiendo a todas las clases de esta fase.

@@ -371,6 +371,10 @@ Carlos**
 
 ### **FASE DE PPL**
 
+## **Baquero Villena, Carlos**
+![](/img/timeEffort//TE-CB-14.png)
+![](/img/timeEffort//TE-CB-15.png)
+
 ## **Campos Garrido, Juan Jesús**
 ![](/img/timeEffort//TE-JJ-07.png)
 ![](/img/timeEffort//TE-JJ-08.png)
