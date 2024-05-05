@@ -73,9 +73,9 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |     | 50    | 1   |
 | Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  |     |  50  | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 |     | 50 | 1 |
-| García Linares, Diego | 10  | 10  | 9    | 9   |     |     | 38    | 0.95   |
+| García Linares, Diego | 10  | 10  | 9    | 9   | 9    |     | 47    | 0.94   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
-| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  |     |     | 40    | 1   |
+| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 10  |     | 50    | 1   |
 | Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |     | 50    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |     |     | 40    | 1   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
@@ -807,6 +807,16 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He realizado los videos de anuncio para atraer clientes junto a Alejandro García
 - He realizado la demo utilazada en las presentaciones junto a Alejandro García
 
+### **García Linares, Diego**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He participado en las sesiones de retrospectiva.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Me he encargado de subir contenido a la red social Facebook y intentar hacer conocer la aplicación entre los grupos de impresores de esta red social
+- Generar contenido para red social en concreto algunos memes subidos.
+
 ### **García Sánchez-Hermosilla, Alejandro**
 
 - He asistido a todas las clases de teoría.
@@ -818,6 +828,16 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
 - He realizado los videos de anuncio para atraer clientes junto a María Escalante
 - He realizado la demo utilazada en las presentaciones junto a María Escalante
+
+### **Garrucho Sánchez, Úrsula**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- He participado en las sesiones de retrospectiva.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- He generado contenido que ayude a conocer la aplicación, además de publicarlo en las demás redes sociales. Un ejemplo es:
+- Me he encargado de subir contenido a la red social Facebook y intentar hacer conocer la aplicación entre los grupos de impresores de esta red social
 
 ### **Mera Gómez, Pablo**
 
