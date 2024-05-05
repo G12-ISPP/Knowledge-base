@@ -382,6 +382,9 @@ Carlos**
 ## **Carretero Díaz, Antonio**
 ![](/img/timeEffort//TE-ACD-03.png)
 
+## **Cortabarra Romero, David**
+![](/img/timeEffort//TE-DC-04.png)
+
 ## **Escalante Ramos, María**
 ![](/img/timeEffort//TE-ME-09.png)
 ![](/img/timeEffort//TE-ME-10.png)

@@ -71,7 +71,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Campano Galán, Alejandro | 10  | 10  | 10  | 10  |  10  |     | 40    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |     | 50    | 1   |
-| Cortabarra Romero, David |  10  |  10  |  10  | 10  |     |     | 40    | 1   |
+| Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  |     |  50  | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 |     | 50 | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9   |     |     | 38    | 0.95   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
@@ -773,6 +773,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en las sesiones de retrospectiva.
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
+
+
+### **Cortabarra Romero, David**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He ejercido de usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- He tomado nota de todo el feedback comentado hacia cada uno de los grupos de proyecto durante este segundo sprint.
+- Me he encargado de corregir la interfaz de la aplicación una vez ya están todas las funcionalidades implementadas, con el objetivo de mejorar la experiencia de los usuarios.
+- He rediseñado al completo la página de compra de planes, así como he hecho responsive dicho rediseño.
+- He rediseñado al completo la página que aparece tras haber comprado un plan, así como he hecho responsive dicho rediseño.
+- He corregido un bug de la cabecera en dispositivos responsive que impedía que esta se viese correctamente.
+- He incluido enlaces a las redes sociales de SHAR3D dentro de la aplicación.
+- He corregido problemas de superposición de estilos en diferentes puntos de la aplicación.
 
 ### **Escalante Ramos, María**
 
