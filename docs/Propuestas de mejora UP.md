@@ -18,8 +18,8 @@
 | **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
 | --- | --- | --- | --- |
 | v0.1 | Creación del documento | Carretero Díaz, Antonio | 13/03/2024 |
-| v1.0 | Añadida informaicón del primer sprint    |  Campos Garrido, Juan Jesús   | 13/03/2024 |
-| v2.0 | Añadida informaicón del segundo sprint    | Campos Garrido, Juan Jesús    | 31/03/2024 |
+| v1.0 | Añadida información del primer sprint    |  Campos Garrido, Juan Jesús   | 13/03/2024 |
+| v2.0 | Añadida información del segundo sprint    | Campos Garrido, Juan Jesús    | 31/03/2024 |
 | v3.0 | Añadida información de PPL | Campos Garrido, Juan Jesús | 29/04/2024 |
 | v4.0 | Añadida información de WPL | Campano Galán, Alejandro | 13/05/2024 |
 </div>
@@ -210,23 +210,23 @@ En este documento se resumirán todas las propuestas de mejora que se han podido
 
 | Propuesta | Acción | Estado | Id |
 | --- | --- | --- | --- |
-| Arreglar el problema que ocurre al crear cuenta como diseñador que no aparece en el apartado de diseñadores | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-1 |
-| Quitar input para indicar la cantidad de diseños a comprar | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-2 |
-| Arreglar que no puedas ver los detalles de un pedido si no eres el usuario que ha hecho ese pedido | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-3 |
-| Si editas un producto no permite destacarlo, y si es destacado, no permite editarlo a no ser que lo des destaque, y luego no se puede volver a destacar | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-4 |
-| Al Crear una cuenta pude poner una descripcion de pocos caracteres "Hola", pero al editarla me obligaban a poner mas de 20 caracteres. | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-5 |
-| En el campo nombre y apellidos acepta poner solo numeros, pondria un requisito que obligara a no colocar de nombre "23424422" o cosas asi | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-6 |
-| Puedes crear publicaciones con un titulo y una descripción exageradamente grande, el cual no permite que se vea entero debido a que se corta. (Apartado de Comunidad) | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-7 |
-| En la dirección que hay que poner para realizar una compra, el campo puede ser todo números y en el campo ciudad puedes poner que sea todo caracteres especiales. | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-8 |
-| Hay un mensaje por consola en el inicio de sesión | <span style=<span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-9 |
-|  Si le doy a chatear desde los detalles de un usuario, la vista se va hacia abajo y no puedo hacer scroll ni ir a ningún lado. Desaparece la barra de navegación | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-10 |
-| No deja publicar una opinión de 0 estrellas | <span style=<span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-11 |
-| La "X" para cerrar el modal de agregar un comentario en un post me aparece en una esquina de la pantalla pero no en la esquina del modal. | <span style=<span style={{backgroundColor:"#ffff00"}}>|  En desarrollo</span>  | WPL-12 |
-| Recomendable indicar en solicitar impresion que se esta procesando la solicitud, por ejemplo deshabilitando el boton. | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-13 |
-| Si no hay comentarios en un post, recomiendo que pongais que no hay comentarios en este post en vez de dejarlo vacio. | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-14 |
-| He podido solicitar una impresión con la ciudad y dirección con espacios en blanco. | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-15 |
-| No se ve la imagen de perfil del usuario con el que estoy chateando. | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-16 |
-| Revisar los productos destacados, hay veces que no deja, a pesar de tener el plan vendedor. | <span style=<span style={{backgroundColor:"#ffff00"}}> | En desarrollo</span>  | WPL-17 |
+| Arreglar el problema que ocurre al crear cuenta como diseñador que no aparece en el apartado de diseñadores | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-1 |
+| Quitar input para indicar la cantidad de diseños a comprar | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | WPL-2 |
+| Arreglar que no puedas ver los detalles de un pedido si no eres el usuario que ha hecho ese pedido | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span> | WPL-3 |
+| Si editas un producto no permite destacarlo, y si es destacado, no permite editarlo a no ser que lo des destaque, y luego no se puede volver a destacar | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-4 |
+| Al Crear una cuenta pude poner una descripcion de pocos caracteres "Hola", pero al editarla me obligaban a poner mas de 20 caracteres. | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-5 |
+| En el campo nombre y apellidos acepta poner solo numeros, pondria un requisito que obligara a no colocar de nombre "23424422" o cosas asi | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-6 |
+| Puedes crear publicaciones con un titulo y una descripción exageradamente grande, el cual no permite que se vea entero debido a que se corta. (Apartado de Comunidad) | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-7 |
+| En la dirección que hay que poner para realizar una compra, el campo puede ser todo números y en el campo ciudad puedes poner que sea todo caracteres especiales. | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-8 |
+| Hay un mensaje por consola en el inicio de sesión | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-9 |
+|  Si le doy a chatear desde los detalles de un usuario, la vista se va hacia abajo y no puedo hacer scroll ni ir a ningún lado. Desaparece la barra de navegación | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-10 |
+| No deja publicar una opinión de 0 estrellas | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-11 |
+| La "X" para cerrar el modal de agregar un comentario en un post me aparece en una esquina de la pantalla pero no en la esquina del modal. | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-12 |
+| Recomendable indicar en solicitar impresion que se esta procesando la solicitud, por ejemplo deshabilitando el boton. | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-13 |
+| Si no hay comentarios en un post, recomiendo que pongais que no hay comentarios en este post en vez de dejarlo vacio. | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-14 |
+| He podido solicitar una impresión con la ciudad y dirección con espacios en blanco. | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-15 |
+| No se ve la imagen de perfil del usuario con el que estoy chateando. | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-16 |
+| Revisar los productos destacados, hay veces que no deja, a pesar de tener el plan vendedor. | <span style={{backgroundColor:"#ffff00"}}> En desarrollo</span>  | WPL-17 |
 
 
 ## **CONCLUSIONES**
