@@ -21,6 +21,7 @@
 | v1.0 | Añadida informaicón del primer sprint    |  Campos Garrido, Juan Jesús   | 13/03/2024 |
 | v2.0 | Añadida informaicón del segundo sprint    | Campos Garrido, Juan Jesús    | 31/03/2024 |
 | v3.0 | Añadida información de PPL | Campos Garrido, Juan Jesús | 29/04/2024 |
+| v4.0 | Añadida información de WPL | Campano Galán, Alejandro | 13/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**
