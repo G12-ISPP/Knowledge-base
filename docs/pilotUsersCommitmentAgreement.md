@@ -6,9 +6,9 @@
 
 ## **SHAR3D + CIAOLAVORO**
 
-#### 26/04/2024
+#### 20/05/2024
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -** 
 
@@ -25,6 +25,9 @@
 | v2.1 | Actualización del acuerdo para PPL por SHAR3D | Campos Garrido, Juan Jesús | 26/04/2024 |
 | v2.2 | Actualización del acuerdo para PPL por CiaoLavoto | Campos Campos, Francisco Antonio | 26/04/2024 |
 | v3.0 | Ratificación final del acuerdo por ambas partes | Campos Garrido, Juan Jesús, Campos Campos, Francisco Antonio | 26/04/2024 |
+| v3.1 | Actualización del acuerdo para WPL por SHAR3D | Campos Garrido, Juan Jesús | 10/05/2024 |
+| v3.2 | Actualización del acuerdo para WPL por CiaoLavoto | Campos Campos, Francisco Antonio | 10/05/2024 |
+| v4.0 | Ratificación final del acuerdo por ambas partes | Campos Garrido, Juan Jesús, Campos Campos, Francisco Antonio | 10/05/2024 |
 </div>
 
 ## INTRODUCCIÓN
@@ -119,3 +122,32 @@ Juan Jeús Campos Garrido:
 ![alt text](/img/firma_guaje.png)
 
 A 26/04/2024
+
+### WPL
+
+Los integrantes del grupo 12 nos comprometemos a cumplir las siguientes condiciones y requisitos en segundo sprint:
++ El grupo 12 se compromete a entregar la aplicación, las guías, los formularios y demás documentos necesarios a lo largo del día 10/05/2024.
++ El grupo 12 recopilará todo el feedback aportado por sus usuarios pilotos desde el día 10/05/2024 hasta el día 12/05/2024.
++ El grupo 12 se compromete a que al menos el 83% de sus integrantes, es decir 10 personas, darán feedback al grupo 6.
++ Si el grupo 6 se retrasa al entregar la aplicación de la fecha establecida en este documento sólo podemos asegurar que el 70% de nuestros integrantes darán feedback.
+
+Los integrantes del grupo 6 nos comprometemos a cumplir las siguientes condiciones y requisitos en el tercer sprint:
++ El grupo 6 se compromete a entregar la aplicación, las guías, los formularios y demás documentos necesarios a lo largo del día 10/05/2024.
++ El grupo 6 recopilará todo el feedback aportado por sus usuarios pilotos desde el día 10/05/2024 hasta el día 12/05/2024.
++ El grupo 6 se compromete a que al menos el 83% de sus integrantes, es decir 10 personas, darán feedback al grupo 12.
++ Si el grupo 12 se retrasa en la entrega de la aplicación de la fecha establecida en este documento, sólo podemos asegurar que el 70% de nuestros integrantes darán feedback.
+
+
+Firma de los representantes de cada grupo que se comprometen a que sus respectivos grupos cumplan con las condiciones propuestas:
+
+Diego Gonzalez Quintanilla:
+
+![alt text](/img/firma_cl.png)
+
+A 10/05/2024
+
+Juan Jeús Campos Garrido:
+
+![alt text](/img/firma_guaje.png)
+
+A 10/05/2024
