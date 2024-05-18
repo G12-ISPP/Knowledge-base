@@ -429,6 +429,7 @@ Carlos**
 ![](/img/timeEffort//TE-ACD-04.png)
 ![](/img/timeEffort//TE-ACD-05.png)
 
+=======
 ## **Escalante Ramos, María**
 ![](/img/timeEffort//TE-ME-12.png)
 ![](/img/timeEffort//TE-ME-13.png)
@@ -450,6 +451,11 @@ Carlos**
 ![](/img/timeEffort//TE-UGS-03.png)
 
 
+## **Mera Gómez, Pablo**
+![](/img/timeEffort//TE-PMG-06.png)
+![](/img/timeEffort//TE-PMG-07.png)
+![](/img/timeEffort//TE-PMG-09.png)
+![](/img/timeEffort//TE-PMG-08.png)
 
 ## **CONCLUSIONES**
 
