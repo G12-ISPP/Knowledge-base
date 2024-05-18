@@ -429,6 +429,12 @@ Carlos**
 ![](/img/timeEffort//TE-ACD-04.png)
 ![](/img/timeEffort//TE-ACD-05.png)
 
+## **Escalante Ramos, María**
+![](/img/timeEffort//TE-ME-12.png)
+![](/img/timeEffort//TE-ME-13.png)
+![](/img/timeEffort//TE-ME-14.png)
+![](/img/timeEffort//TE-ME-15.png)
+
 ## **García Linares, Diego**
 ![](/img/timeEffort//TE-DGL-02.png)
 ![](/img/timeEffort//TE-DGL-03.png)
@@ -436,6 +442,8 @@ Carlos**
 ## **Garrucho Sánchez, Úrsula**
 ![](/img/timeEffort//TE-UGS-02.png)
 ![](/img/timeEffort//TE-UGS-03.png)
+
+
 
 ## **CONCLUSIONES**
 
