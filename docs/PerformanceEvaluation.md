@@ -78,7 +78,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | García Linares, Diego | 10  | 10  | 9    | 9   | 7    |     | 45    | 0.9   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 7  |     | 47    | 0.94  |
-| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |     | 50    | 1   |
+| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |  10   | 60    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |  9   |     | 49    | 0.98   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
 | **Total** | **120** | **120** | **119**    |  **119**   | **113**    |     |     11,92  | **11,95**    |
@@ -893,7 +893,15 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
 
+### **Mera Gómez, Pablo**
 
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Me he encargado de subir contenido a las redes sociales, en concreto a Twitter, donde he subido tanto vídeos como publicaciones que buscan atraer al público objetivo a través de tendencias actuales, como puede ser:
+    - [Vídeo 1](https://x.com/shar3d_2024/status/1790706865417978138)
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
 
 ## **CONCLUSIONES**
 

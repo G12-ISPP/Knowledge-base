@@ -429,6 +429,13 @@ Carlos**
 ![](/img/timeEffort//TE-ACD-04.png)
 ![](/img/timeEffort//TE-ACD-05.png)
 
+
+## **Mera Gómez, Pablo**
+![](/img/timeEffort//TE-PMG-06.png)
+![](/img/timeEffort//TE-PMG-07.png)
+![](/img/timeEffort//TE-PMG-09.png)
+![](/img/timeEffort//TE-PMG-08.png)
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.
