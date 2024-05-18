@@ -435,6 +435,13 @@ Carlos**
 ![](/img/timeEffort//TE-ME-14.png)
 ![](/img/timeEffort//TE-ME-15.png)
 
+## **García Sánchez-Hermosilla, Alejandro**
+![](/img/timeEffort//TE-AG-05.png)
+![](/img/timeEffort//TE-AG-06.png)
+![](/img/timeEffort//TE-AG-cake-graph.png)
+![](/img/timeEffort//TE-AG-cake-graph-02.png)
+
+
 
 ## **CONCLUSIONES**
 

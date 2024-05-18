@@ -76,7 +76,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  |     |  50  | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 | 10 | 60 | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9   | 7    |     | 45    | 0.9   |
-| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
+| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 | 10 | 60 | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 7  |     | 47    | 0.94  |
 | Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |     | 50    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |  9   |     | 49    | 0.98   |
@@ -899,6 +899,17 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He visto todas las píldoras teóricas que hay publicadas hasta ahora.
 - He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
 - Me he encargado de subir contenido a las redes sociales, en concreto a Instagram y TikTok, donde he subido diferentes vídeos promocionando la aplicación y mostrando su funcionalidad. También realicé un preguntas y respuestas para atraer nuevos usuarios
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
+- He contribuido en la realización de los vídeos de demostración de funcionamiento de la aplicación mostrados en las presentaciones.
+
+### **García Sánchez-Hermosilla, Alejandro**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Me he encargado de subir contenido a las redes sociales, en concreto a Instagram y TikTok, donde he subido diferentes vídeos promocionando la aplicación y mostrando su funcionalidad.
 - Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
 - Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
 - He participado en las sesiones de retrospectiva.
