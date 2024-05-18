@@ -875,6 +875,22 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 
 ## **CONTRIBUCIONES EN LA FASE DE WPL**
 
+### **Campano Galán, Alejandro**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Me he encargado de subir contenido a las redes sociales, en concreto, he realizado un concurso de diseños promocionado en instagram, tiktok y facebook:
+    - [Publicación 1](https://www.instagram.com/p/C66ulTEIq1B/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+    - [Publicación 2](https://www.instagram.com/p/C7FLJv6IImg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar  toda la funcionalidad de la misma, subiendo datos reales para poblar el sistema final.
+- He participado en las sesiones de retrospectiva.
+- He contribuido realizando la presentación en clase
+- He montado toda la demo para la presentación
+- He realizado el video para los inversores
+- He incorporado distintas mejoras propuestas por los usuarios pilotos
 
 ### **Carretero Díaz, Antonio**
 
@@ -893,23 +909,6 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en las sesiones de retrospectiva.
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
-
-### **Campano Galán, Alejandro**
-
-- He asistido a todas las clases de teoría.
-- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
-- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
-- Me he encargado de subir contenido a las redes sociales, en concreto, he realizado un concurso de diseños promocionado en instagram, tiktok y facebook:
-    - [Publi 1](https://www.instagram.com/p/C66ulTEIq1B/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-    - [Publi 2](https://www.instagram.com/p/C7FLJv6IImg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-
-- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
-- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar  toda la funcionalidad de la misma, subiendo datos reales para poblar el sistema final.
-- He participado en las sesiones de retrospectiva.
-- He contribuido realizando la presentación en clase
-- He montado toda la demo para la presentación
-- He realizado el video para los inversores
-- He incorporado distintas mejoras propuestas por los usuarios pilotos
 
 ### **Escalante Ramos, María**
 
