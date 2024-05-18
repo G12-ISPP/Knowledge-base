@@ -439,6 +439,12 @@ Carlos**
 ![](/img/timeEffort//TE-DGL-02.png)
 ![](/img/timeEffort//TE-DGL-03.png)
 
+## **García Sánchez-Hermosilla, Alejandro**
+![](/img/timeEffort//TE-AG-05.png)
+![](/img/timeEffort//TE-AG-06.png)
+![](/img/timeEffort//TE-AG-cake-graph.png)
+![](/img/timeEffort//TE-AG-cake-graph-02.png)
+
 ## **Garrucho Sánchez, Úrsula**
 ![](/img/timeEffort//TE-UGS-02.png)
 ![](/img/timeEffort//TE-UGS-03.png)
