@@ -74,10 +74,10 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |  10   | 60    | 1   |
 | Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  |     |  50  | 1   |
-| Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 |     | 50 | 1 |
-| García Linares, Diego | 10  | 10  | 9    | 9   | 7    |     | 45    | 0.9   |
-| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 |     | 50 | 1   |
-| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 7  |     | 47    | 0.94  |
+| Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 | 10 | 60 | 1 |
+| García Linares, Diego | 10  | 10  | 9    | 9   | 7    |  9   | 54    | 0.9   |
+| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 | 10 | 60 | 1   |
+| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 7  |  10   | 57    | 0.95  |
 | Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |  10   | 60    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |  9   |     | 49    | 0.98   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
@@ -875,6 +875,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 
 ## **CONTRIBUCIONES EN LA FASE DE WPL**
 
+
 ### **Carretero Díaz, Antonio**
 
 - He asistido a todas las clases de teoría.
@@ -892,6 +893,49 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en las sesiones de retrospectiva.
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
+- 
+### **Escalante Ramos, María**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Me he encargado de subir contenido a las redes sociales, en concreto a Instagram y TikTok, donde he subido diferentes vídeos promocionando la aplicación y mostrando su funcionalidad. También realicé un preguntas y respuestas para atraer nuevos usuarios
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
+- He contribuido en la realización de los vídeos de demostración de funcionamiento de la aplicación mostrados en las presentaciones.
+
+### **García Linares, Diego**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- He sido el encargado de subir casi todo el contenido a facebook junto con Úrsula Garrucho Sánchez, además de subir a tiktok e instagram esta última semana antes del WPL.
+    - [Publicación](https://www.instagram.com/p/C63oB82sttt/)
+- He asistido a las sesiones de retrospectiva.
+- He revisado las funcionalidades de la aplicación para que hubiera ningún error grave en ella.
+
+### **García Sánchez-Hermosilla, Alejandro**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Me he encargado de subir contenido a las redes sociales, en concreto a Instagram y TikTok, donde he subido diferentes vídeos promocionando la aplicación y mostrando su funcionalidad.
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
+- He contribuido en la realización de los vídeos de demostración de funcionamiento de la aplicación mostrados en las presentaciones.
+
+### **Garrucho Sánchez, Úrsula**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- He sido el encargado de subir casi todo el contenido a facebook junto con Diego García Linares, además de subir a tiktok e instagram esta última semana antes del WPL, entre ellos: 
+    - [Primera publicación](https://www.facebook.com/share/v/3uwdygpL88AXWv5U/)
+    - [Segunda publicación](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.plantadoce.com%2Fentorno%2Fdonde-ha-quedado-la-revolucionaria-impresion-3d-en-el-sector-de-la-salud&h=AT3cS6TcIIuWZQ9Z7dnF5hNuItx7VS3C0Q2sExSaKtQ4eEtIQ8oMYD843hUvt9hz5Ybv9A5UMiUcpQS5_fX9nI8eGvlr1YRUl3Hyzt5dKcwEV3AOmJr2WJ0xoAgXY6HWWVnR&s=1)
+- He asistido a las sesiones de retrospectiva.
+- He revisado las funcionalidades de la aplicación para que hubiera ningún error grave en ella.
 
 ### **Mera Gómez, Pablo**
 
