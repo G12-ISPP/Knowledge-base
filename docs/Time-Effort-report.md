@@ -429,6 +429,13 @@ Carlos**
 ![](/img/timeEffort//TE-ACD-04.png)
 ![](/img/timeEffort//TE-ACD-05.png)
 
+## **Escalante Ramos, María**
+![](/img/timeEffort//TE-ME-12.png)
+![](/img/timeEffort//TE-ME-13.png)
+![](/img/timeEffort//TE-ME-14.png)
+![](/img/timeEffort//TE-ME-15.png)
+
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.
