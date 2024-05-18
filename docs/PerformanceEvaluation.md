@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 05/05/2024
+#### 21/05/2024
 
 # **EVALUACIÓN DEL RENDIMIENTO INDIVIDUAL**
 
@@ -18,7 +18,7 @@
 </div>
 Cada integrante del equipo ha incluido su aportación y su nota
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -**
 
@@ -40,6 +40,8 @@ Cada integrante del equipo ha incluido su aportación y su nota
 [**CONTRIBUCIONES EN LA FASE DE SPRINT 3**](#contribuciones-en-la-fase-de-sprint-3)
 
 [**CONTRIBUCIONES EN LA FASE DE PPL**](#contribuciones-en-la-fase-de-ppl)
+
+[**CONTRIBUCIONES EN LA FASE DE WPL**](#contribuciones-en-la-fase-de-wpl)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -70,7 +72,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Baquero Villena, Carlos | 10  | 10  |  10 | 10    | 10  |     | 50    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  | 10  |  10  |     | 50    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
-| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |     | 50    | 1   |
+| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |  10   | 60    | 1   |
 | Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  |     |  50  | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 |     | 50 | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9   | 7    |     | 45    | 0.9   |
@@ -870,6 +872,26 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Actualicé los anuncios y demostraciones en YouTube y adapté uno para TikTok e Instagram.
     - [Vídeo 1](https://www.youtube.com/watch?v=UccNwqJ0yuQ)
 - Implementé todas las solicitudes aceptadas de los usuarios pilotos.
+
+## **CONTRIBUCIONES EN LA FASE DE WPL**
+
+### **Carretero Díaz, Antonio**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- Me he encargado de subir contenido a las redes sociales, en concreto a TikTok, donde he subido diferentes vídeos promocionando la aplicación y mostrando su funcionalidad. A continuación, he dejado los enlaces a los vídeos subidos durante esta fase:
+    - [Vídeo 1](https://www.tiktok.com/@shar3d_2024/video/7365191804607630625)
+    - [Vídeo 2](https://www.tiktok.com/@shar3d_2024/video/7365606868133088545)
+    - [Vídeo 3](https://www.tiktok.com/@shar3d_2024/video/7365958917404380448)
+    - [Vídeo 4](https://www.tiktok.com/@shar3d_2024/video/7366346196987825441)
+    - [Vídeo 5](https://www.tiktok.com/@shar3d_2024/video/7366725728777325856)
+
+- Me he encargado de revisar continuamente diferentes pull request que se han ido subiendo a lo largo del sprint, así como comentarios tanto positivos como negativos.
+- Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
+- He participado en las sesiones de retrospectiva.
+- He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
+- He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
 
 
 

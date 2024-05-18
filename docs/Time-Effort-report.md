@@ -4,7 +4,7 @@
 
 ## **SHAR3D**
 
-#### 21/04/2024
+#### 21/05/2024
 
 # **REPORTE DE ESFUERZO TEMPORAL**
 
@@ -19,7 +19,7 @@
 Cada integrante se encarga de hacer su reporte individual
 </div>
 
-### **SPRINT 3**
+### **WPL**
 
 ### **- GRUPO 12 -**
 
@@ -41,6 +41,8 @@ Cada integrante se encarga de hacer su reporte individual
 [**FASE DE SPRINT 3**](#fase-de-sprint-3)
 
 [**FASE DE PPL**](#fase-de-ppl)
+
+[**FASE DE WPL**](#fase-de-wpl)
 
 [**CONCLUSIONES**](#conclusiones)
 
@@ -419,6 +421,13 @@ Carlos**
 ## **Santiago Félix, Alejandro**
 ![](/img/timeEffort//TE-ASF-03.png)
 
+### **FASE DE WPL**
+
+**Reporte general**
+
+## **Carretero Díaz, Antonio**
+![](/img/timeEffort//TE-ACD-04.png)
+![](/img/timeEffort//TE-ACD-05.png)
 
 ## **CONCLUSIONES**
 
