@@ -429,7 +429,11 @@ Carlos**
 ![](/img/timeEffort//TE-ACD-04.png)
 ![](/img/timeEffort//TE-ACD-05.png)
 
-=======
+## **Carretero Díaz, Antonio**
+![](/img/timeEffort//TE-ACG-04.png)
+![](/img/timeEffort//TE-ACG-05.png)
+![](/img/timeEffort//TE-ACG-06.png)
+
 ## **Escalante Ramos, María**
 ![](/img/timeEffort//TE-ME-12.png)
 ![](/img/timeEffort//TE-ME-13.png)
