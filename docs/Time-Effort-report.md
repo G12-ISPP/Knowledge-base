@@ -427,19 +427,18 @@ Carlos**
 ![](/img/timeEffort//TE-G-04.png)
 ![](/img/timeEffort//TE-G-05.png)
 
-
-## **Carretero Díaz, Antonio**
-![](/img/timeEffort//TE-ACD-04.png)
-![](/img/timeEffort//TE-ACD-05.png)
+## **Campano Galán, Alejandro**
+![](/img/timeEffort//TE-ACG-04.png)
+![](/img/timeEffort//TE-ACG-05.png)
+![](/img/timeEffort//TE-ACG-06.png)
 
 ## **Campos Garrido, Juan Jesús**
 ![](/img/timeEffort//TE-JJ-09.png)
 ![](/img/timeEffort//TE-JJ-10.png)
 
-## **Campano Galán, Alejandro**
-![](/img/timeEffort//TE-ACG-04.png)
-![](/img/timeEffort//TE-ACG-05.png)
-![](/img/timeEffort//TE-ACG-06.png)
+## **Carretero Díaz, Antonio**
+![](/img/timeEffort//TE-ACD-04.png)
+![](/img/timeEffort//TE-ACD-05.png)
 
 ## **Cortabarra Romero, David**
 ![](/img/timeEffort//TE-DC-05.png)
