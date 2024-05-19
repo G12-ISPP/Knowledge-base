@@ -69,7 +69,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
 | --- | --- | --- |-----|-----|-----|-----|-------| --- |
-| Baquero Villena, Carlos | 10  | 10  |  10 | 10    | 10  |     | 50    | 1   |
+| Baquero Villena, Carlos | 10  | 10  |  10 | 10    | 10  |  10 | 60    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  | 10  |  10  | 10  | 60    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    | 10    | 60    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  | 10  | 60    | 1   |
@@ -874,6 +874,16 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - Implementé todas las solicitudes aceptadas de los usuarios pilotos.
 
 ## **CONTRIBUCIONES EN LA FASE DE WPL**
+
+### **Baquero Villena, Carlos**
+- He asistido a todas las clases de teoría.
+- He hecho de usuario piloto para el grupo 6.
+- Me he encargado de subir varias publicaciones y memes a las redes sociales, concretamente Instagram y X. Aquí se ve algún ejemplo:
+    - [Publicación 1](https://www.instagram.com/p/C6_mGT-IvqO/?img_index=1)
+    - [Publicación 2](https://www.instagram.com/p/C7HVfqQotvy/?img_index=1)
+- Me he encargado de revisar la aplicación una vez desplegada.
+- He participado en la reunión de retrospectiva y en la reunión de lluvia de ideas.
+
 
 ### **Campano Galán, Alejandro**
 
