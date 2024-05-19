@@ -950,6 +950,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
     - He rediseñado el formulario de reporte de usuarios y productos, con su correspondiente adaptación a dispositivos responsive.
     - He mejorado la calidad del software atendiendo a la evaluación del código realizada por SonarCloud.
 - He preparado varios posts para las diferentes redes sociales con el objetivo de anunciar la presentación del WPL, destacando la elaboración del teaser de dicha presentación.
+    - [Vídeo 1](https://www.tiktok.com/@shar3d_2024/video/7370695309690719521)
 
 ### **Escalante Ramos, María**
 
