@@ -424,10 +424,17 @@ Carlos**
 ### **FASE DE WPL**
 
 **Reporte general**
+![](/img/timeEffort//TE-G-04.png)
+![](/img/timeEffort//TE-G-05.png)
+
 
 ## **Carretero Díaz, Antonio**
 ![](/img/timeEffort//TE-ACD-04.png)
 ![](/img/timeEffort//TE-ACD-05.png)
+
+## **Campos Garrido, Juan Jesús**
+![](/img/timeEffort//TE-JJ-09.png)
+![](/img/timeEffort//TE-JJ-10.png)
 
 ## **Campano Galán, Alejandro**
 ![](/img/timeEffort//TE-ACG-04.png)

@@ -71,9 +71,9 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | --- | --- | --- |-----|-----|-----|-----|-------| --- |
 | Baquero Villena, Carlos | 10  | 10  |  10 | 10    | 10  |     | 50    | 1   |
 | Campano Galán, Alejandro | 10  | 10  | 10  | 10  |  10  | 10  | 60    | 1   |
-| Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
+| Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    | 10    | 60    | 1   |
 | Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  | 10  | 60    | 1   |
-| Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  |     | 50    | 1   |
+| Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  | 10    | 60    | 1   |
 | Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 | 10  | 60    | 1 |
 | García Linares, Diego | 10  | 10  | 9    | 9   | 7    | 9   | 54    | 0.9   |
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 | 10  | 60    | 1   |
@@ -891,6 +891,22 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He montado toda la demo para la presentación
 - He realizado el video para los inversores
 - He incorporado distintas mejoras propuestas por los usuarios pilotos
+
+### **Campos Garrido, Juan Jesús**
+
+- He contribuido asistiendo a todas las clases de esta fase.
+- Me he encargado de preparar y estudiar las presentaciones de la fase, además de presentar dichas presentaciones en clase y realizar tareas referentes a preparar las presentaciones.
+- Me he encargado de subir las issues de la planificación a GitHub.
+- He participado como usuario piloto del grupo 6 dando feedback sobre su aplicación.
+- Me he encargado de subir algunas publicaciones a redes sociales como tik tok e instagram con contenido generado por mis compañeros, contenido como alguna demo etc.
+- Me he encargado de generar las siguientes publicaciones para las redes sociales:
+- [https://vm.tiktok.com/ZGeXksK5C/](https://vm.tiktok.com/ZGeXksK5C/)
+- [https://vm.tiktok.com/ZGeXk7PBT/](https://vm.tiktok.com/ZGeXk7PBT/)
+- Me he encargado de revisar la aplicación una vez desplegada.
+- He revisado las failures condition y he realizado un documento justificando porque no cumplimos ninguna.
+- He participado en la reunión de retrospectiva y en la reunión de lluvia de ideas.
+- Finalmente he revisado todos los documentos para asegurarme de que estén completos y preparados para la entrega final.
+
 
 ### **Carretero Díaz, Antonio**
 
