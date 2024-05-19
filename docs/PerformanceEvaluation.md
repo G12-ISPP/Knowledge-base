@@ -81,7 +81,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  | 10  | 60    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |  9   |  9  | 58    | 0.97   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  | 10  | 60    | 1   |
-| **Total** | **120** | **120** | **119**    |  **119**   | **113**    |     | 11,92 | **11,95**    |
+| **Total** | **120** | **120** | **119**    |  **119**   | **113**    | **118**     | **709** | **11,82**    |
 </div>
 
 ## **CONTRIBUCIONES EN LA FASE DE DP**
