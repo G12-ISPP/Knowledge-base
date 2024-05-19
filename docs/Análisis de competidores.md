@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 05/05/2024
+#### 21/05/2024
 
 # **ANÁLISIS DE COMPETIDORES**
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -** 
 
@@ -25,6 +25,7 @@
 | v2.0.0 | Revisión documento para sprint 2| Mera Gómez, Pablo | 29/03/2024 |
 | v2.0.1 | Revisión documento para evitar failure conditions | Campos Garrido, Juan Jesús | 21/04/2024 |
 | v2.0.2 | Revisión documento para evitar failure conditions | Campos Garrido, Juan Jesús | 05/05/2024 |
+| v3.0.0 | Revisión documento para la entrega final | Campos Garrido, Juan Jesús | 21/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**

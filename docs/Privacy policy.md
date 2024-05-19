@@ -8,7 +8,7 @@
 
 # **POLÍTICA DE PRIVACIDAD**
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -**
 

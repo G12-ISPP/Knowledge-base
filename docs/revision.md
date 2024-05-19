@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 05/05/2024
+#### 21/05/2024
 
 # **GUÍA DE REVISIÓN**
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -**
 
@@ -26,6 +26,7 @@
 | v3.0 | Nuevas funcionalidades sprint 3 | Mera Gómez, Pablo | 11/04/2024 |
 | v3.1 | Actualización de capturas tras correcciones | Campos Garrido, Juan Jesús | 18/04/2024 |
 | v3.2 | Revisión previa a la entrega del PPL | Campos Garrido, Juan Jesús | 05/05/2024 |
+| v4.0 | Revisión del documento antes de la entrega final | Campos Garrido, Juan Jesús | 21/05/2024 |
 
 </div>
 
@@ -172,7 +173,7 @@ explicaremos posteriormente:
 
     -   Contraseña: nNU\<\<9Y%
 
-- Enlace a la demo del [PPL](/video/Demo-PPL.mp4)
+- Enlace a la demo del [WPL](/video/Demo-WPL.mp4)
  (También se puede encontrar en la carpeta docs con el nombre Demo-PPL.mp4)
 
 ## **CONTENIDO 1º SPRINT**

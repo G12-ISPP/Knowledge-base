@@ -427,6 +427,13 @@ Carlos**
 ![](/img/timeEffort//TE-G-04.png)
 ![](/img/timeEffort//TE-G-05.png)
 
+## **Baquero Villena, Carlos**
+![](/img/timeEffort//TE-CB-16.png)
+![](/img/timeEffort//TE-CB-17.png)
+![](/img/timeEffort//TE-CB-18.png)
+![](/img/timeEffort//TE-CB-19.png)
+![](/img/timeEffort//TE-CB-20.png)
+
 ## **Campano Galán, Alejandro**
 ![](/img/timeEffort//TE-ACG-04.png)
 ![](/img/timeEffort//TE-ACG-05.png)

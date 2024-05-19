@@ -3,7 +3,7 @@
 
 ## **SHAR3D**
 
-#### 05/05/2024
+#### 21/05/2024
 
 # **COMMITMENT AGREEMENT**
 
@@ -16,7 +16,7 @@
 | Mera Gómez, Pablo | Reyes Alés, David | Santiago Félix, Alejandro |
 </div>
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -**
 
@@ -60,6 +60,7 @@
 | v1.7.0 | Conversión a Markdown | García Linares, Diego | 08/03/2024 |
 | v1.7.1 | Revisión para entregar en el sprint 3 | Campos Garrido, Juan Jesús | 21/04/2024 |
 | V1.7.2 | Revisión para entregar en la fase de PPL | Campos Garrido, Juan Jesús | 05/05/2024 |
+| v1.7.3 | Revisión para la entrega final | Campos Garrido, Juan Jesús | 21/05/2024 |
 </div>
 
 # **RESUMEN EJECUTIVO**

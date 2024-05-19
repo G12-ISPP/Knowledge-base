@@ -8,7 +8,7 @@
 
 # **CUSTOMER AGREEMENT**
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -**
 

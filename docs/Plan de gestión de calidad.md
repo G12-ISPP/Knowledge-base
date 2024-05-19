@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 05/05/2024
+#### 21/05/2024
 
 ## **REALIZADO POR:**
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -** 
 
@@ -26,6 +26,7 @@
 | v2.0.0 | Revisión en el sprint 2 para evitar failure conditions | Campos Garrido, Juan Jesús | 31/03/2024 |
 | v3.0.0 | Revisión en el sprint 3 para evitar failure conditions | Campos Garrido, Juan Jesús | 21/04/2024 |
 | v4.0.0 | Revisión en la fase de PPL para evitar failure conditions | Campos Garrido, Juan Jesús | 05/05/2024 |
+| v5.0.0 | Revisión del documento para la entrega final | Campos Garrido, Juan Jesús | 21/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**

@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 05/05/2024
+#### 21/05/2024
 
 # **PLAN DE GESTIÓN DE USUARIOS PILOTOS**
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -** 
 
@@ -25,6 +25,7 @@
 | v1.5 | Conversión a Markdown | García Linares, Diego | 8/03/2024 |
 | v2.0 | Revisión en el sprint 3 para evitar failure conditions | Campos Garrido, Juan Jesús | 21/04/2024 |
 | v2.1 | Revisión documento para evitar failure conditions | Campos Garrido, Juan Jesús | 05/05/2024 |
+| V3.0.0 | Revisión para entrega final | Campos Garrido, Juan Jesús | 21/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**

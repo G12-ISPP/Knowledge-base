@@ -21,3 +21,7 @@
 + [Presentación Semana 11](/pdf/Presentación-Semana-10.pdf)
 
 + [Presentación entrega PPL](/pdf/Presentación-PPL.pdf)
+
++ [Presentación Retrospectiva](/pdf/Presentación-R.pdf)
+
++ [Presentación entrega WPL](/pdf/Presentación-WPL.pdf)

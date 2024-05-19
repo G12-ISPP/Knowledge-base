@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 05/05/2024
+#### 21/05/2024
 
 # **REPORTE DE LA BASE DE CONOCIMIENTO GENERAL**
 
-### **PPL**
+### **WPL**
 
 ### **GRUPO 12**
 

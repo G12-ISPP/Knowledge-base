@@ -4,11 +4,11 @@
 
 ## **SHAR3D**
 
-#### 05/05/2024
+#### 21/05/2024
 
 # **ANÁLISIS DE COSTE**
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -** 
 
@@ -27,6 +27,7 @@
 | v3.0.0 | Versión para el sprint 3 con los costes del CM y GDPR officer | 21/04/2024 |
 | v3.1.0 | Justificación por las cotizaciones sociales | Campos Garrido, Juan Jesús | 28/04/2024 |
 | v3.1.1 | Revisión documento para evitar failure conditions | Campos Garrido, Juan Jesús | 05/05/2024 |
+| v4.0.0 | Revisión documento para entrega final | Campos Garrido, Juan Jesús | 21/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**

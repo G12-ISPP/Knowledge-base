@@ -4,9 +4,9 @@
 
 ## **SHAR3D**
 
-#### 05/05/2024
+#### 13/05/2024
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -** 
 
@@ -18,8 +18,8 @@
 | v1.0 | Añadida informaicón del primer sprint    | Carretero Díaz, Antonio, Campos Garrido, Juan Jesús, Campano Galán, Alejandro    | 04/03/2024 |
 | v2.0 | Añadida informaicón del segundo sprint    | Campos Garrido, Juan Jesús    | 31/03/2024 |
 | v3.0 | Añadida información del tercer sprint | Campos Garrido, Juan Jesús    | 15/04/2024 |
-| V4.0 | Añadida información de PLL | Campos Garrido, Juan Jesús |29/04/2024 |
-| V5.0 | Añadida información de WLL | Campano Galán, Alejandro |13/05/2024 |
+| V4.0 | Añadida información de PPL | Campos Garrido, Juan Jesús |29/04/2024 |
+| V5.0 | Añadida información de WPL | Campano Galán, Alejandro |13/05/2024 |
 </div>
 
 ### **ÍNDICE DE CONTENIDOS**
@@ -155,7 +155,7 @@ A continuación, en esta tabla se encuentra cada usuario piloto que ha probado n
 
 El reporte de clockify para todo el grupo 6 se puede ver en el siguiente enlace:
 
-[https://app.clockify.me/shared/663653e75bcb325931e2e274](https://app.clockify.me/shared/663653e75bcb325931e2e274)
+[https://app.clockify.me/shared/6642541ae993f077149a784e](https://app.clockify.me/shared/6642541ae993f077149a784e)
 
 A continuación, en esta tabla se encuentra cada usuario piloto que ha probado nuestra aplicación en la fase de PPL:
 
