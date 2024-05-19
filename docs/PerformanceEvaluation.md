@@ -792,7 +792,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He asistido a todas las clases de teoría.
 - He visto todas las píldoras teóricas que hay publicadas hasta ahora.
 - He ejercido de usuario piloto para los alumnos del grupo 6 del turno de mañana.
-- He tomado nota de todo el feedback comentado hacia cada uno de los grupos de proyecto durante este segundo sprint.
+- He tomado nota de todo el feedback comentado hacia cada uno de los grupos de proyecto durante esta fase.
 - Me he encargado de corregir la interfaz de la aplicación una vez ya están todas las funcionalidades implementadas, con el objetivo de mejorar la experiencia de los usuarios.
 - He rediseñado al completo la página de compra de planes, así como he hecho responsive dicho rediseño.
 - He rediseñado al completo la página que aparece tras haber comprado un plan, así como he hecho responsive dicho rediseño.
@@ -909,6 +909,21 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 - He participado en las sesiones de retrospectiva.
 - He contribuido en la revisión de todas las presentaciones para que cumplan con las exigencias de los profesores.
 - He contribuido en la revisión de la entrega final del sprint para que no incumpla ninguna condición de suspenso.
+
+### **Cortabarra Romero, David**
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He ejercido de usuario piloto para los alumnos del grupo 6 del turno de mañana.
+- He tomado nota de todo el feedback comentado hacia cada uno de los grupos de proyecto durante esta fase.
+- He participado en las sesiones de retrospectiva.
+- He continuado mejorando la interfaz de usuario con el objetivo de mejorar la experiencia de usuario, y aprovechando que todas las funcionalidades están ya implementadas. Además, corrigiendo múltiples bugs visuales e incidencias reportadas por los usuarios pilotos. En esta línea, he realizado lo siguiente:
+    - He corregido un bug que hacía inutilizable la cabecera en dispositivos responsive.
+    - He rediseñado la página de conversión a STL con su correspondiente adaptación a dispositivos responsive.
+    - He rediseñado las páginas de Política de Privacidad y Términos y Condiciones, con su correspondiente adaptación a dispositivos responsive.
+    - He hecho un nuevo diseño para la página de detalles de usuario y para el perfil de usuario, con su correspondiente adaptación a dispositivos responsive.
+    - He rediseñado el formulario de reporte de usuarios y productos, con su correspondiente adaptación a dispositivos responsive.
+    - He mejorado la calidad del software atendiendo a la evaluación del código realizada por SonarCloud.
+- He preparado varios posts para las diferentes redes sociales con el objetivo de anunciar la presentación del WPL, destacando la elaboración del teaser de dicha presentación.
 
 ### **Escalante Ramos, María**
 

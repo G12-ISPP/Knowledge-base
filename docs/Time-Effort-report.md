@@ -434,6 +434,10 @@ Carlos**
 ![](/img/timeEffort//TE-ACG-05.png)
 ![](/img/timeEffort//TE-ACG-06.png)
 
+## **Cortabarra Romero, David**
+![](/img/timeEffort//TE-DC-05.png)
+![](/img/timeEffort//TE-DC-06.png)
+
 ## **Escalante Ramos, María**
 ![](/img/timeEffort//TE-ME-12.png)
 ![](/img/timeEffort//TE-ME-13.png)
