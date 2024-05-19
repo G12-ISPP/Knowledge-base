@@ -149,7 +149,7 @@ Una vez tienen las distintas páginas, le proporcionaremos los datos
 indispensables para que pueda acceder a la web y probar todo lo que
 explicaremos posteriormente:
 
--   URL de la web: [[https://ispp-ppl.vercel.app/]](https://ispp-ppl.vercel.app/)
+-   URL de la web: [[https://shar3d.vercel.app/]]([https://shar3d.vercel.app/])
 
 -   Credenciales administrador:
 
