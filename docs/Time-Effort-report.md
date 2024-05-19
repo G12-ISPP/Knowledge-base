@@ -465,6 +465,11 @@ Carlos**
 ![](/img/timeEffort//TE-PMG-09.png)
 ![](/img/timeEffort//TE-PMG-08.png)
 
+
+## **Santiago Félix, Alejandro**
+![](/img/timeEffort//TE-ASF-04.png)
+![](/img/timeEffort//TE-ASF-05.png)
+
 ## **CONCLUSIONES**
 
 Intencionalmente vacío.
