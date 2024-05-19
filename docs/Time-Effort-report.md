@@ -465,6 +465,11 @@ Carlos**
 ![](/img/timeEffort//TE-PMG-09.png)
 ![](/img/timeEffort//TE-PMG-08.png)
 
+## **Reyes Alés, David**
+![](/img/timeEffort//TE-DRA-05.png)
+![](/img/timeEffort//TE-DRA-06.png)
+![](/img/timeEffort//TE-DRA-04.png)
+
 
 ## **Santiago Félix, Alejandro**
 ![](/img/timeEffort//TE-ASF-04.png)
