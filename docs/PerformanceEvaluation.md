@@ -68,20 +68,20 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 <div class="markdown-table">
 
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Weight |
-| --- | --- | --- |-----|-----|-----| --- |-------| --- |
+| --- | --- | --- |-----|-----|-----|-----|-------| --- |
 | Baquero Villena, Carlos | 10  | 10  |  10 | 10    | 10  |     | 50    | 1   |
-| Campano Galán, Alejandro | 10  | 10  | 10  | 10  |  10  |  10  | 60    | 1   |
+| Campano Galán, Alejandro | 10  | 10  | 10  | 10  |  10  | 10  | 60    | 1   |
 | Campos Garrido, Juan Jesús | 10  | 10  | 10  | 10  | 10    |     | 50    | 1   |
-| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  |  10   | 60    | 1   |
-| Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  |     |  50  | 1   |
-| Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 | 10 | 60 | 1 |
-| García Linares, Diego | 10  | 10  | 9    | 9   | 7    |  9   | 54    | 0.9   |
-| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 | 10 | 60 | 1   |
-| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 7  |  10   | 57    | 0.95  |
-| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  |  10   | 60    | 1   |
+| Carretero Díaz, Antonio | 10  | 10  | 10  |  10   | 10  | 10  | 60    | 1   |
+| Cortabarra Romero, David |  10  |  10  |  10  |  10  |  10  |     | 50    | 1   |
+| Escalante Ramos, María | 10 | 10 | 10 | 10 | 10 | 10  | 60    | 1 |
+| García Linares, Diego | 10  | 10  | 9    | 9   | 7    | 9   | 54    | 0.9   |
+| García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 | 10  | 60    | 1   |
+| Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 7  | 10  | 57    | 0.95  |
+| Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  | 10  | 60    | 1   |
 | Reyes Alés, David | 10  | 10  | 10  | 10  |  9   |     | 49    | 0.98   |
-| Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  |     | 50    | 1   |
-| **Total** | **120** | **120** | **119**    |  **119**   | **113**    |     |     11,92  | **11,95**    |
+| Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  | 10  | 60    | 1   |
+| **Total** | **120** | **120** | **119**    |  **119**   | **113**    |     | 11,92 | **11,95**    |
 </div>
 
 ## **CONTRIBUCIONES EN LA FASE DE DP**
@@ -962,6 +962,21 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
     - [Vídeo 1](https://x.com/shar3d_2024/status/1790706865417978138)
 - Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
 - He participado en las sesiones de retrospectiva.
+
+### **Santiago Félix, Alejandro**
+
+- He asistido a todas las clases de teoría.
+- He visto todas las píldoras teóricas que hay publicadas hasta ahora.
+- He sido usuario piloto para los alumnos del grupo 6 del turno de mañana.
+  - Me he encargado de subir contenido a las redes sociales, creando contenido como el siguiente:
+    - [Vídeo 1](https://www.instagram.com/reel/C60-sXSsudQ/)
+    - [Vídeo 2](https://www.instagram.com/reel/C7HOKaSsFwA/)
+    - [Vídeo 3](https://www.instagram.com/reel/C7HPeO4s1oi/)
+- Me he encargado de administrary resubir vídeos a YouTube.
+- Me he encargado de realizar el despliegue y de comprobar su correcto funcionamiento.
+- He programado parte de las solicitudes de los usuarios pilotos.
+- He participado en las sesiones de retrospectiva.
+
 
 ## **CONCLUSIONES**
 
