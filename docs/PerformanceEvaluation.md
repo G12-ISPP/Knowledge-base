@@ -79,7 +79,7 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
 | García Sánchez-Hermosilla, Alejandro | 10  | 10  |  10 | 10  | 10 | 10  | 60    | 1   |
 | Garrucho Sánchez, Úrsula | 10  | 10  | 10    | 10  | 7  | 10  | 57    | 0.95  |
 | Mera Gómez, Pablo | 10  | 10  | 10  | 10  |  10  | 10  | 60    | 1   |
-| Reyes Alés, David | 10  | 10  | 10  | 10  |  9   |     | 49    | 0.98   |
+| Reyes Alés, David | 10  | 10  | 10  | 10  |  9   |  9  | 58    | 0.97   |
 | Santiago Félix, Alejandro | 10  | 10  | 10  | 10  | 10  | 10  | 60    | 1   |
 | **Total** | **120** | **120** | **119**    |  **119**   | **113**    |     | 11,92 | **11,95**    |
 </div>
@@ -977,6 +977,15 @@ En la siguiente tabla cada alumno pondrá la evaluación del esfuerzo que ha ded
     - [Vídeo 1](https://x.com/shar3d_2024/status/1790706865417978138)
 - Me he encargado de revisar el correcto despliegue de la aplicación, así como de probar la funcionalidad de la misma.
 - He participado en las sesiones de retrospectiva.
+
+### **Reyes Alés, David**
+
+- He asistido a todas las clases teóricas.
+- He visto toadas las pildoras teóricas publicadas.
+- He sido usuario piloto de la aplicación Ciao Lavoro.
+- He sido revisor visual de la presentación.
+- He creado diseños y publicaciones para esta fase del desarrollo.
+- He participado en sesiones de retrospectiva.
 
 ### **Santiago Félix, Alejandro**
 
