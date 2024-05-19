@@ -4,16 +4,16 @@
 
 ## **SHAR3D**
 
-#### 5/05/2024
+#### 20/05/2024
 
 # **FAILURE CONDITIONS REVIEW**
 
-### **CONTROL DE VERSIONES**
 
-### **PPL**
+### **WPL**
 
 ### **- GRUPO 12 -**
 
+### **CONTROL DE VERSIONES**
 
 | **Versión** | **Descripción de los cambios** | **Autor** | **Fecha** |
 | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | v1.0 | Revisión de todas las failure conditions | Campos Garrido, Juan Jesús | 31/03/2024 |
 | v2.0 | Revisión de todas las failure conditions para el Sprint 3 | Campos Garrido, Juan Jesús | 18/04/2024 |
 | v3.0 | Revisión de todas las failure conditions para el PPL | Campos Garrido, Juan Jesús | 05/05/2024 |
+| v4.0 | Revisión de todas lsa failure conditions para el lanzamineto oficial | Campos Garrido, Juan Jesús | 16/05/2024 |
 
 Este documento tiene como finalidad revisar todas las Failure Conditions y asegurarse de que no se cumple ninguna de cara al entregable del tercer sprint. Para esto haremos un listado de todas las Failure Conditions y argumentaremos la razón por la que las incumplimos todas.
 
@@ -34,7 +35,7 @@ I-2) Failure to respond to random feedback questions regarding a task that is pa
  - Cada integrante se responsabilizará de estar preparado para responder a cualquier pregunta sobre las tareas que han realizado.
 
 I-3) Not including (and performing) an issue in your working planning for watching each theory pill shared inthe EV content. Such an issue must also be tracked with Clockify, and the name must be“watch_theory_pill_X” where X is the name of the theory pill name.
- - En este sprint se ha publicado una theory pill y se ha creado una issue para ver dicha theory pill, concretamente es la issue #449 con nombre watch_theory_pill_on market segmentation_traction_and_community_management y cada integrante se responsabiliza individualmente de verla, por lo que si alguien no la ve y suspende el entregable es su responsabilidad.
+ - Tras la fase de PPL no se ha publicado ninguna pildora teorica, por lo que en este caso, no hemos incluido ninguna issue realtiva a ver las pildoras teoricas.
 
 ### Team failure conditions:
 T-1) Failure to give notice (at the beginning of an evaluation class) that a member is absent.
@@ -63,8 +64,8 @@ T-7) Including a document in the repository as part of a deliverable without an 
 + Name(s) and surname(s) of the team members contributing to the document, indicating the typeof contribution made. Only the names of those who have contributed should be entered, with a clear indication of the type of contribution (writing, revision, etc.) which must match thecorresponding clockify entry. -> Se pueden observar quienes han trabajado en un documento viendo el control de versiones. Además, cuando alguien añade una nueva entrada a un documento antes revisa lo que ya había en el mismo.
 
 T-8) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows:
-+ FC terms review. -> Para esto en nuestro proyecto tenemos la [issue](https://github.com/G12-ISPP/ISPP/issues/446) Fc terms review que trata de rellenar este documento 
-+ Expected aspects review. -> Para esto en nuestro proyecto tenemos la [issue](https://github.com/G12-ISPP/ISPP/issues/447) Expected aspects review que trata de rellenar el documento [Expected-aspects-review](/docs/Expected-aspects-review).
++ FC terms review. -> Para esto en nuestro proyecto tenemos la [issue](https://github.com/G12-ISPP/ISPP/issues/484) Fc terms review que trata de rellenar este documento 
++ Expected aspects review. -> Para esto en nuestro proyecto tenemos la [issue](https://github.com/G12-ISPP/ISPP/issues/485) Expected aspects review que trata de rellenar el documento [Expected-aspects-review](/docs/Expected-aspects-review).
 
 T-9) Failure to make a correct delivery considering the following instructions concerning the Gitub repository:
 + Provide the GitHub repository URL. -> Se entregarán los enlaces a los repositorios de la base de conocimiento, de la landing page y del código del proyecto SHAR3D.
@@ -83,8 +84,8 @@ T-9) Failure to make a correct delivery considering the following instructions c
 7. Commitment Agreement (at least considering version, status, etc.) (commitmentAgreement.md). -> Dentro de la carpeta docs está el archivo [commitmentAgreement.md](/docs/commitmentAgreement)
 8. Pilot Users Commitment Agreement or Agreements (at least considering version, status, etc.)(pilotUsersCommitmentAgreement.md or several of them). -> Dentro de la carpeta docs está el archivo [pilotUsersCommitmentAgreement.md](/docs/pilotUsersCommitmentAgreement)
 9. Any other document or video you consider should be in md, pdf, ppt, pptx or mp4 format. -> Se incluirán otros documentos generados para anteriores entregables que han sido mejorados así como la demo de este sprint.
-+ Include a proper Tag for the delivered version of the code and documentation (e.g. 0.1 for #DPdeliverable, 1.0 for #S1 deliverable, ...).-> Se hará un despliegue con la Tag 4.0 porque estamos en la fase de PPL
-+ Perform a GitHub release linking the proper tag, which must include a zip file with all repository content. -> Incluiremos la Tag 4.0 y se subirá un zip con el contenido del repo en el momento de la release y además se generará un changelog de la base de conocimiento
++ Include a proper Tag for the delivered version of the code and documentation (e.g. 0.1 for #DPdeliverable, 1.0 for #S1 deliverable, ...).-> Se hará un despliegue con la Tag 5.0 que será la ultima versión
++ Perform a GitHub release linking the proper tag, which must include a zip file with all repository content. -> Incluiremos la Tag 5.0 y se subirá un zip con el contenido del repo en el momento de la release y además se generará un changelog de la base de conocimiento
 
 
 Starting at deliverable #S3:
@@ -113,7 +114,7 @@ T-12) Not including in the docs repository folder all information received from 
 
 T-13) -> No existe, entendemos que ha habido un error y se la han saltado sin querer o simplemente las condiciones de aquí en adelante tienen un número que no les corresponde.
 
-T-14) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows: Deployed Software review -> Los integranttes del equipo Juan Jesús Campos Garrido, Antonio Carretero Díaz y Alejandro Santiago Félix se han encargado de revisar que en el software desplegado funciona correctamente, además se probará de nuevo al grabar la demo para la presentación
+T-14) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows: Deployed Software review -> Por ser la versión final, practicamente todo el equipo se han encargado de revisar que en el software desplegado funciona correctamente, además se probará de nuevo al grabar la demo para la presentación
 
 T-15) Having text in the slides that is not readable from the back of the class. -> El encargado de revisar las presentaciones comprobará que todo el contenido es facilmente legible desde la distancia
 
